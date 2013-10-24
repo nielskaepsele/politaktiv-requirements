@@ -1,0 +1,18 @@
+!3 UseCase0nn 
+!4 Aktor:
+ * 
+!4 Stakeholder und deren Interessen:
+ * 
+!4 Vorbedingung:
+--
+!4 Normaler Ablauf:
+ * 
+!4 Alternativer Ablauf:
+ * 
+!4 Siehe auch:
+
+!4 Status und Nutzen
+>A1StatusUndNutzen
+
+!4 Abnahme Tests:
+>AbnahmeTestUseCase0nn

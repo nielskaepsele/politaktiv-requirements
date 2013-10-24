@@ -1,0 +1,7 @@
+!1 alle Requirements&Ansichten ungeordnet
+!contents -R2 -h
+
+!1 Status
+
+|Feature1                                                                                                                                             |
+|FunktionaleAnforderungen.UseCase001|!include -h FunktionaleAnforderungen.UseCase001|!include -h FunktionaleAnforderungen.UseCase001.A1StatusUndNutzen|
