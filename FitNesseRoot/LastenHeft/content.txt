@@ -1,5 +1,8 @@
-!1 Zielsetzung und Abgrenzung
-!include -seamless ZielUndAbgrenzung
+!1 Zielsetzung und Vision
+!include -seamless ZieleUndVision
+
+!1 Abgrenzungen
+!include -seamless AbGrenzung
 
 !1 Offene Fragen
 !include -seamless OffeneFragen
