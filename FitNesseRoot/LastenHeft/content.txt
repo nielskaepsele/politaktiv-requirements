@@ -15,24 +15,8 @@
 !include -seamless FunktionaleAnforderungen.UseCase001
 
 !1 Nicht funktionale Anforderungen
-!3 NichtFunktionaleAnforderungen.NonFunctional002 Internationalisierung
-!3 NichtFunktionaleAnforderungen.NonFunctional002 Lockingfreiheit
-!3 NichtFunktionaleAnforderungen.NonFunctional003 Performance
-!3 NichtFunktionaleAnforderungen.NonFunctional004 Authentifizierung
-!3 NichtFunktionaleAnforderungen.NonFunctional005 Autorisierung
-!3 NichtFunktionaleAnforderungen.NonFunctional006 Autorisierungsdimension Eigentümerschaft
-!3 NichtFunktionaleAnforderungen.NonFunctional009 Autorisierungsdimension Zugehörigkeit zu einer Organisationseinheit
-!3 NichtFunktionaleAnforderungen.NonFunctional008 Vertraulichkeit - Einstufung der Q-Checkergebnisse
-!3 NichtFunktionaleAnforderungen.NonFunctional010 Clusterfähigkeit
-!3 NichtFunktionaleAnforderungen.NonFunctional011 Verfügbarkeit - Das System entspricht der standardisierten Verfügbarkeit für "Nicht geschäftskritische Anwendungen".
-!3 NichtFunktionaleAnforderungen.NonFunctional012 Zentraler Logout
-!3 NichtFunktionaleAnforderungen.NonFunctional013 Robustheit
-!3 NichtFunktionaleAnforderungen.NonFunctional014 Codezugang im Insolvenzfall
-!3 NichtFunktionaleAnforderungen.NonFunctional015 Lizenzverträglichkeit
-!3 NichtFunktionaleAnforderungen.NonFunctional016 Support-Reaktionszeiten
 
 !1 Schnittstellen
-!3 SchnittStellen.InterFace001 System1
 
 !1 Glossar
 !include -seamless GlosSar
