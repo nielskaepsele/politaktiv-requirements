@@ -10,6 +10,9 @@
 	<RecentChanges/>
 	<Search/>
 	<Static/>
+	<Suites></Suites>
 	<Versions/>
 	<WhereUsed/>
+	<secure-test/>
+	<secure-write/>
 </properties>

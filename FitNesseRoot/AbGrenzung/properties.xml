@@ -1,12 +1,17 @@
 <?xml version="1.0"?>
 <properties>
-	<Edit>true</Edit>
-	<Files>true</Files>
+	<Edit/>
+	<Files/>
+	<Help></Help>
 	<LastModifyingUser>mje</LastModifyingUser>
-	<Properties>true</Properties>
-	<RecentChanges>true</RecentChanges>
-	<Refactor>true</Refactor>
-	<Search>true</Search>
-	<Versions>true</Versions>
-	<WhereUsed>true</WhereUsed>
+	<Properties/>
+	<RecentChanges/>
+	<Refactor/>
+	<Search/>
+	<Static/>
+	<Suites></Suites>
+	<Versions/>
+	<WhereUsed/>
+	<secure-test/>
+	<secure-write/>
 </properties>
