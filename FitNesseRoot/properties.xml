@@ -11,7 +11,6 @@
 	<Suites></Suites>
 	<Versions/>
 	<WhereUsed/>
-	<secure-read/>
 	<secure-test/>
 	<secure-write/>
 </properties>
