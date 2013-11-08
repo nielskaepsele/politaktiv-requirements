@@ -6,4 +6,4 @@
 !4 Normal Ablauf:
  ...
 !4 Status und Nutzen
->A1StatusUndNutzen
+>StaTe
