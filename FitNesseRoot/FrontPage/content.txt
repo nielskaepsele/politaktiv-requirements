@@ -4,16 +4,16 @@
 [[00 Stakeholders][StakeHolders]]
 
 !2 Requirements
-[[01 Ziele und Vision][ZieleUndVision]]
-[[02 Abgrenzung][AbGrenzung]]
-[[03 Offene Fragen][OffeneFragen]]
-[[04 Rollen und Personen][RollenUndPersonen]]
+[[01 Ziele und Vision][VisionAndPurpose]]
+[[02 Abgrenzung][ScoPe]]
+[[03 Offene Fragen][OpenQuestions]]
+[[04 Rollen und Personen][PersonAndRole]]
 [[05 Funktionale Anforderungen][FunCtional]]
 [[06 Nichtfunktionale Anforderungen][NonFunCtional]]
-[[07 Schnittstellen][SchnittStellen]]
-[[08 Entscheidungen][EntScheidungen]]
+[[07 Schnittstellen][InterFaces]]
+[[08 Entscheidungen][DeCisions]]
 [[09 Glossar][GlosSar]]
 
 !2 Lastenheft
 [[10 Todos][ToDo]]
-[[11 Lastenheft][LastenHeft]]
+[[11 Lastenheft][RequirementSpecification]]

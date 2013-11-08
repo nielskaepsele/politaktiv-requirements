@@ -1,11 +1,11 @@
 !1 Zielsetzung und Vision
-!include -seamless ZieleUndVision
+!include -seamless VisionAndPurpose
 
 !1 Abgrenzungen
-!include -seamless AbGrenzung
+!include -seamless ScoPe
 
 !1 Offene Fragen
-!include -seamless OffeneFragen
+!include -seamless OpenQuestions
 
 !1 Rollen und Personen
 !include -seamless RollenUndPersonen
