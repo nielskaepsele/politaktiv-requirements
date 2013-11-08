@@ -14,7 +14,19 @@
 !2 Thema1
 !include -seamless FunktionaleAnforderungen.UseCase001
 
+!3 FunktionaleAnforderungen.UseCase001 Stabile Referenzierbarkeit
+!3 FunktionaleAnforderungen.UseCase002 Akzeptanzkriterien zu Anforderungen
+!3 FunktionaleAnforderungen.UseCase003 Suche auf Anforderungen
+!3 Redundanzfreiheit von Anforderungen
+!4 FunktionaleAnforderungen.UseCase004 Include einer Anforderungen
+!4 FunktionaleAnforderungen.UseCase005 Include eines Anforderungenstitels
+!3 Status von Anforderungen
+!4 FunktionaleAnforderungen.UseCase006 Include eines Anforderungesstatus
+!3 FunktionaleAnforderungen.UseCase007 Export von Anforderungsdokumenten
+!3 FunktionaleAnforderungen.UseCase007 Multilinguale Anforderungen
+
 !1 Nicht funktionale Anforderungen
+!3 NichtFunktionaleAnforderungen.NonFunctional001 
 
 !1 Schnittstellen
 
