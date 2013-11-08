@@ -1,10 +1,8 @@
 <?xml version="1.0"?>
 <properties>
-	<AddChild/>
 	<Edit/>
 	<Files/>
-	<Help>Example Lastenheft</Help>
-	<LastModifyingUser>mje</LastModifyingUser>
+	<Help></Help>
 	<Properties/>
 	<RecentChanges/>
 	<Refactor/>
@@ -13,6 +11,7 @@
 	<Suites></Suites>
 	<Versions/>
 	<WhereUsed/>
+	<secure-read/>
 	<secure-test/>
 	<secure-write/>
 </properties>
