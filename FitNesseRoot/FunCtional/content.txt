@@ -4,4 +4,4 @@
 !1 Status
 
 |Feature1                                                                                                                                             |
-|FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.StaTe|
+|FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.MeTa|

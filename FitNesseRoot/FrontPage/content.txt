@@ -1,23 +1,23 @@
-!1 Lastenheft
+!1 !-DomainDrivenArchitecture-! Anforderungsmanagement 
 
-!2 Stakeholders
-[[00 Stakeholders][StakeHolders]]
+!2 Noch nicht qualifizierte Anforderungen
+[[00 Anfragen][UnqualifiedRequirements]]
 
-!2 Requirements
-[[01 Ziele und Vision][VisionAndPurpose]]
-[[02 Abgrenzung][ScoPe]]
-[[03 Offene Fragen][OpenQuestions]]
-[[04 Rollen und Personen][PersonAndRole]]
-[[05 Funktionale Anforderungen][FunCtional]]
-[[06 Nichtfunktionale Anforderungen][NonFunCtional]]
-[[07 Schnittstellen][InterFaces]]
-[[08 Entscheidungen][DeCisions]]
-[[09 Glossar][GlosSar]]
+!2 Anforderungen
+[[10 Ziele und Vision][VisionAndPurpose]]
+[[11 Abgrenzung][ScoPe]]
+[[12 Offene Fragen][OpenQuestions]]
+[[13 Stakeholder][StakeHolders]]
+[[14 Rollen und Personen][PersonAndRole]]
+[[15 Funktionale Anforderungen][FunCtional]]
+[[16 Nichtfunktionale Anforderungen][NonFunCtional]]
+[[17 Schnittstellen][InterFaces]]
+[[18 Entscheidungen][DeCisions]]
+[[19 Glossar][GlosSar]]
 
 !2 System Anforderungen
-[[10 Todos][ToDo]]
-[[11 System Anforderungen][SystemRequirementSpecification]]
+[[50 Todos][ToDo]]
+[[51 System Anforderungen][SystemRequirementsSpecification]]
 
 !2 Lastenheft für Releases
-
-[[21 Lastenheft für Release X][RequirementSpecification]]
+[[61 Lastenheft für Release X]]
