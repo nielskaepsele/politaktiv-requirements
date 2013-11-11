@@ -14,6 +14,10 @@
 [[08 Entscheidungen][DeCisions]]
 [[09 Glossar][GlosSar]]
 
-!2 Lastenheft
+!2 System Anforderungen
 [[10 Todos][ToDo]]
-[[11 Lastenheft][RequirementSpecification]]
+[[11 System Anforderungen][SystemRequirementSpecification]]
+
+!2 Lastenheft für Releases
+
+[[21 Lastenheft für Release X][RequirementSpecification]]
