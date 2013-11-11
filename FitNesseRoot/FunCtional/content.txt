@@ -4,4 +4,4 @@
 !1 Status
 
 |Feature1                                                                                                                                             |
-|FunktionaleAnforderungen.UseCase001|!include -h FunktionaleAnforderungen.UseCase001|!include -h FunktionaleAnforderungen.UseCase001.A1StatusUndNutzen|
+|FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.StaTe|
