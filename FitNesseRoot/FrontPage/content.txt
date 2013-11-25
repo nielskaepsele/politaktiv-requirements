@@ -1,7 +1,7 @@
 !1 !-DomainDrivenArchitecture-! Anforderungsmanagement 
 
 !2 Noch nicht qualifizierte Anforderungen
-[[00 Anfragen][UnqualifiedRequirements]]
+[[00 Anfragen von Stakeholdern][UnqualifiedRequirements]]
 
 !2 Anforderungen
 [[10 Ziele und Vision][VisionAndPurpose]]
@@ -17,7 +17,7 @@
 
 !2 System Anforderungen
 [[50 Todos][ToDo]]
-[[51 System Anforderungen][SystemRequirementsSpecification]]
+[[51 Alle System Anforderungen][SystemRequirementsSpecification]]
 
 !2 Lastenheft für Releases
-[[61 Lastenheft für Release X]]
+[[61 Lastenheft für Release X][ReleaseXRequirementsSpecification]]
