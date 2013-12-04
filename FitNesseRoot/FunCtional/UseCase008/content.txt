@@ -33,3 +33,4 @@
 
 !4 Abnahme Tests:
 >AbnahmeTestUseCase008
+!include -seamless >AbnahmeTestUseCase008

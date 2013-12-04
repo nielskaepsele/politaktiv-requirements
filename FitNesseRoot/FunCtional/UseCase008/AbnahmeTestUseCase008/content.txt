@@ -1,0 +1,9 @@
+|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                    |
+|Schrittnr.              |Aktion                             |Erwartetes Ergebnis|Ergebnis|
+|1                       |www.politaktiv.org aufrufen        |                   |        |
+|2                       |Prüfen: Communities sind sichtbar  |                   |        |
+|3                       |communitiy Bild klicken            |                   |        |
+|4                       |Prüfen: Community-Home wird geladen|                   |        |
+|5                       |zurück navigieren                  |                   |        |
+|6                       |community Link klicken             |                   |        |
+|7                       |Prüfen: Community-Home wird geladen|                   |        |
