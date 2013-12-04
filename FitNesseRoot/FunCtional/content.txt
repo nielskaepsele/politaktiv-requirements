@@ -3,5 +3,6 @@
 
 !1 Status
 
-|Feature1                                                                                                                                             |
-|FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.MeTa|
+|Diskussionskreis suchen                                                                       |
+|FunCtional.UseCase008|!include -h FunCtional.UseCase008|!include -h FunCtional.UseCase008.MeTa|
+

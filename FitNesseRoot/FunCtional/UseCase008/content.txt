@@ -1,0 +1,35 @@
+!3 UseCase008 Benutzer navigiert zu einem Diskussionskreis
+!4 Aktor:
+ * User / Guest
+
+!4 Stakeholder und deren Interessen:
+ * Benutzer / Gäste wollen einen Diskussionskreis finden und dann betreten.
+
+!4 Normaler Ablauf:
+ * Das System zeigt dem Benutzer die (höchstens die vom Admin maximal konfigurierte Anzahl) interessantesten Diskussionskreise (mit Bild und Name) sortiert an.
+  * Interssante Diskussionskreise sind: 
+   * im angemeldeten Fall: 
+     * die eigenen und dann 
+     * offenen Diskussionskreise (mindestens eine)
+   * sonst: 
+     * alle offenen Diskussionskreise (mindestens eine)
+  * Diskussionskreise sind nicht: Politaktiv Community (GUEST), Organisationen, persönliche Communities oder Bürgerinitiativen.
+  * sortiert bedeutet
+   * Eigene Diskussionskreise: Alphabetisch
+   * andere Diskussionskreise:
+    * alphabetisch oder
+    * nach Erstelldatum (neueste zuerst) - noch nicht implementiert.
+ * Das System zeigt dem Aktor einen Link "alle Diskussionskreise", wenn nicht alle Diskssuinskreise angezeigt werden.
+ * Der Benutzer kann 
+  * bei einem Diskussionskreis entweder auf das Bild oder den Namen klicken
+   * Das System zeigt dem Aktor die Startseite des Diskussionskreises.
+  * auf den Link "alle Diskussionskreise", klicken.
+   * Das System zeigt alle Diskussionskreise an.
+  
+!4 Siehe auch:
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests:
+>AbnahmeTestUseCase008
