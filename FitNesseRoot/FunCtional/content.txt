@@ -5,4 +5,5 @@
 
 |Diskussionskreis suchen                                                                       |
 |FunCtional.UseCase008|!include -h FunCtional.UseCase008|!include -h FunCtional.UseCase008.MeTa|
+|FunCtional.UseCase010|!include -h FunCtional.UseCase010|!include -h FunCtional.UseCase010.MeTa|
 

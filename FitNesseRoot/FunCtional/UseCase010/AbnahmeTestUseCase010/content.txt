@@ -1,0 +1,20 @@
+|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                                                                                                           |
+|Schrittnr.              |Aktion                                                                                                                    |Erwartetes Ergebnis|Ergebnis|
+|1                       |www.politaktiv.org aufrufen                                                                                               |                   |        |
+|1                       |Mit einem Admin-Benutzer anmelden                                                                                         |                   |        |
+|1                       |Prüfen: Community Select Portlet enthält die Option "Preferences"                                                         |                   |        |
+|1                       |Preferences wählen                                                                                                        |                   |        |
+|1                       |Prüfen: Dialog enthält ViewMode, Anzahl der maximal anzuzeigenden Communities, Url zu einer ausführlichen Übersichts-Seite|                   |        |
+|1                       |ViewMode *wide* wählen & ok                                                                                               |                   |        |
+|1                       |Prüfen: Das Portlet zeigt drei Tabs mit einer erweiterten Ansicht                                                         |                   |        |
+|1                       |Preferences & ViewMode *vertical* wählen & ok                                                                             |                   |        |
+|1                       |Prüfen: Das Portlet zeigt nur ein Tab mit einer kompakten Ansicht                                                         |                   |        |
+|1                       |Preferences & MaxAnzahl *all* wählen & ok                                                                                 |                   |        |
+|1                       |Prüfen: Das Portlet zeigt alle Projekte                                                                                   |                   |        |
+|1                       |Preferences & MaxAnzahl *1* wählen (Link leer) & ok                                                                       |                   |        |
+|1                       |Prüfen: Das Portlet zeigt Member Projekte und mind ein offenes Projekt                                                    |                   |        |
+|1                       |Prüfen: Das Portlet keinen Link "alle verfügbaren Projekte"                                                               |                   |        |
+|1                       |Preferences & Link mit */mein-politaktiv* befüllen & ok                                                                   |                   |        |
+|1                       |Prüfen: Das Portlet seigt jetzt den Link "alle verfügbaren Projekte"                                                      |                   |        |
+|1                       |Dem Link "alle verfügbaren Projekte" folgen                                                                               |                   |        |
+|1                       |Prüfen: Die Seite "Mein Politaktiv wird angezeigt"                                                                        |                   |        |
