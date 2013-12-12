@@ -1,3 +1,4 @@
+|UnqualifiedRequirements|mje|11:52:24 Thu, Dec 12, 2013|
 |FunCtional.UseCase010.AbnahmeTestUseCase010||22:34:42 Wed, Dec 04, 2013|
 |FunCtional.UseCase010||22:32:38 Wed, Dec 04, 2013|
 |FunCtional.UseCase010.MeTa||22:32:21 Wed, Dec 04, 2013|
