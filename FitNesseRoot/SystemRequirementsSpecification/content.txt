@@ -11,26 +11,9 @@
 !include -seamless RollenUndPersonen
 
 !1 Funktionale Anforderungen
-!2 Thema1
-!include -seamless FunCtional.UseCase001
-
-!2 FunCtional.UseCase001 Stabile Referenzierbarkeit
-
-!2 FunCtional.UseCase002 Akzeptanzkriterien zu Anforderungen
-
-!2 FunCtional.UseCase003 Suche auf Anforderungen
-
-!2 Redundanzfreiheit von Anforderungen
-!3 FunCtional.UseCase004 Include einer Anforderungen
-!3 FunCtional.UseCase005 Include eines Anforderungenstitels
-!3 FunCtional.UseCase010 Include eines Anforderungen ohne Titel
-!3 FunCtional.UseCase011 Include von Anforderungsmetadaten
-
-!2 FunCtional.UseCase007 Export von Dokumenten
-
-!2 FunCtional.UseCase008 Multilinguale Anforderungen
-
-!2 FunCtional.UseCase009 Dezentrales Arbeiten mit Anforderungen
+!2 Alle Diskussionskreise
+!include -seamless FunCtional.UseCase008
+!include -seamless FunCtional.UseCase010
 
 !1 Nicht funktionale Anforderungen
 !2 NonFunCtional.NonFunctional001 Authentifizierung für die zentrale Webapplikation
