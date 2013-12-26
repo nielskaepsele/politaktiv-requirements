@@ -3,6 +3,8 @@
 
 !1 Abgrenzungen
 !include -seamless ScoPe
+!2 Quelle
+https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
 !1 Offene Fragen
 !include -seamless OpenQuestions
