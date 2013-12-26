@@ -16,14 +16,8 @@
 !include -seamless FunCtional.UseCase010
 
 !1 Nicht funktionale Anforderungen
-!2 NonFunCtional.NonFunctional001 Authentifizierung für die zentrale Webapplikation
-
-!2 NonFunCtional.NonFunctional002 Autorisierung für die zentrale Webapplikation
-
-!2 NonFunCtional.NonFunctional003 Datenabgleich für dezentrales Arbeiten
 
 !1 Schnittstellen
-!2 InterFaces.InterFace001 Git Versionierung
 
 !1 Glossar
 !include -seamless GlosSar
