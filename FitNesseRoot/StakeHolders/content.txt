@@ -1,2 +1,19 @@
-!1 Stakeholder
+!2 Integrata-Stiftung
+Die Stiftung wird vertreten vom Vorstand der Stiftung gemäß Satzung.
 
+!2 Projektleiter Integrata-Stiftung
+Der Projektleiter von Politaktiv ist von der Stiftung mit bestimmten Rechten und Weisungsbefugnissen ausgestattet.
+
+!2 Zustifter Mörike
+Der Zustifter Mörike für den Bereich PolitAktiv in der Stiftung hat entsprechende Sonderrechte innerhalb der Stiftung.
+
+!2 Benutzer
+werden vertreten von der einen oder anderen Persona. Solange diese (noch) nicht beschrieben sind, besteht eine gewisse Verwechslungsgefahr zwischen der Rolle Benutzer und Dem Stakeholder Benutzer.
+
+!2 Anwender
+sind die Partnerfirmen, die PolitAktiv einsetzen. Dazu lassen sich auch die Moderatoren der BI zählen. Ein besonderer Anwender ist die Human IT Service gmbh, vertreten durch deren GeschäftsführerInnen.
+
+!2 Kunden
+sind zum Beispiel die Bürgermeister der Gemeinden, die PolitAktiv nutzen.
+
+!2 Weitere Stakeholder
