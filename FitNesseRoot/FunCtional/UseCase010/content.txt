@@ -1,23 +1,23 @@
-!3 UseCase010 Admin Administriert das Community Portlet
+!3 UseCase010 Administration für das Community-Portlet
 !4 Aktor
- * Administrator
+ * Admin
 
 !4 Stakeholder und deren Interessen:
- * Admin möchte das Portlet für die Startseite oder für mein Politaktiv konfigurieren
+ * Der Produktmanager möchte Politaktiv freundlich gestalten daher das Community-Portlet (z.B. für die Startseite oder für mein Politaktiv) konfigurieren
 
 !4 Normaler Ablauf
- * Admin wählt im Portlet Community Select "Preferences einstellen"
- * Admin kann die Darstellung zwischen vertical und wide umstellen
+ * Admin wählt im  Community-Portlet "Preferences einstellen"
+ * Admin kann die Darstellung zwischen ''vertical'' und ''wide'' umstellen
  * Admin kann die Anzahl der angezeigten Communities einstellen
-  * Alle anzeigen
-  * höchstens [1-10] mindestens aber alle "beigetretenen Communities" und mindestens eine "offene community"
+   * Alle anzeigen
+   * höchstens [1-10] mindestens aber alle "beigetretenen Communities" und mindestens eine "offene community"
  * Admin kann einen Link angeben, unter dem dann all Communities angezeigt werden.
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase010
+
 !include -seamless >AbnahmeTestUseCase010
