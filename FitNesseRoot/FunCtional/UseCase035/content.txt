@@ -10,6 +10,12 @@ Der Gast muss bereits registriert sein.
 
 !4 Normaler Ablauf
  * Der Gast navigiert durch die Diskussionskreise von PolitAktiv und wünscht mitdiskutieren zu können. Er weiß, dass er sich dazu anmelden muss und will sich anmelden.
+ * Er sieht oberhalb des schwarzen Balkens oben rechts zwei Felder dazu.
+ * Er trägt in das Feld Username seinen Anmeldenamen ein und in das Feld rechts daneben sein Passwort und klickt auf "Anmelden".
+ * Er wird dadurch am System engemeldet
+ * Er bekommt dieselbe Seite zu sehen, von wo aus er sich angemeldet hat.
+ * Die Felder "Username" und "Passwort" sind nicht mehr zu sehen. Statt dessen steht da sein Name, seine Rolle und der Link "Abmelden".
+ * Wenn er auf Abmelden klickt, wird er wieder abgemeldet.
 
 !4 Alternativer Ablauf
  * 

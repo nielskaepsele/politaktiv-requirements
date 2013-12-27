@@ -1,9 +1,8 @@
 !1 alle Requirements&Ansichten ungeordnet
 !contents -R2 -h
-
 !1 Status
-
-|Diskussionskreis suchen                                                                       |
-|FunCtional.UseCase008|!include -h FunCtional.UseCase008|!include -h FunCtional.UseCase008.MeTa|
-|FunCtional.UseCase010|!include -h FunCtional.UseCase010|!include -h FunCtional.UseCase010.MeTa|
-
+| Diskussionskreis suchen |
+| FunCtional.UseCase008 | !include -h FunCtional.UseCase008 | !include -h FunCtional.UseCase008.MeTa |
+| FunCtional.UseCase010 | !include -h FunCtional.UseCase010 | !include -h FunCtional.UseCase010.MeTa |
+| FunCtional.UseCase017 | !include -h FunCtional.UseCase017 | !include -h FunCtional.UseCase017.MeTa |
+| FunCtional.UseCase035 | !include -h FunCtional.UseCase035 | !include -h FunCtional.UseCase035.MeTa |

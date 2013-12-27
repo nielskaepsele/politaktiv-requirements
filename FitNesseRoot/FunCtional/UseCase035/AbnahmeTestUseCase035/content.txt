@@ -1,0 +1,5 @@
+| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| 1 | Testschritt ... | | |
+
+!contents -R2 -g -p -f -h
