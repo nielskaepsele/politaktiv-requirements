@@ -1,20 +1,28 @@
-!2 Guest
-Ein unangemeldeter Benutzer. Er wird synonym auch als '''Besucher''' oder als '''Gast''' bezeichnet.
+!2 Gast
+Ein unangemeldeter Benutzer. Er wird synonym auch als '''Besucher''' oder als '''Guest''' bezeichnet.
 
 !2 Benutzer
-Ein angemeldeter Benutzer. Er hat sich früher mal registriert und wird daher synonym auch als '''einfacher Benutzer''' bezeichnet.
+Ein angemeldeter Benutzer. Er hat sich früher mal registriert und wird daher synonym auch als '''einfacher Benutzer''' oder '''User''' bezeichnet.
 
-!2 Member
-Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er hat in einem Diskussionskreis, dem er beigetreten ist, die Rolle Member.  In Diskussionskreisen, denen er (noch) nicht beigetreten ist, hat er die Rolle einfacher Benutzer.
+Ein Benutzer darf alles, was auch ein Gast darf.
+
+!2 Mitglied
+Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er wird sysnonym auch als '''Member''' bezeichnet. Er hat in einem Diskussionskreis, dem er beigetreten ist, die Rolle Member.  In Diskussionskreisen, denen er (noch) nicht beigetreten ist, hat er die Rolle einfacher Benutzer.
+
+Ein Member darf alles, was auch ein Benutzer darf.
 
 !2 Moderator
 Ein Benutzer, dem die Rolle Moderator eines Diskussionskreises zugeordnet wurde.  Er ist in diesem Diskussionskreis Moderator.  In anderen Diskussionskreisen ist er (nur) einfacher Benutzer oder Member.
+
+Ein Moderator darf alles, was auch ein Member darf.
 
 !2 Vorläufiger Moderator
 Ein Moderator mit reduzierten Rechten. Er wird synonym auch als '''preliminary Moderator''' bezeichnet. Diese Rolle wird einem Benutzer vergeben, der einen Diskussionskreis für eine Bürgerinitiative einrichtet. Er hat diese Rolle solange, bis seine Seite  freigeschaltet wird. Danach wird er zum Moderator ernannt (oder seine Seite wird gelöscht und die Rechte werden ihm entzogen).
 
 !2 Admin
-Ein Admin daf alles. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
+Ein Admin daf alles. Wird sysnonym auch als '''Administrator''' bezeichnet.
 
-!2 Rolle1
+Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
+
+!2 Weitere Rollen
 ....
