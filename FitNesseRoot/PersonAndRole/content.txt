@@ -10,5 +10,11 @@ Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten i
 !2 Moderator
 Ein Benutzer, dem die Rolle Moderator eines Diskussionskreises zugeordnet wurde.  Er ist in diesem Diskussionskreis Moderator.  In anderen Diskussionskreisen ist er (nur) einfacher Benutzer oder Member.
 
+!2 Vorläufiger Moderator
+Ein Moderator mit reduzierten Rechten. Er wird synonym auch als '''preliminary Moderator''' bezeichnet. Diese Rolle wird einem Benutzer vergeben, der einen Diskussionskreis für eine Bürgerinitiative einrichtet. Er hat diese Rolle solange, bis seine Seite  freigeschaltet wird. Danach wird er zum Moderator ernannt (oder seine Seite wird gelöscht und die Rechte werden ihm entzogen).
+
+!2 Admin
+Ein Admin daf alles. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
+
 !2 Rolle1
 ....
