@@ -1,5 +1,6 @@
 !2 Guest
-Ein unangemeldeter Benutzer.
+Ein unangemeldeter Benutzer;
+wird auch als Besucher oder Gast bezeichnet.
 
 !2 Rolle1
 ....
