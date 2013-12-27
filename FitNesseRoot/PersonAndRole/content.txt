@@ -1,6 +1,14 @@
 !2 Guest
-Ein unangemeldeter Benutzer;
-wird auch als Besucher oder Gast bezeichnet.
+Ein unangemeldeter Benutzer. Er wird synonym auch als '''Besucher''' oder als '''Gast''' bezeichnet.
+
+!2 Benutzer
+Ein angemeldeter Benutzer. Er hat sich früher mal registriert und wird daher synonym auch als '''einfacher Benutzer''' bezeichnet.
+
+!2 Member
+Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er hat in einem Diskussionskreis, dem er beigetreten ist, die Rolle Member.  In Diskussionskreisen, denen er (noch) nicht beigetreten ist, hat er die Rolle einfacher Benutzer.
+
+!2 Moderator
+Ein Benutzer, dem die Rolle Moderator eines Diskussionskreises zugeordnet wurde.  Er ist in diesem Diskussionskreis Moderator.  In anderen Diskussionskreisen ist er (nur) einfacher Benutzer oder Member.
 
 !2 Rolle1
 ....
