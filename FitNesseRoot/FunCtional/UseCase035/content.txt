@@ -1,0 +1,24 @@
+!contents -R2 -g -p -f -h!3 UseCase035
+!4 Aktor
+ * Gast
+
+!4 Stakeholder und deren Interessen:
+ * Benutzer müssen angemeldet sein, um mitdiskutieren zu können.
+
+!4 Vorbedingung
+Der Gast muss bereits registriert sein.
+
+!4 Normaler Ablauf
+ * Der Gast navigiert durch die Diskussionskreise von PolitAktiv und wünscht mitdiskutieren zu können. Er weiß, dass er sich dazu anmelden muss und will sich anmelden.
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase035
+
+!include -seamless >AbnahmeTestUseCase035
