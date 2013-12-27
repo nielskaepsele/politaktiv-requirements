@@ -1,0 +1,24 @@
+!3 UseCase017 Diskussionskreis anlegen
+!4 Aktor
+ * Admin
+
+!4 Stakeholder und deren Interessen:
+ * Anwender hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
+
+!4 Vorbedingung
+-- keine--
+
+!4 Normaler Ablauf
+ * Admin geht in das ControlPanel und wählt dort unter "Portal" das Feld "Communities" aus.
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase017
+!include -seamless >AbnahmeTestUseCase017
+!contents -R2 -g -p -f -h
