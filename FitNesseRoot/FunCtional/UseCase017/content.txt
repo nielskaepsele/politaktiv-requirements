@@ -10,6 +10,12 @@
 
 !4 Normaler Ablauf
  * Admin geht in das ControlPanel und wählt dort unter "Portal" das Feld "Communities" aus.
+ * In Communities wählt er "hinzufügen" und bekommt eine Liste von Vorlagen angeboten.
+   * Für einen normalen Diskussionskreis wählt er "Standard-DK"
+   * Für eine BI wählt er "Standard-BI"
+ * Er vergibt den Namen, erstellt eine Beschreibung und schaltet die Propagation aus, setzt den Mitgliedschaftstyp auf "privat" und erstellt den DK.
+ * Dann testet er, ob der neue DK für unangemeldete Gäste auch dann unsichtbar ist, wenn man den URL kennt.
+   * Falls nein, muss er die Berechtigung auf allen betroffenen Seiten entsprechend abändern.
 
 !4 Alternativer Ablauf
  * 
@@ -20,5 +26,6 @@
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase017
+
 !include -seamless >AbnahmeTestUseCase017
 !contents -R2 -g -p -f -h
