@@ -1,21 +1,27 @@
-!contents -R2 -g -p -f -h!3 UseCase035
+!3 UseCase035 Benutzer anmelden
 !4 Aktor
- * Gast
+ * Gast, Benutzer
 
-!4 Stakeholder und deren Interessen:
+!4 Stakeholder
  * Benutzer müssen angemeldet sein, um mitdiskutieren zu können.
 
 !4 Vorbedingung
 Der Gast muss bereits registriert sein.
 
 !4 Normaler Ablauf
- * Der Gast navigiert durch die Diskussionskreise von PolitAktiv und wünscht mitdiskutieren zu können. Er weiß, dass er sich dazu anmelden muss und will sich anmelden.
- * Er sieht oberhalb des schwarzen Balkens oben rechts zwei Felder dazu.
- * Er trägt in das Feld Username seinen Anmeldenamen ein und in das Feld rechts daneben sein Passwort und klickt auf "Anmelden".
- * Er wird dadurch am System engemeldet
- * Er bekommt dieselbe Seite zu sehen, von wo aus er sich angemeldet hat.
- * Die Felder "Username" und "Passwort" sind nicht mehr zu sehen. Statt dessen steht da sein Name, seine Rolle und der Link "Abmelden".
- * Wenn er auf Abmelden klickt, wird er wieder abgemeldet.
+ * Der Gast navigiert durch die Diskussionskreise von PolitAktiv und wünscht mit diskutieren zu können. 
+ * Das System zeigt dem Gast an, dass er sich zu mit diskutieren anmelden und dem DK beitreten muss (nur im Forum - nicht im Form light - richtig?).
+ * Das System zeigt dem Gast oberhalb des schwarzen Balkens oben rechts zwei Felder zum Anmelden an.
+ * Der Aktor trägt in das Feld 
+   * Username seinen Anmeldenamen ein und
+   * in das Feld rechts daneben sein Passwort und klickt auf "Anmelden".
+ * Das System meldet den Gast an.
+ * Das System zeigt dem Gast (jetzt Benutzer) dieselbe Seite an, von der aus er sich angemeldet hat.
+ * Das System zeigt die Felder "Username" und "Passwort" nicht mehr an.
+ * Statt dessen zeigt das System den Name des Benutzers, seine Rolle und einen Link "Abmelden" an.
+ * Der Benutzer kann auf Abmelden klicken.
+ * Das System meldet den Benutzer ab.
+ * Das System zeigt dem Benutzer dieselbe Seite an, von der aus er sich abgemeldet hat.
 
 !4 Alternativer Ablauf
  * 
@@ -26,5 +32,4 @@ Der Gast muss bereits registriert sein.
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase035
-
 !include -seamless >AbnahmeTestUseCase035
