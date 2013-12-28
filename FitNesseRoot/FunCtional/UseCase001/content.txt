@@ -1,9 +1,0 @@
-!3 UseCase001 Sematische Beschreibung
-!4 Aktor:
- ...
-!4 Stakeholder und deren Interessen:
-...
-!4 Normal Ablauf:
- ...
-!4 Status und Nutzen
->MeTa

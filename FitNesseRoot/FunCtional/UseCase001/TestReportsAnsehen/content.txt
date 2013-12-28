@@ -1,9 +1,0 @@
-!4 Abnahme Test: Reports ansehen
-
-!5 Vorbedingung
-Tester ist nicht angemeldet
-
-!5 Test
- * Anwendung aufrufen
- * [ ] Check1
- * zwischenschritt1

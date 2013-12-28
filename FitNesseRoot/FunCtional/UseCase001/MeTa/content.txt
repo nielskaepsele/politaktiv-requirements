@@ -1,3 +1,0 @@
-|Erfasst               |Nutzen   |Entscheidungsbedarf |Umsetzungsaufwand   |
-|Erfasst: nicht genutzt|Nutzen: -|Entscheidungsbed.: -|Umsetzungsaufwand: -|
-|weil:                 |weil:    |weil:               |weil                |
