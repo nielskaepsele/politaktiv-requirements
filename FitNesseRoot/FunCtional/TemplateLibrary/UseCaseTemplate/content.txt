@@ -2,7 +2,7 @@
 !4 Aktor
  * 
 
-!4 Stakeholder und deren Interessen:
+!4 Stakeholder
  * 
 
 !4 Vorbedingung
