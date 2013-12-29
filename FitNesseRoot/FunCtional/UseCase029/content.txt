@@ -1,0 +1,23 @@
+!3 UseCase029 Registrieren
+!4 Aktor
+ * Gast
+
+!4 Stakeholder
+ * Die Stiftung legt großen Wert darauf, dass sich möglichst viele Benutzer registrieren.
+
+!4 Vorbedingung
+--
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase029
+
+!include -seamless >AbnahmeTestUseCase029
