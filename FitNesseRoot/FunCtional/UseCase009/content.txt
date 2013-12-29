@@ -1,4 +1,4 @@
-!3 UseCase009
+!3 UseCase009 Einem Diskussionskreis beitreten
 !4 Aktor
  * Benutzer, also registrierter und angemeldeter Benutzer
 
