@@ -6,12 +6,29 @@
  * Die Stiftung legt großen Wert darauf, dass sich möglichst viele Benutzer registrieren.
 
 !4 Vorbedingung
+--
+
 !4 Normaler Ablauf
- * Der Aktor navigiert lesend durch PolitAktiv und mächte mitmachen.
+ * Der Aktor navigiert lesend durch PolitAktiv und möchte mitmachen.
  * Das System zeigt ihm auf (fast) allen Seiten oben rechts die Felder Login-Name, Passowort und den Button "Anmelden" und darüber den Button "Registrieren"
  * Der Aktor drückt "Registrieren"
  * Das System zeigt ihm daraufhin die Seite "Registrieren".
- * 
+ * Im linken Teil sind Felder zum Ausfüllen; im rechten Teil ist eine Erklärung zum Ablauf der Registrierung; dort werden außerdem weitere Hilfen angeboten.
+ * Die Felder Vorname, Login-Name und Emailadresse sind erforderlich. Alle anderen sind optional.
+ * Bei den Feldern ist auch ein Mathe-Captcha, das zur Vermeidung von Missbrauch ausgefüllt sein muss, bevor die Daten vom System angenommen werden.
+ * Der Aktor füllt die Felder aus und drückt "senden"
+ * Das System schickt unmittelbar danach eine Email an die angegebene Adresse.
+ * Das System zeigt daraufhin die (normale) Anmeldeseite und eine Willkommensnachricht, in der steht, dass der Aktor in sein Postfach sehen soll. Auf der Seite ist der Login-Name bereits vorausgefüllt mit dem vorher angegebenen Login-Namen.
+ * Der Aktor öffnet sein Postfach, liest die Email und findet sein Erstpasswort.
+ * Der Aktor gibt das Erstpasswort aus der Email in das Feld PAsswort ein und drückt "Anmelden".
+ * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn auf zuzustimmen.
+ * Der Aktor drückt "Ich stimme zu"
+ * Das System zeigt ihm daraufhin eine Seite mit der Aufforderung ein neues Passwort anzugeben. Zweimal, um Tippfehler zu vermeiden.
+ * Der Aktor gibt ein neues Passwort an und drückt "Speichern".
+ * Das Systemmeldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Registrieren" gedrückt hat.
+ * Der Aktor ist nun angemeldet und kann dort fortsetzen, wo er beschlossen hat, sich zu registrieren (und sich anzumelden), um teilzunehmen.
+ * Das System zeigt ihm auf dieser Seite rechts oben oberhalb seines Namens die Aufforderung beizutreten, WENN wenn es sich um eine Seite eines Diskussionskreises oder einer BI handelt.
+ * Der Aktor kann nun beitreten, wenn er will. Siehe Requirement UseCase009.
 
 !4 Alternativer Ablauf
  * 
