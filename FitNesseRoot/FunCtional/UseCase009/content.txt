@@ -1,0 +1,25 @@
+!3 UseCase009 
+!4 Aktor
+ * Benutzer, also registrierter und angemeldeter Benutzer
+
+!4 Stakeholder
+ * 
+
+!4 Vorbedingung
+Benutzer ist mindestens einem DK noch nicht beigetreten
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase009
+!include -seamless >AbnahmeTestUseCase009
+
