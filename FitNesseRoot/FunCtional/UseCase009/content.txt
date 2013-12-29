@@ -1,25 +1,35 @@
-!3 UseCase009 
+!3 UseCase009
 !4 Aktor
  * Benutzer, also registrierter und angemeldeter Benutzer
 
 !4 Stakeholder
- * 
+ * Die Stiftung hat ein Interesse daran, dass möglichst viele Benutzer registriert und (mindestens) einem Diskussionskreis beigetreten sind.
+ * Die Anwender haben ein Interesse daran, dass möglichst viele Bürger bei einer Bürgerbeteiligung mitmachen.
+ * Die Moderatoren haben ein Interesse daran, die Diskutanten eines DK erreichen zu können.
 
 !4 Vorbedingung
-Benutzer ist mindestens einem DK noch nicht beigetreten
+Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nicht beigetreten
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor navigiert durch die Seiten von PolitAktiv und entdeckt einen DK, in dem er gerne mitdiskutieren möchte, dem er aber noch nicht beigetreten ist.
+ * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, rechts oben oberhalb der Zeile mit seinem Namen und dem Link "(abmelden)" den Link mit der Aufforderung "dem Diskussionskreis beitreten".
+ * Der Aktor klickt auf den URL "dem Diskussionskreis beitreten",
+ * Das System zeigt ihm dieselbe Seite, nun aber ohne die Aufforderung beizutreten.
+ * Der Aktor sieht rechts oben nur noch seinen Namen und den Link "(abmelden)".
 
-!4 Alternativer Ablauf
- * 
+!4 Alternativer Ablauf 1
+ * Der Aktor navigiert auf eine Seite, auf der das Community-Portlets angezeigt wird, und wählt dort einen Tab aus: entweder "Offene Diskussionskreise" oder "Beschränkte Diskussionskreise"
+ * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Beitreten" oder den Link "Aufgeben".
+ * Der Aktor klickt auf den Link "Beitreten" eines Diskussionskreises, dem er bisher noch nicht beigetreten ist.
+ * Das System zeigt dieselbe Liste und hinter dem Diskussionskreis, dem der Aktor soeben beigetreten ist, nun aber den Link "Aufgeben".
+ * Der Aktor klickt auf den Tab "Meine Diskussionskreise".
+ * Das System zeigt ihm eine Liste aller Diskussionskreise, denen er schon beigetreten ist. Darunter befindet sich auch der Diskussionskreis, dem er soeben beigetreten ist.
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase009
-!include -seamless >AbnahmeTestUseCase009
 
+!include -seamless >AbnahmeTestUseCase009
