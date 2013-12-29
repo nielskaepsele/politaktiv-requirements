@@ -2,7 +2,8 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>|Erfasst: -                                                   |Nutzen: -           |Entscheidungsbed.: -|Umsetzungsaufwand: -|</Help>
+	<Help>|!-ReqSt-!: -                                             |!-UmSta-!: -                            |Nutzen: -           |Entscheidungsbed.: -|Umsetzungsaufwand: -|</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
