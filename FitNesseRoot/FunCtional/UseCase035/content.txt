@@ -1,4 +1,4 @@
-!3 UseCase035 Benutzer an- und abmelden
+!3 UseCase035 An- und abmelden
 !4 Aktor
  * Gast, Benutzer
 
@@ -18,13 +18,12 @@ Der Aktor muss bereits registriert sein, darf aber noch nicht angemeldet sein. E
  * Das System meldet den Gast an. Er wechselt dadurch die Rolle und ist ab sofort in der Rolle Benutzer.
  * Das System zeigt dem Aktor (jetzt Benutzer) dieselbe Seite an, von der aus er sich angemeldet hat.
  * Das System zeigt die Felder "Username" und "Passwort" nicht mehr an. Statt dessen zeigt das System den Name des Benutzers, seine Rolle und einen Link "Abmelden" an.
- * Der Benutzer kann auf Abmelden klicken.
+ * -
+ * Der Benutzer kann jederzeit auf Abmelden klicken.
  * Das System meldet den Benutzer ab.
  * Das System zeigt dem Benutzer dieselbe Seite an, von der aus er sich abgemeldet hat. AUsnahme: Diese Seite soll für einen Gast nicht sichtbar sein. Dann zeigt das System eine Fehlermedung an.
 
 !4 Alternativer Ablauf
-und dem DK beitreten
-
 !4 Siehe auch
 !4 Meta
 >MeTa

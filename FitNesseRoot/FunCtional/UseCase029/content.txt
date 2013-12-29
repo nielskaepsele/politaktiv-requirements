@@ -4,9 +4,10 @@
 
 !4 Stakeholder
  * Die Stiftung legt großen Wert darauf, dass sich möglichst viele Benutzer registrieren.
+ * Bürger möchten sich an Bürgerbeteiligungen in PolitAktiv beteiligen.
 
 !4 Vorbedingung
---
+Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
 
 !4 Normaler Ablauf
  * Der Aktor navigiert lesend durch PolitAktiv und möchte mitmachen.
