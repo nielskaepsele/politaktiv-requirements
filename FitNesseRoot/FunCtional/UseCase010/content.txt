@@ -1,4 +1,4 @@
-!3 UseCase010 Administration für das Community-Portlet
+!3 UseCase010 Administration des Community-Portlets
 !4 Aktor
  * Admin
 
