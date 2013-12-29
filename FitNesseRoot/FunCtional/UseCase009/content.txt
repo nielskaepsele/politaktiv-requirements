@@ -26,6 +26,13 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
  * Das System zeigt ihm eine Liste aller Diskussionskreise, denen er schon beigetreten ist. Darunter befindet sich auch der Diskussionskreis, dem er soeben beigetreten ist.
 
 !4 Ablauf DK verlassen
+ * Der Aktor möchte den Diskussionskreis verlassen.
+ * Das System macht es ihm nicht leicht (ist so gewollt).
+ * Der Aktor findet die Möglichkeit auf der Seite mit dem Community-Portlet in der breiten Version unter "meine Projekte"
+ * Das System zeigt auf allen drei Tabs die Diskussiosnkreise so an, dass dahinter entweder "beitreten" oder "verlassen" steht.
+ * Der Aktor klickt bei dem Diskussionskreis, den er verlassen möchte, auf "verlassen".
+ * Das System zeigt dieselbe Liste, nun aber so, dass dahinter wieder "beitreten" steht.
+
 !4 Siehe auch
 !4 Meta
 >MeTa
