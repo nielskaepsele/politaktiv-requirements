@@ -1,0 +1,24 @@
+!3 UseCase030 Eigene Daten pflegen
+!4 Aktor
+ * 
+
+!4 Stakeholder
+ * Der Benutzer hat ein Interesse, seine Daten selbst pflegen zu können
+
+!4 Vorbedingung
+Der Benutzer muss angemeldet sein
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase030
+!include -seamless >AbnahmeTestUseCase030
