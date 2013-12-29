@@ -6,8 +6,11 @@
  * Die Stiftung legt großen Wert darauf, dass sich möglichst viele Benutzer registrieren.
 
 !4 Vorbedingung
---
 !4 Normaler Ablauf
+ * Der Aktor navigiert lesend durch PolitAktiv und mächte mitmachen.
+ * Das System zeigt ihm auf (fast) allen Seiten oben rechts die Felder Login-Name, Passowort und den Button "Anmelden" und darüber den Button "Registrieren"
+ * Der Aktor drückt "Registrieren"
+ * Das System zeigt ihm daraufhin die Seite "Registrieren".
  * 
 
 !4 Alternativer Ablauf
