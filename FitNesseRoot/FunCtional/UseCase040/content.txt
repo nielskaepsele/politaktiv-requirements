@@ -1,25 +1,31 @@
-!3 UseCase040 
+!3 UseCase040
 !4 Aktor
- * 
+ * Admin
 
 !4 Stakeholder
- * 
+ * Benutzer, die sich registrieren wollen
+ * Die Integrata-Stiftung, die eine möglichst einfache Bedienung ermöglichen will.
 
 !4 Vorbedingung
---
+Admin sollte sich in Liferay auskennen.
 
 !4 Normaler Ablauf
- * 
+ * Aktor ruft ControlPanel auf und wechselt dort in die Community "Global".
+ * Aktor wählt unter dem Menüpunkt "Webcontent" den Inhalt "REGISTRATION DESCRIPTION" aus.
+ * Aktor wählt alternativ den Inhalt "LOGIN DESCRIPTION" aus. Beachte: die Filenamen müssen in UpperCase geschrieben sein.
+ * Durch Klick auf den Filenamen oder durch Anklicken der entsprechenden Aktion kann er den Inhalt ändern.
+ * Das System zeigt den Editor mitsamt dem Inhalt der entsprechenden Hilfe.
+ * Der Aktor redigiert und klickt auf "Speichern".
+ * Das System übernimmt die Änderungen und zeigt jedem sich neu registrierenden oder sich anmeldenen Benutzer den redigierten Inhalt.
 
 !4 Alternativer Ablauf
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase040
-!include -seamless >AbnahmeTestUseCase040
 
+!include -seamless >AbnahmeTestUseCase040
