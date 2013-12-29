@@ -6,23 +6,27 @@
  * Anwender hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
 
 !4 Vorbedingung
--- keine--
+Der Aktpr hat mehrere Browser zur Verfügung.
 
 !4 Normaler Ablauf
- * Der Admin geht in das ControlPanel und wählt dort unter "Portal" das Feld "Communities" aus.
- * In Communities wählt er "hinzufügen".
- * Das System zeigt dem Admin eine Liste von Vorlagen an.
- * Der Admin wählt eine Vorlage aus.
+ * Der Aktor ruft das ControlPanel auf.
+ * Der Aktor wählt unter "Portal" das Feld "Communities" aus.
+ * Das System zeigt ein Menü mit der Liste aller bestehenden Communities. 
+ * Der Aktor wählt "hinzufügen".
+ * Das System zeigt eine Liste von Vorlagen (Templates) an.
+ * Der Aktor wählt eine Vorlage aus.
    * Für einen normalen Diskussionskreis wählt er "Standard-DK"
    * Für eine BI wählt er "Standard-BI"
- * Der Admin 
-   * vergibt den Namen, 
-   * erstellt eine Beschreibung, 
-   * schaltet die Propagation aus, 
-   * setzt den Mitgliedschaftstyp auf "privat" und 
-   * erstellt den DK.
- * Der Admin testet, ob der neue DK für unangemeldete Gäste auch dann unsichtbar ist, wenn man die URL kennt.
-   * Falls nein, muss er die Berechtigung auf allen betroffenen Seiten entsprechend abändern.
+ * Der Aktor
+   * vergibt den Namen,
+   * erstellt eine Beschreibung,
+   * vergibt die friendly URL,
+   * schaltet die Propagation aus,
+   * setzt den Mitgliedschaftstyp auf "privat" und
+   * erstellt den DK, indem er "Speichern" klickt.
+ * Der Aktor geht in einen anderen Browser, in dem er in PolitAktiv nicht angemeldet ist, und ruft die neue friendly URL auf.
+ * Das System fordert ihn auf, sich einzuloggen, ohne ihm die neue Seite anzuzeigen.
+   * Falls dennoch die neue Seite angezeigt wird, muss der Aktor die Berechtigung auf allen betroffenen Seiten so abändern, dass sie nicht mehr für Gäste sichtbar ist. Dieser Vorgang gehört nicht zum UseCase017, sondern wird getrennt bei den Rechten beschrieben.
 
 !4 Alternativer Ablauf
  * 
@@ -33,4 +37,5 @@
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase017
+
 !include -seamless >AbnahmeTestUseCase017
