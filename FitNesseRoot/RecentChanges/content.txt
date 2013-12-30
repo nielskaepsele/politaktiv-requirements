@@ -1,4 +1,5 @@
-|VisionAndPurpose|mom|11:39:37 Mon, Dec 30, 2013|
+|PolitAktiv|mom|11:47:29 Mon, Dec 30, 2013|
+|VisionAndPurpose|mom|11:45:58 Mon, Dec 30, 2013|
 |PersonAndRole|mom|11:37:41 Mon, Dec 30, 2013|
 |StakeHolders|mom|11:32:50 Mon, Dec 30, 2013|
 |FunCtional.UseCase040.AbnahmeTestUseCase040|mom|22:12:50 Sun, Dec 29, 2013|
