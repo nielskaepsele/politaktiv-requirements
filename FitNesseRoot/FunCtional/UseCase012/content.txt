@@ -1,24 +1,27 @@
-!3 UseCase012 
+!3 UseCase012
 !4 Aktor
  * Gast
 
 !4 Stakeholder
- * 
+ * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche Kriterien die Bürger für sehr wichtig und welche anderen eher für weniger wichtig halten. Dasselbe gilt für Ziele anstelle von Kriterien.
 
 !4 Vorbedingung
---
+Das Portlet PolitAktiv-Meinungsbild ist in einem Diskussionskreis eingebaut, vom Moderator konfiguriert und bereits von Mitgliedern benutzt worden.
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor navigiertauf eine Seite, auf der das Portlet Meinungsbild angezeigt wird.
+ * Das System zeigt ihm die noch zusammengeklappte Kriterienliste des PolitAktiv-Meinungsbildes. Es zeigt für jede Gruppe von Kriterien die Summe der bisher dafür von den Mitgliedern des DK vergebenen Punkte.
+ * Der Aktor kann auf das "+"-Zeichen einer Gruppe klicken.
+ * Das System zeigt ihm daraufhin die in dieser Gruppe vorhandenen Kriterien mit den jeweils dafür vergebenen Punkten.
 
 !4 Alternativer Ablauf
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase012
+
 !include -seamless >AbnahmeTestUseCase012
