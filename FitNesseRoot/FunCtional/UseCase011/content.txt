@@ -1,25 +1,28 @@
-!3 UseCase011 
+!3 UseCase011
 !4 Aktor
- * 
+ * Moderator
 
 !4 Stakeholder
- * 
+ * Kunden, Interessenten, Bürger, die Stiftung und einfach alle wollen, dass der Dialog zwischen Bürger untereinander gestärkt wird. Dazu sind wiederholte, auffordernde Emails an die Benutzer zwingend erforderlich, weil die soziale Natur des Menschen es so verlangt.
 
 !4 Vorbedingung
---
-
+----
 !4 Normaler Ablauf
- * 
+ * Der Aktor ist zum Forum navigiert und möchte einen Beitragsautor im Forum auffordern, das eine oder andere Argument weiter zu vertiefen und ihm dazu eine Mail schreiben.
+ * Er klickt dazu auf den Autor des Forumbeitrages
+ * Das System zeigt ihm eine Maske mit dessen Daten, in dem auch ein Feld mit seiner Email-Adresse steht.
+ * Der Aktor klickt auf das Feld mit der Email-Adresse.
+ * Das System übergibt sie an das im Browser als Standard-Email-System eingestellte Mailsystem, z.B. also Outlook.
+ * der Aktor schreibt nun in Outlook eine Email
 
 !4 Alternativer Ablauf
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase011
-!include -seamless >AbnahmeTestUseCase011
 
+!include -seamless >AbnahmeTestUseCase011
