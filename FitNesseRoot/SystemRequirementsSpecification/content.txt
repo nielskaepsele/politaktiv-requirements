@@ -10,7 +10,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless OpenQuestions
 
 !1 Rollen und Personen
-!include -seamless RollenUndPersonen
+!include -seamless PersonAndRole
 
 !1 Funktionale Anforderungen
 !2 Alle Diskussionskreise
