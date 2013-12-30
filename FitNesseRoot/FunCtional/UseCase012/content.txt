@@ -9,10 +9,11 @@
 Das Portlet PolitAktiv-Meinungsbild ist in einem Diskussionskreis eingebaut, vom Moderator konfiguriert und bereits von Mitgliedern benutzt worden.
 
 !4 Normaler Ablauf
- * Der Aktor navigiertauf eine Seite, auf der das Portlet Meinungsbild angezeigt wird.
+ * Der Aktor navigiertauf eine Seite, auf der das Portlet PolitAktiv-Meinungsbild angezeigt wird.
  * Das System zeigt ihm die noch zusammengeklappte Kriterienliste des PolitAktiv-Meinungsbildes. Es zeigt für jede Gruppe von Kriterien die Summe der bisher dafür von den Mitgliedern des DK vergebenen Punkte.
  * Der Aktor kann auf das "+"-Zeichen einer Gruppe klicken.
- * Das System zeigt ihm daraufhin die in dieser Gruppe vorhandenen Kriterien mit den jeweils dafür vergebenen Punkten.
+ * Das System zeigt ihm daraufhin (zusätzlich zu den bereits in der Übersicht vorhandenen Gruppen mit deren aufsummierten Punkten) die in dieser Gruppe vorhandenen Kriterien mit den jeweils dafür vergebenen Punkten.
+ * Das Portlet PolitAktiv-Meinungsbild zeigt unterhalb der Überschrift eine kurze Erläuterung zur Bedienung.
 
 !4 Alternativer Ablauf
  * 
