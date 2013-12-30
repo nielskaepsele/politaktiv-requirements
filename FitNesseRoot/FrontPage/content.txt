@@ -8,7 +8,7 @@
 [[11 Abgrenzung][ScoPe]]
 [[12 Offene Fragen][OpenQuestions]]
 [[13 Stakeholder][StakeHolders]]
-[[14 Prozesse][ProZesse]]
+[[14 Prozesse][ProCess]]
 [[15 Rollen und Personen][PersonAndRole]]
 [[16 Funktionale Anforderungen][FunCtional]]
 [[17 Nichtfunktionale Anforderungen][NonFunCtional]]
