@@ -1,0 +1,24 @@
+!3 UseCase013
+!4 Aktor
+ * Mitglied
+
+!4 Stakeholder
+ * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche  Kriterien die Bürger für sehr wichtig und welche anderen eher für  weniger wichtig halten. Dasselbe gilt für Ziele anstelle von Kriterien.
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase013
+
+!include -seamless >AbnahmeTestUseCase013
