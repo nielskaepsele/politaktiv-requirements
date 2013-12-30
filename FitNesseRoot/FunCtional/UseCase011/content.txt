@@ -16,9 +16,21 @@
  * der Aktor schreibt nun in Outlook eine Email
 
 !4 Alternativer Ablauf
- * 
+ * Der Aktor möchte einem Mitglied eine Mail schicken und navigiert dazu zum Portlet "PolitAktiv Community Newsletter", das unter Moderator im DK eingestellt sein sollte.
+ * Dort sucht er nach dem Mitglied und klickt aufdessen Eamil-Adresse.
+ * Das System übergibt sie an das im Browser als Standard-Email-System eingestellte Mailsystem, z.B. also Outlook.
+ * Der Aktor schreibt nun in Outlook eine Email.
 
 !4 Siehe auch
+
+!4 Detailanforderungen
+ * die versandte Nachricht muss eine Signatur haben, die der Plattformadmin editieren kann.
+ * Die Signatur soll darin automatisch als Absender den Moderator der Community oder den Plattformadmin nennen.
+ * die versandte Nachricht muss einen Absender haben, dem man antworten kann.
+ * die Absenderadresse sollte sein: moderator.community@politaktiv.org oder admin@politaktiv.org
+ * dies muss eben vorläufig vorher manuell so eingestellt werden und gehört zur korrekten Installation eines Moderators
+
+
 !4 Meta
 >MeTa
 
