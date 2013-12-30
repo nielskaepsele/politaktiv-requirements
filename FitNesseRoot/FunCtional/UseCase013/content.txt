@@ -4,15 +4,35 @@
 
 !4 Stakeholder
  * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche  Kriterien die Bürger für sehr wichtig und welche anderen eher für  weniger wichtig halten. Dasselbe gilt für Ziele anstelle von Kriterien.
+ * Die Mitglieder möchten ihre Bewertung jederzeit ändern können.
 
 !4 Vorbedingung
---
+Das Portlet PolitAktiv-Meinungsbild ist in dem Diskussionskreis eingebaut und vom Moderator konfiguriert, in dem der Benutzer Mitglied ist.
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor möchte seine persönliche Bewertung für die vom Moderator vorgeschlagenen Kriterien abgeben.
+ * Das System zeigt ihm das PolitAktiv-Meinungsbild zunächst in zugeklapptem Zustand.
+ * Der Aktor liest die Anleitung und klappt eine Kriterien-Gruppe oder alle Gruppen auf.
+ * Der Aktor bewegt die Maus auf ein Kriterium,
+ * Das System vergrößert dieses Kriterium und zeigt so an, für welches nun Punkte vergeben werden können.
+ * Der Aktor klickt auf "+" oder "-" bis die von ihm gewünschte Anzahl von Punkten erreicht ist.
+ * Das System zeigt ihm dabei jeweils an, wieviel Punkte der Aktor einem Kriterium vergeben möchte.
+ * Der Aktor wiederholt dies für jedes Kriterium, dem er Punkte vergeben möchte.
+ * Am Schluss klickt der Aktor auf "Gesamtpunkte aktualisieren".
+ * Das System berechnet nun aktuell die jeweilige Gesamtunktezahl für jedes Kriterium und für jede Gruppe einschließlich der neuen Punkte des Aktors.
 
-!4 Alternativer Ablauf
- * 
+!4 Alternativer Ablauf: Bewertung ändern
+ * Der Aktor möchte seine persönliche Bewertung für die Kriterien ändern.
+ * Er navigiert zur Seite, auf der das PolitAktiv-Meinungsbild dargestellt wird.
+ * Das System zeigt ihm das PolitAktiv-Meinungsbild zunächst in zugeklapptem Zustand.
+ * Der Aktor klappt eine Kriterien-Gruppe oder alle Gruppen auf.
+ * Das System zeigt dem Aktor, wieviele Punkte er bei seinem letzten Besuch den jeweiligen Kriterien vergeben hat.
+ * Der Aktor bewegt die Maus auf ein Kriterium,
+ * Das System vergrößert dieses Kriterium und zeigt so an, für welches nun Punkte verändert werden können.
+ * Der Aktor klickt auf "+" oder "-" bis die von ihm nun neu gewünschte Anzahl von Punkten erreicht ist.
+ * Der Aktor wiederholt dies für jedes Kriterium, bei dem er Punkte verändern möchte.
+ * Am Schluss klickt der Aktor auf "Gesamtpunkte aktualisieren".
+ * Das  System berechnet nun aktuell die jeweilige Gesamtunktezahl für jedes  Kriterium und für jede Gruppe einschließlich der neu zugeordneten Punkte des  Aktors.
 
 !4 Siehe auch
 !4 Meta
