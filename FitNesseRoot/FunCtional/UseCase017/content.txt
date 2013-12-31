@@ -6,12 +6,12 @@
  * Anwender hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
 
 !4 Vorbedingung
-Der Aktpr hat mehrere Browser zur Verfügung.
+Der Aktor hat mehrere Browser zur Verfügung.
 
 !4 Normaler Ablauf
  * Der Aktor ruft das ControlPanel auf.
  * Der Aktor wählt unter "Portal" das Feld "Communities" aus.
- * Das System zeigt ein Menü mit der Liste aller bestehenden Communities. 
+ * Das System zeigt ein Menü mit der Liste aller bestehenden Communities.
  * Der Aktor wählt "hinzufügen".
  * Das System zeigt eine Liste von Vorlagen (Templates) an.
  * Der Aktor wählt eine Vorlage aus.

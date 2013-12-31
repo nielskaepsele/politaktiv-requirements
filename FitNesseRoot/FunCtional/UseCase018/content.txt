@@ -1,0 +1,24 @@
+!3 UseCase018
+!4 Aktor
+ * Admin
+
+!4 Stakeholder
+ * Der Anwender möchte einen Diskussionskreis, der von Beginn an der Veröffentlichung bereits ordentlich gefüllt / ersteingerichtet aussieht.
+
+!4 Vorbedingung
+Der Diskussionskreis ist eingerichtet und hat seine Erstbefüllung bekommen
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase018
+
+!include -seamless >AbnahmeTestUseCase018
