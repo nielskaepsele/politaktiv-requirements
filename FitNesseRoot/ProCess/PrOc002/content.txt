@@ -5,10 +5,13 @@
 !4 Stakeholder
  * Stiftung
 
-!4 Vorbedingung
+!4 Anstoss (Trigger)
 --
 
-!4 Normaler Ablauf
+!4 Teilaufgaben
+ *
+
+!4 Normaler Verlauf
  * 
 
 !4 Varianten

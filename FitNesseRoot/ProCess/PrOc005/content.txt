@@ -1,7 +1,6 @@
-!3 PrOc004 Benutzer wird Mitglied in einer BI
-
+!3 PrOc005 Diskussionskreis erstbefüllen
 !4 Owner
- * 
+ * Partner
 
 !4 Stakeholder
  * 
@@ -20,3 +19,4 @@
 
 !4 Siehe auch
  *
+
