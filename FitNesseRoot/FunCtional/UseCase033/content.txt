@@ -1,25 +1,33 @@
-!3 UseCase033 
+!3 UseCase033
 !4 Aktor
- * 
+ * Gast
+ * Benutzer
 
 !4 Stakeholder
  * 
 
 !4 Vorbedingung
---
-
 !4 Normaler Ablauf
- * 
+ * Der Aktor möchte sich über die verfügbaren Diskussionskreise informieren und navigiert zur Seite "Alle Diskussionskreise"
+ * Das System zeigt ihm je nach Rolle zwei oder drei Listen von Diskussionskreisen an, die in Tabs dargestellt werden:
+   * Jeder Gast sieht den Tab "Alle offenen Diskussionskreise"
+   * Jeder Gast sieht außerdem den Tab "Alle beschränkten Diskussionskreise"
+   * Ein Benutzer sieht zusätzlich den Tab "Meine Diskussionskreise"
+   * Der Aktor kann zwischen den Tabs hin- und herschalten
+   * 
+ * Das System zeigt die Diskussionskreise innerhalb der Tabs in alphabetischer Reihenfolge
+ * Das System zeigt außerdem ein Eingabefeld und dahinter einen Button "Suchen"
+ * Der Aktor
 
 !4 Alternativer Ablauf
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase033
+
 !include -seamless >AbnahmeTestUseCase033
 !contents -R2 -g -p -f -h
