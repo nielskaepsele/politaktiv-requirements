@@ -1,4 +1,5 @@
-!3 PrOc002 Diskussionskreis einrichten
+!3 PrOc002 Neuen Diskussionskreis starten
+
 !4 Owner
  * Partner
 
@@ -6,10 +7,8 @@
  * Stiftung
 
 !4 Anstoss (Trigger)
---
-
 !4 Teilaufgaben
- *
+*
 
 !4 Normaler Verlauf
  * 
@@ -18,4 +17,4 @@
  * 
 
 !4 Siehe auch
- *
+*
