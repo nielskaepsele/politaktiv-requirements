@@ -1,9 +1,9 @@
-!3 PrOc001 Muster
+!3 PrOc001 Diskussionskreis einrichten
 !4 Owner
- * 
+ * Partner
 
 !4 Stakeholder
- * 
+ * Stiftung
 
 !4 Vorbedingung
 --
