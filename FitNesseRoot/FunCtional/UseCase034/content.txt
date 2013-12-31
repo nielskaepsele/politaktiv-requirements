@@ -1,24 +1,32 @@
-!3 UseCase034 
+!3 UseCase034
 !4 Aktor
  * Gast
+ * Benutzer
+ * Designer
 
 !4 Stakeholder
- * Stiftung
+ * Gäste möchten die neusten öffentlichen Projekte auf der Startseite sehen
+ * Benutzer möchten ihre eigenen Projekte und die neuesten öffentlichen Projekte auf der Startseite sehen
 
 !4 Vorbedingung
---
+!4 Normaler Ablauf für den Gast
+ * Der Aktor navigiert auf die Startseite, auf der das PolitAktiv-Community-Portlet dargestellt ist in der schmalen Version
+ * Das System zeigt ihm die neuesten Diskussionskreise in umgekehrter zeitlicher Reihenfolge, also den neuesten oben.
+ * Die Diskussionskreise sind durch ihr Icon und ihren Namen dargestellt und mit einem URL hinterlegt, der direkt zur Landingpage des DK führt.
 
-!4 Normaler Ablauf
- * 
+!4 Normaler Ablauf für den Benutzer
+ * Der Aktor navigiert auf die Startseite, auf der das PolitAktiv-Community-Portlet dargestellt ist in der schmalen Version
+ * Das System zeigt ihm die neuesten Diskussionskreise in umgekehrter zeitlicher Reihenfolge, also den neuesten oben.
+ * Die Diskussionskreise sind durch ihr Icon und ihren Namen dargestellt und mit einem URL hinterlegt, der direkt zur Landingpage des DK führt.
 
-!4 Alternativer Ablauf
+!4 Alternativer Ablauf für den Designer
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase034
+
 !include -seamless >AbnahmeTestUseCase034
