@@ -1,0 +1,18 @@
+!3 PrOc001 Muster
+!4 Owner
+ * 
+
+!4 Stakeholder
+ * 
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * 
+
+!4 Varianten
+ * 
+
+!4 Siehe auch
+ *

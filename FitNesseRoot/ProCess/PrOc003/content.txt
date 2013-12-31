@@ -1,0 +1,18 @@
+!3 PrOc003 BI einrichten
+!4 Owner
+ * Stiftung
+
+!4 Stakeholder
+ * Stiftung
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * 
+
+!4 Varianten
+ * 
+
+!4 Siehe auch
+ *
