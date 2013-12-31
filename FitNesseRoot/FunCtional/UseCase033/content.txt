@@ -19,6 +19,7 @@
  * Das System zeigt außerdem ein Eingabefeld und dahinter einen Button "Suchen"
  * Der Aktor trägt in das Suchfeld einen String ein und klickt auf "Suchen"
  * Das System zeigt ihm nun innerhalb des jeweiligen Tabs alle Diskussionskreise, die in ihrem Namen an irgendeiner Position den angegebenen String enthalten.
+ * Wenn der Aktor das Suchfeld löscht (leert), zeigt das System wieder die vollständige Liste an.
 
 !4 Alternativer Ablauf
  * Der Aktor möchte sich über die verfügbaren Diskussionskreise in seiner Nähe informieren und navigiert zur Seite "Alle Diskussionskreise"
