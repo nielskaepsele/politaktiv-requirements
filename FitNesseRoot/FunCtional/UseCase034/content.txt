@@ -1,0 +1,24 @@
+!3 UseCase034 
+!4 Aktor
+ * Gast
+
+!4 Stakeholder
+ * Stiftung
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase034
+!include -seamless >AbnahmeTestUseCase034
