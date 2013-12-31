@@ -14,10 +14,17 @@ Ein Member darf alles, was auch ein Benutzer darf.
 !2 Moderator
 Ein Benutzer, dem die Rolle Moderator eines Diskussionskreises zugeordnet wurde.  Er ist in diesem Diskussionskreis Moderator.  In anderen Diskussionskreisen ist er (nur) einfacher Benutzer oder Mitglied.
 
+Ein Moderator darf nicht einen Diskussiosnkreis neu einrichten. Dies ist Partnern und Admins vorbehalten. Ein Moderator darf einen Benutzer zum Moderator ernennen in dem Diskussionskreis, in der er selbst Moderator ist.
+
 Ein Moderator darf alles, was auch ein Mitglied darf.
 
 !2 Vorläufiger Moderator
 Ein Moderator mit reduzierten Rechten. Er wird synonym auch als '''preliminary Moderator''' bezeichnet. Diese Rolle wird einem Benutzer vergeben, der einen Diskussionskreis für eine Bürgerinitiative einrichtet. Er hat diese Rolle solange, bis seine Seite  freigeschaltet wird. Danach wird er zum Moderator ernannt (oder seine Seite wird gelöscht und die Rechte werden ihm entzogen).
+
+!2 Partner
+Ein Partner darf Diskussionskreise neu einrichten. Er wird dadruch zum Owner eines Diskussionskreises und darf dort alles, was auch ein Moderator dort darf. Insbesondere darf er einen Benutzer zum Mpderator in dem Diskussionskreis ernennen, in dem er Owner ist.
+
+Ein Partner darf damit im prinzip alles, was auch ein Moderator darf.
 
 !2 Admin
 Ein Admin daf alles. Wird sysnonym auch als '''Administrator''' bezeichnet. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
