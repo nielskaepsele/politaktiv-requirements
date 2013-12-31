@@ -14,13 +14,20 @@
    * Jeder Gast sieht außerdem den Tab "Alle beschränkten Diskussionskreise"
    * Ein Benutzer sieht zusätzlich den Tab "Meine Diskussionskreise"
    * Der Aktor kann zwischen den Tabs hin- und herschalten
-   * 
- * Das System zeigt die Diskussionskreise innerhalb der Tabs in alphabetischer Reihenfolge
+   * Das System zeigt die Diskussionskreise innerhalb der Tabs in alphabetischer Reihenfolge
+   * Wenn die jeweilige Liste lang ist, gibt es einen Scrollbalken
  * Das System zeigt außerdem ein Eingabefeld und dahinter einen Button "Suchen"
- * Der Aktor
+ * Der Aktor trägt in das Suchfeld einen String ein und klickt auf "Suchen"
+ * Das System zeigt ihm nun innerhalb des jeweiligen Tabs alle Diskussionskreise, die in ihrem Namen an irgendeiner Position den angegebenen String enthalten.
 
 !4 Alternativer Ablauf
- * 
+ * Der Aktor möchte sich über die verfügbaren Diskussionskreise in seiner Nähe informieren und navigiert zur Seite "Alle Diskussionskreise"
+ * Das System zeigt die Tabs wie im normalen Ablauf beschrieben an und zusätzlich eine Karte (wie im Kartenportlet)
+ * Der Aktor kann einen Marker setzen wie im Kartenportlet.
+ * Das System zeigt ein Eingabefeld an und einen Button mit der Beschriftung "suche alle Diskussionskreise im Umfeld" von xxx km
+   * Das Eingabefeld steht an der Stelle, wo hier "xxx" angegeben ist und ist umrandet von den Worten "von" und "km"
+ * Der Aktor gibt eine km-Zahl an und klickt auf den Button.
+ * Das System zeigt nun in der jeweiligen Liste alle Diskussionskreise an, die innerhalb des angegebenen Radius liegen.
 
 !4 Siehe auch
 !4 Meta
