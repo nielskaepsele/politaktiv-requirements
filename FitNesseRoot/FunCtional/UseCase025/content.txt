@@ -1,24 +1,33 @@
-!3 UseCase025 
+!3 UseCase025
 !4 Aktor
  * Gast
 
 !4 Stakeholder
- * 
+ * Kunden und Bürger
 
 !4 Vorbedingung
-Eine Karte ist auf einer seote dargestellt, in der von allen Features Gebrauch gemacht wurde.
+Eine Karte ist auf einer Seite dargestellt, in der von allen Features Gebrauch gemacht wurde.
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor navigiert zu einer Seite, auf der eine PA-Karte dargestellt ist.
+ * DAs System zeigt ihm die Karte in der vom Moderator voreingestellten Darstellung:
+   * Der Mittelpunkt ist das Objekt des Diskussionskreises erkennbar
+   * Die Auflösung ist dem Objekt entsprechend voreingestellt.
+ * Er kann - iwe bei solchen KArten üblich - sie mit der Maus anfassen und verschieben.
+ * Er kann sie vergrößern und verkleinern.
+ * der Aktor kann auf einen gesetzten Marker klicken.
+ * Das System zeigt ihm die Beschreibung des Markers und einen darin eingebetteten URL.
+ * Der Aktor kann dem URL folgen und bekommt das Ziel auf einer neuen Seite angezeigt.
+ * Der Aktor kann einen Overlay aus- und wieder einblenden.
 
 !4 Alternativer Ablauf
  * 
 
 !4 Siehe auch
-
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase025
+
 !include -seamless >AbnahmeTestUseCase025
