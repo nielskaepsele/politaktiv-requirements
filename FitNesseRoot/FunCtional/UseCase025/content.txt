@@ -1,0 +1,24 @@
+!3 UseCase025 
+!4 Aktor
+ * Gast
+
+!4 Stakeholder
+ * 
+
+!4 Vorbedingung
+Eine Karte ist auf einer seote dargestellt, in der von allen Features Gebrauch gemacht wurde.
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase025
+!include -seamless >AbnahmeTestUseCase025
