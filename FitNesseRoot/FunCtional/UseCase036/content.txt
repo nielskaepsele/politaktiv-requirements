@@ -1,15 +1,27 @@
 !3 UseCase036 
 !4 Aktor
- * 
+ * Moderator
 
 !4 Stakeholder
- * 
+ * Der Kunde möchte, dass die Teilnehmer auch in Plänen ihre MArker setzen können.
 
 !4 Vorbedingung
 --
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor navigiert zur Karte und ruft "Einstellungen" auf
+ * Der Aktor lädt (optional) ein weiteres Bild hoch
+ * Der Aktor wählt er ein vorhandenes (gerade hochgeladen) Bild aus
+ * Der Aktor gibt dem Hintergrund einen Namen
+ * Der Aktor klickt "Speichern des Hintergrundes" um diesen anzulegen
+ * Der Aktor zoomt und zentriert nun das Bild auf eine gewollte Ansicht und drückt "speichern" von Zentrum und Zoom
+ * Das System zeigt das, sofern es neu ist (neuer Hintergrundname), noch keine Marker/Bilder/Einzeichnungen
+
+ * Alternativer Ablauf:
+ * Der Aktor wählt einen Namen eines bereits existierenden Hintergrundbildes aus
+ * Der Aktor drückt auf Speichern
+ * Das System zeigt das schon vorhandene Bild mit den vorhandenen Markern/Bildern/Einzeichnungen wieder allen Benutzern an.
+ 
 
 !4 Alternativer Ablauf
  * 
