@@ -1,6 +1,6 @@
 !3 UseCase027 
 !4 Aktor
- * 
+ * Moderator
 
 !4 Stakeholder
  * 
@@ -9,7 +9,16 @@
 --
 
 !4 Normaler Ablauf
- * 
+ * Der Aktor fügt das Kartenportlet auf die aktuelle Seite hinzu.
+ * Der Aktor wählt das Zentrum und die Zoomstufe für den gewünschten Kartenausschnitt.
+ * Das System sichert diese Einstellungen.
+
+'''Zukünftig'''
+ * Das Kartenportlet lässt sich mehrfach instanziieren mit einer Karte (und Marker).
+ * Mehrere Karten (Marker) für eine Community.
+ * Moderatoren und Benutzer haben unterschiedliche Markerformen.
+
+
 
 !4 Alternativer Ablauf
  * 
