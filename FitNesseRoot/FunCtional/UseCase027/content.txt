@@ -1,0 +1,24 @@
+!3 UseCase027 
+!4 Aktor
+ * 
+
+!4 Stakeholder
+ * 
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * 
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase027
+!include -seamless >AbnahmeTestUseCase027
