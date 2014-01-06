@@ -1,8 +1,8 @@
 Scope des Vorhabens ...
 
-Die Requirements beschreiben die technischen Funktionen und Eigenschaften der Plattform PolitAktiv, die auf Liferay basiert. Es wird daher davon ausgegangen, bzw. es wird dabei unterstellt, dass die Eigenschaften und Funktionen von Liferay in der aktuellen Version auch auf der Plattform PolitAktiv zur Verfügung stehen und den Entwicklern prinzipiell bekannt und geläufig sind. Die Requirements beschreiben also die funktionalen und die nichtfunktionalen Eigenschaften sowie die Schnittstellen von PolitAktiv.
+Die Requirements beschreiben die technischen Funktionen und Eigenschaften der Plattform PolitAktiv, die auf Liferay basiert. Es wird daher davon ausgegangen, bzw. es wird dabei unterstellt, dass die Eigenschaften und Funktionen von Liferay in der aktuellen Version auch auf der Plattform PolitAktiv zur Verfügung stehen und den Entwicklern prinzipiell bekannt und geläufig sind. Die Requirements beschreiben also die funktionalen und die nicht funktionalen Eigenschaften sowie die Schnittstellen von PolitAktiv.
 
-Eigentlich gehört hier auch die '''Archtiektur''' des Gesamtsystems (Hard- und Software) beschreiben. Darauf wird aber vorläufig verzichtet.
+Eigentlich gehört hier auch die '''Architektur''' des Gesamtsystems (Hard- und Software) beschreiben. Darauf wird aber vorläufig verzichtet.
 
 Die Requirements definieren '''nicht die Methoden''' von PolitAktiv und beschreiben daher auch nicht die methodischen Grundlagen von PolitAktiv. Aus diesem Grund werden auch nicht die Prozesse von PolitAktiv in den Requirements festgelegt. Die Prozesse von PolitAktiv werden hier allerdings insoweit beschrieben, wie sie erforderlich sind, um die Anforderungen besser zu verstehen.
 

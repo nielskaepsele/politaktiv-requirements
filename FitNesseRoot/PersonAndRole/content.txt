@@ -7,7 +7,7 @@ Ein angemeldeter Benutzer. Er hat sich früher mal registriert und wird daher sy
 Ein Benutzer darf alles, was auch ein Gast darf.
 
 !2 Mitglied
-Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er wird sysnonym auch als '''Member''' bezeichnet. Er hat in einem Diskussionskreis, dem er beigetreten ist, die Rolle Member.  In Diskussionskreisen, denen er (noch) nicht beigetreten ist, hat er die Rolle einfacher Benutzer.
+Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er wird synonym auch als '''Member''' bezeichnet. Er hat in einem Diskussionskreis, dem er beigetreten ist, die Rolle Member.  In Diskussionskreisen, denen er (noch) nicht beigetreten ist, hat er die Rolle einfacher Benutzer.
 
 Ein Member darf alles, was auch ein Benutzer darf.
 
@@ -24,10 +24,10 @@ Ein Moderator mit reduzierten Rechten. Er wird synonym auch als '''preliminary M
 !2 Partner
 Ein Partner darf Diskussionskreise neu einrichten. Er wird dadruch zum Owner eines Diskussionskreises und darf dort alles, was auch ein Moderator dort darf. Insbesondere darf er einen Benutzer zum Mpderator in dem Diskussionskreis ernennen, in dem er Owner ist.
 
-Ein Partner darf damit im prinzip alles, was auch ein Moderator darf.
+Ein Partner darf damit im Prinzip alles, was auch ein Moderator darf.
 
 !2 Admin
-Ein Admin daf alles. Wird sysnonym auch als '''Administrator''' bezeichnet. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
+Ein Admin daf alles. Wird synonym auch als '''Administrator''' bezeichnet. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
 
 !2 Designer
 ein Designer hat den Auftrag, Themes zu gestalten, sowohl für Communities, als auch für einzelne Seiten oder Portlets. Er benötigt dazu bestimmte Rechte, die - Stand 30.12.13 noch einzurichten sind. Ein Designer hat nicht das Recht, in bestehende Seiten einzugreifen. Er macht vielmehr Vorschläge, die im weiteren Verlauf des entsprechenden Workflows vom Produktmanagement (Admin) noch abzunehmen sind.
