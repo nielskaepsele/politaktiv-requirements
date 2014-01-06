@@ -21,7 +21,7 @@ Der Aktor muss bereits registriert sein, darf aber noch nicht angemeldet sein. E
  * -
  * Der Benutzer kann jederzeit auf Abmelden klicken.
  * Das System meldet den Benutzer ab.
- * Das System zeigt dem Benutzer dieselbe Seite an, von der aus er sich abgemeldet hat. AUsnahme: Diese Seite soll für einen Gast nicht sichtbar sein. Dann zeigt das System eine Fehlermedung an.
+ * Das System zeigt dem Benutzer dieselbe Seite an, von der aus er sich abgemeldet hat. Ausnahme: Diese Seite soll für einen Gast nicht sichtbar sein. Dann zeigt das System eine Fehlermedung an.
 
 !4 Alternativer Ablauf
 !4 Siehe auch

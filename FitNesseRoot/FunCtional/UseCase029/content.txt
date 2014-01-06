@@ -21,12 +21,12 @@ Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
  * Das System schickt unmittelbar danach eine Email an die angegebene Adresse.
  * Das System zeigt daraufhin die (normale) Anmeldeseite und eine Willkommensnachricht, in der steht, dass der Aktor in sein Postfach sehen soll. Auf der Seite ist der Login-Name bereits vorausgefüllt mit dem vorher angegebenen Login-Namen.
  * Der Aktor öffnet sein Postfach, liest die Email und findet sein Erstpasswort.
- * Der Aktor gibt das Erstpasswort aus der Email in das Feld PAsswort ein und drückt "Anmelden".
+ * Der Aktor gibt das Erstpasswort aus der Email in das Feld Passwort ein und drückt "Anmelden".
  * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn auf zuzustimmen.
  * Der Aktor drückt "Ich stimme zu"
  * Das System zeigt ihm daraufhin eine Seite mit der Aufforderung ein neues Passwort anzugeben. Zweimal, um Tippfehler zu vermeiden.
  * Der Aktor gibt ein neues Passwort an und drückt "Speichern".
- * Das Systemmeldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Registrieren" gedrückt hat.
+ * Das System meldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Registrieren" gedrückt hat.
  * Der Aktor ist nun angemeldet und kann dort fortsetzen, wo er beschlossen hat, sich zu registrieren (und sich anzumelden), um teilzunehmen.
  * Das System zeigt ihm auf dieser Seite rechts oben oberhalb seines Namens die Aufforderung beizutreten, WENN wenn es sich um eine Seite eines Diskussionskreises oder einer BI handelt.
  * Der Aktor kann nun beitreten, wenn er will. Siehe Requirement UseCase009.

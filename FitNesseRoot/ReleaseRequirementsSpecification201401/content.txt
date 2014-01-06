@@ -11,7 +11,6 @@
 
 !2 Registrierung, Anmeldung und SelfService für Benutzer
 !include -seamless FunCtional.UseCase029
-!include -seamless FunCtional.UseCase032
 !include -seamless FunCtional.UseCase035
 
 !2 Allgemeine Funktionen für Benutzer
@@ -20,3 +19,5 @@
 !2 Seitenpflege für Moderatoren
 !include -seamless FunCtional.UseCase039
 !include -seamless FunCtional.UseCase040
+!3 Nutzungsbedingungen pflegen
+!3 Impressum pflegen
