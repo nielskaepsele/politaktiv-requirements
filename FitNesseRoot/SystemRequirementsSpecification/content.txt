@@ -22,6 +22,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase031
 !include -seamless FunCtional.UseCase032
 !include -seamless FunCtional.UseCase030
+!include -seamless FunCtional.UseCase035
 
 !2 Allgemeine Funktionen für Benutzer
 !include -seamless FunCtional.UseCase038
@@ -32,7 +33,6 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase009
 !include -seamless FunCtional.UseCase033
 !include -seamless FunCtional.UseCase034
-!include -seamless FunCtional.UseCase035
 
 !2 Diskussionskreis für Moderatoren und ?Initiatoren?
 !include -seamless ProCess.PrOc002
