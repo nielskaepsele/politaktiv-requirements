@@ -1,4 +1,4 @@
-!3 UseCase040
+!3 UseCase040 Registrierungs- oder Loginhilfe redigieren
 !4 Aktor
  * Admin
 
@@ -27,5 +27,4 @@ Admin sollte sich in Liferay auskennen.
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase040
-
 !include -seamless >AbnahmeTestUseCase040

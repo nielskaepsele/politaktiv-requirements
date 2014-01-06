@@ -1,4 +1,4 @@
-!3 UseCase033
+!3 UseCase033 Diskussionskreise anzeigen
 !4 Aktor
  * Gast
  * Benutzer
@@ -38,4 +38,3 @@
 >AbnahmeTestUseCase033
 
 !include -seamless >AbnahmeTestUseCase033
-!contents -R2 -g -p -f -h

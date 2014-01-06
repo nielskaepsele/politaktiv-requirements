@@ -1,4 +1,4 @@
-!3 UseCase018
+!3 UseCase018 Diskussionskreis freigeben
 !4 Aktor
  * Admin
 
