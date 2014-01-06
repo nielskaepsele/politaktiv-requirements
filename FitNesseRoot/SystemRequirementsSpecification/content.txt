@@ -9,6 +9,9 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !1 Offene Fragen
 !include -seamless OpenQuestions
 
+!1 Stakeolder
+!include -seamless StakeHolders
+
 !1 Rollen und Personen
 !include -seamless PersonAndRole
 
@@ -24,13 +27,17 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase038
 
 !2 Diskussionskreis für Benutzer
+!include -seamless ProCess.PrOc004
 !include -seamless FunCtional.UseCase008
 !include -seamless FunCtional.UseCase009
 !include -seamless FunCtional.UseCase033
 !include -seamless FunCtional.UseCase034
 !include -seamless FunCtional.UseCase035
 
-!2 Diskussionskreis für Moderatoren
+!2 Diskussionskreis für Moderatoren und ?Initiatoren?
+!include -seamless ProCess.PrOc002
+!include -seamless ProCess.PrOc003
+!include -seamless ProCess.PrOc005
 !include -seamless FunCtional.UseCase010
 !include -seamless FunCtional.UseCase017
 !include -seamless FunCtional.UseCase018
@@ -41,6 +48,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase014
 
 !2 Karte
+!include -seamless ProCess.PrOc006
 !include -seamless FunCtional.UseCase025
 !include -seamless FunCtional.UseCase026
 !include -seamless FunCtional.UseCase027
