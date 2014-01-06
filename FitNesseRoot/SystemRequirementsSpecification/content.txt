@@ -13,9 +13,46 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless PersonAndRole
 
 !1 Funktionale Anforderungen
-!2 Alle Diskussionskreise
+
+!2 Registrierung, Anmeldung und SelfService für Benutzer
+!include -seamless FunCtional.UseCase029
+!include -seamless FunCtional.UseCase031
+!include -seamless FunCtional.UseCase032
+!include -seamless FunCtional.UseCase030
+
+!2 Allgemeine Funktionen für Benutzer
+!include -seamless FunCtional.UseCase038
+
+!2 Diskussionskreis für Benutzer
 !include -seamless FunCtional.UseCase008
+!include -seamless FunCtional.UseCase009
+!include -seamless FunCtional.UseCase033
+!include -seamless FunCtional.UseCase034
+!include -seamless FunCtional.UseCase035
+
+!2 Diskussionskreis für Moderatoren
 !include -seamless FunCtional.UseCase010
+!include -seamless FunCtional.UseCase017
+!include -seamless FunCtional.UseCase018
+
+!2 Meinungsbild
+!include -seamless FunCtional.UseCase012
+!include -seamless FunCtional.UseCase013
+!include -seamless FunCtional.UseCase014
+
+!2 Karte
+!include -seamless FunCtional.UseCase025
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase027
+!include -seamless FunCtional.UseCase036
+!include -seamless FunCtional.UseCase037
+
+!2 Bürger aktivieren
+!include -seamless FunCtional.UseCase011
+
+!2 Seitenpflege für Moderatoren
+!include -seamless FunCtional.UseCase039
+!include -seamless FunCtional.UseCase040
 
 !1 Nicht funktionale Anforderungen
 
