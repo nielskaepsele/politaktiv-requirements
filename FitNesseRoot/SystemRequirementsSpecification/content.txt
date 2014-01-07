@@ -20,7 +20,6 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !2 Registrierung, Anmeldung und SelfService für Benutzer
 !include -seamless FunCtional.UseCase029
 !include -seamless FunCtional.UseCase031
-!include -seamless FunCtional.UseCase032
 !include -seamless FunCtional.UseCase030
 !include -seamless FunCtional.UseCase035
 

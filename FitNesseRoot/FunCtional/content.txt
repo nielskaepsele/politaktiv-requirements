@@ -1,7 +1,7 @@
 !1 alle Requirements&Ansichten ungeordnet
 !contents -R2 -h
 
-!1 Status
+!1 Aktive Anforderungen
 | FunCtional.UseCase008 | !include -h FunCtional.UseCase008 | !include -h FunCtional.UseCase008.MeTa |
 | FunCtional.UseCase009 | !include -h FunCtional.UseCase009 | !include -h FunCtional.UseCase009.MeTa |
 | FunCtional.UseCase010 | !include -h FunCtional.UseCase010 | !include -h FunCtional.UseCase010.MeTa |
@@ -17,7 +17,6 @@
 | FunCtional.UseCase029 | !include -h FunCtional.UseCase029 | !include -h FunCtional.UseCase029.MeTa |
 | FunCtional.UseCase030 | !include -h FunCtional.UseCase030 | !include -h FunCtional.UseCase030.MeTa |
 | FunCtional.UseCase031 | !include -h FunCtional.UseCase031 | !include -h FunCtional.UseCase031.MeTa |
-| FunCtional.UseCase032 | !include -h FunCtional.UseCase032 | !include -h FunCtional.UseCase032.MeTa |
 | FunCtional.UseCase033 | !include -h FunCtional.UseCase033 | !include -h FunCtional.UseCase033.MeTa |
 | FunCtional.UseCase034 | !include -h FunCtional.UseCase034 | !include -h FunCtional.UseCase034.MeTa |
 | FunCtional.UseCase035 | !include -h FunCtional.UseCase035 | !include -h FunCtional.UseCase035.MeTa |
@@ -26,3 +25,6 @@
 | FunCtional.UseCase038 | !include -h FunCtional.UseCase038 | !include -h FunCtional.UseCase038.MeTa |
 | FunCtional.UseCase039 | !include -h FunCtional.UseCase039 | !include -h FunCtional.UseCase039.MeTa |
 | FunCtional.UseCase040 | !include -h FunCtional.UseCase040 | !include -h FunCtional.UseCase040.MeTa |
+
+!1 Obsolete Anforderungen
+| FunCtional.UseCase032 | !include -h FunCtional.UseCase032 | !include -h FunCtional.UseCase032.MeTa |
