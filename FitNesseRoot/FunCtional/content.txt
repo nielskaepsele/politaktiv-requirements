@@ -26,5 +26,5 @@
 | FunCtional.UseCase039 | !include -h FunCtional.UseCase039 | !include -h FunCtional.UseCase039.MeTa |
 | FunCtional.UseCase040 | !include -h FunCtional.UseCase040 | !include -h FunCtional.UseCase040.MeTa |
 
-!1 Obsolete Anforderungen
+!1 Verworfene Anforderungen
 | FunCtional.UseCase032 | !include -h FunCtional.UseCase032 | !include -h FunCtional.UseCase032.MeTa |
