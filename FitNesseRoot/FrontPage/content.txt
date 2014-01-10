@@ -21,4 +21,4 @@
 [[51 Alle System Anforderungen][SystemRequirementsSpecification]]
 
 !2 Lastenheft für Releases
-[[61 Lastenheft für Release 2014_01][ReleaseRequirementsSpecification201401]]
+[[61 Lastenheft für Sprint 2014_02][ReleaseRequirementsSpecification201401]]
