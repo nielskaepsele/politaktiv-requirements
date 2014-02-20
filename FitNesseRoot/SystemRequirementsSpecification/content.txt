@@ -24,7 +24,8 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase035
 
 !2 Navigation für Benutzer
-!3 Mit dem Klick auf das PolitAktiv Logo kommt der Benutzer immer zur Politaktiv Hauptseite
+!3 Mit dem Klick auf das PolitAktiv Logo kommt der Benutzer immer zur Politaktiv Hauptseite.
+!3 Mein Konto (oben rechts) soll für alle Benutzer sichtbar sein.
 
 !2 Allgemeine Funktionen für Benutzer
 !include -seamless FunCtional.UseCase038
