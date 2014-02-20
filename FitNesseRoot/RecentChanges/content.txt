@@ -1,4 +1,5 @@
-|FunCtional.UseCase009|mje|22:08:58 Thu, Feb 20, 2014|
+|NonFunCtional|mje|22:14:45 Thu, Feb 20, 2014|
+|FunCtional.UseCase009|mje|22:13:31 Thu, Feb 20, 2014|
 |SystemRequirementsSpecification|mje|21:50:07 Thu, Feb 20, 2014|
 |FrontPage|mje|12:37:34 Fri, Jan 10, 2014|
 |FunCtional|mje|11:21:09 Tue, Jan 07, 2014|
@@ -47,7 +48,6 @@
 |FunCtional.UseCase018.AbnahmeTestUseCase018|mom|13:59:14 Tue, Dec 31, 2013|
 |FunCtional.UseCase018.MeTa|mom|13:58:46 Tue, Dec 31, 2013|
 |FunCtional.UseCase017|mom|13:53:50 Tue, Dec 31, 2013|
-|NonFunCtional|mom|13:47:14 Tue, Dec 31, 2013|
 |FunCtional.UseCase034.AbnahmeTestUseCase034|mom|12:55:24 Tue, Dec 31, 2013|
 |FunCtional.UseCase034.MeTa|mom|12:53:39 Tue, Dec 31, 2013|
 |FunCtional.UseCase033.AbnahmeTestUseCase033|mom|11:55:22 Tue, Dec 31, 2013|
