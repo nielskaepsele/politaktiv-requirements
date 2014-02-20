@@ -12,7 +12,7 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
 
 !4 Normaler Ablauf Beitreten
  * Der Aktor navigiert durch die Seiten von PolitAktiv und entdeckt einen DK, in dem er gerne mitdiskutieren möchte, dem er aber noch nicht beigetreten ist.
- * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, rechts oben oberhalb der Zeile mit seinem Namen und dem Link "(abmelden)" den Link mit der Aufforderung "dem Diskussionskreis beitreten".
+ * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, rechts unterhalb des Anmeldeblocks den Link mit der Aufforderung "dem Diskussionskreis beitreten".
  * Der Aktor klickt auf den URL "dem Diskussionskreis beitreten",
  * Das System zeigt ihm dieselbe Seite, nun aber ohne die Aufforderung beizutreten.
  * Der Aktor sieht rechts oben nur noch seinen Namen und den Link "(abmelden)".
