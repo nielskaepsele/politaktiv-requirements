@@ -23,6 +23,9 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase030
 !include -seamless FunCtional.UseCase035
 
+!2 Navigation für Benutzer
+!3 Mit dem Klick auf das PolitAktiv Logo kommt der Benutzer immer zur Politaktiv Hauptseite
+
 !2 Allgemeine Funktionen für Benutzer
 !include -seamless FunCtional.UseCase038
 
