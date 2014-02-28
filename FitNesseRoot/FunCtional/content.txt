@@ -9,7 +9,7 @@
 |FunCtional.UseCase038|!include -h FunCtional.UseCase038|!include -h FunCtional.UseCase038.MeTa|
 |FunCtional.UseCase029|!include -h FunCtional.UseCase029|!include -h FunCtional.UseCase029.MeTa|
 |!2 Navigation für Benutzer|
-|FunCtional.UseCase041|Mit dem Klick auf das PolitAktiv Logo kommt der Benutzer immer zur Politaktiv Hauptseite|
+|FunCtional.UseCase041|!include -h FunCtional.UseCase041|!include -h FunCtional.UseCase041.MeTa|
 |!2 Diskussionskreis                                                                           |
 |FunCtional.UseCase008|!include -h FunCtional.UseCase008|!include -h FunCtional.UseCase008.MeTa|
 |FunCtional.UseCase009|!include -h FunCtional.UseCase009|!include -h FunCtional.UseCase009.MeTa|
