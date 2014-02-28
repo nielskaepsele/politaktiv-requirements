@@ -1,6 +1,6 @@
-!3 UseCase030 Eigene Daten pflegen
-!4 Aktor
- * Benutzer
+!3 UseCase030 Edit users account data
+!4 Actor
+ * User / Benutzer
 
 !4 Stakeholder
  * Der Benutzer hat ein Interesse, seine Daten selbst pflegen zu können
@@ -9,17 +9,11 @@
 Der Benutzer muss angemeldet sein
 
 !4 Normaler Ablauf
- * Der Aktor ruft in PolitAktiv den Menüpunkt "Mein PolitAktiv" und darunter "Mein Konto" auf.
- * Das System zeigt ihm - je nach seinen Berechtigungen - ein mehr oder minder stark ausgeprägtes Control Panel.
- * Der Aktor ruft im ControlPanel den Menüpunkt "mein Konto" auf
- * Das System zeigt ihm in einem Untermenü alle seine eigenen Daten an.
- * Der Aktor kann sie einzeln ändern. Nachdem er alle gewünschten Änderungen eingegebene hat, drückt er auf "Speichern".
- * Das System zeigt ihm die geänderten Daten an.
- * Nachdem der Aktor alle gewünschten Änderungen durchgeführt hat, klickt er auf "Zurück zu PolitAktiv".
- * Das System zeigt ihm die Atsrtseite von PolitAktiv an.
-
-!4 Alternativer Ablauf
- * 
+ * The system shows "my account/mein Konto" to the user.
+ * The user selects "my account".
+ * the system shows the account informations to the user.
+ * the user may change and save his informations.
+ * the system shows the changed informations.
 
 !4 Siehe auch
 !4 Meta
