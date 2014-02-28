@@ -1,0 +1,10 @@
+@import url(bootstrap.css);
+
+h2 {
+    line-height: 30px;
+    font-size: 27px;
+}
+h3 {
+    font-size: 22px;
+    line-height: 27px;
+} 

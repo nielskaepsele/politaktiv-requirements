@@ -13,15 +13,10 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless PersonAndRole
 
 !1 Funktionale Anforderungen
-
 !2 Meinungsbild
 !include -seamless FunCtional.UseCase012
 !include -seamless FunCtional.UseCase013
 !include -seamless FunCtional.UseCase014
-
-!1 Nicht funktionale Anforderungen
-
-!1 Schnittstellen
 
 !1 Glossar
 !include -seamless GlosSar
