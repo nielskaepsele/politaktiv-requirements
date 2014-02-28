@@ -20,5 +20,5 @@
 [[50 Todos][ToDo]]
 [[51 Alle System Anforderungen][SystemRequirementsSpecification]]
 
-!2 Lastenheft für Releases
-[[61 Lastenheft für Sprint 2014_02][ReleaseRequirementsSpecification201401]]
+!2 Lastenheft für spezifische Features
+[[61 Aktuelles Meinungsbild][Feature001AktuellesMeinungsbild]]
