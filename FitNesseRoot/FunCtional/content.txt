@@ -2,29 +2,31 @@
 !contents -R2 -h
 
 !1 Aktive Anforderungen
-| FunCtional.UseCase008 | !include -h FunCtional.UseCase008 | !include -h FunCtional.UseCase008.MeTa |
-| FunCtional.UseCase009 | !include -h FunCtional.UseCase009 | !include -h FunCtional.UseCase009.MeTa |
-| FunCtional.UseCase010 | !include -h FunCtional.UseCase010 | !include -h FunCtional.UseCase010.MeTa |
-| FunCtional.UseCase011 | !include -h FunCtional.UseCase011 | !include -h FunCtional.UseCase011.MeTa |
-| FunCtional.UseCase012 | !include -h FunCtional.UseCase012 | !include -h FunCtional.UseCase012.MeTa |
-| FunCtional.UseCase013 | !include -h FunCtional.UseCase013 | !include -h FunCtional.UseCase013.MeTa |
-| FunCtional.UseCase014 | !include -h FunCtional.UseCase014 | !include -h FunCtional.UseCase014.MeTa |
-| FunCtional.UseCase017 | !include -h FunCtional.UseCase017 | !include -h FunCtional.UseCase017.MeTa |
-| FunCtional.UseCase018 | !include -h FunCtional.UseCase018 | !include -h FunCtional.UseCase018.MeTa |
-| FunCtional.UseCase025 | !include -h FunCtional.UseCase025 | !include -h FunCtional.UseCase025.MeTa |
-| FunCtional.UseCase026 | !include -h FunCtional.UseCase026 | !include -h FunCtional.UseCase026.MeTa |
-| FunCtional.UseCase027 | !include -h FunCtional.UseCase027 | !include -h FunCtional.UseCase027.MeTa |
-| FunCtional.UseCase029 | !include -h FunCtional.UseCase029 | !include -h FunCtional.UseCase029.MeTa |
-| FunCtional.UseCase030 | !include -h FunCtional.UseCase030 | !include -h FunCtional.UseCase030.MeTa |
-| FunCtional.UseCase031 | !include -h FunCtional.UseCase031 | !include -h FunCtional.UseCase031.MeTa |
-| FunCtional.UseCase033 | !include -h FunCtional.UseCase033 | !include -h FunCtional.UseCase033.MeTa |
-| FunCtional.UseCase034 | !include -h FunCtional.UseCase034 | !include -h FunCtional.UseCase034.MeTa |
-| FunCtional.UseCase035 | !include -h FunCtional.UseCase035 | !include -h FunCtional.UseCase035.MeTa |
-| FunCtional.UseCase036 | !include -h FunCtional.UseCase036 | !include -h FunCtional.UseCase036.MeTa |
-| FunCtional.UseCase037 | !include -h FunCtional.UseCase037 | !include -h FunCtional.UseCase037.MeTa |
-| FunCtional.UseCase038 | !include -h FunCtional.UseCase038 | !include -h FunCtional.UseCase038.MeTa |
-| FunCtional.UseCase039 | !include -h FunCtional.UseCase039 | !include -h FunCtional.UseCase039.MeTa |
-| FunCtional.UseCase040 | !include -h FunCtional.UseCase040 | !include -h FunCtional.UseCase040.MeTa |
+|!2 Diskussionskreis                                                                           |
+|FunCtional.UseCase008|!include -h FunCtional.UseCase008|!include -h FunCtional.UseCase008.MeTa|
+|FunCtional.UseCase009|!include -h FunCtional.UseCase009|!include -h FunCtional.UseCase009.MeTa|
+|FunCtional.UseCase010|!include -h FunCtional.UseCase010|!include -h FunCtional.UseCase010.MeTa|
+|FunCtional.UseCase017|!include -h FunCtional.UseCase017|!include -h FunCtional.UseCase017.MeTa|
+|FunCtional.UseCase018|!include -h FunCtional.UseCase018|!include -h FunCtional.UseCase018.MeTa|
+|!2 Meinungsbild                                                                               |
+|FunCtional.UseCase011|!include -h FunCtional.UseCase011|!include -h FunCtional.UseCase011.MeTa|
+|FunCtional.UseCase012|!include -h FunCtional.UseCase012|!include -h FunCtional.UseCase012.MeTa|
+|FunCtional.UseCase013|!include -h FunCtional.UseCase013|!include -h FunCtional.UseCase013.MeTa|
+|FunCtional.UseCase014|!include -h FunCtional.UseCase014|!include -h FunCtional.UseCase014.MeTa|
+|FunCtional.UseCase025|!include -h FunCtional.UseCase025|!include -h FunCtional.UseCase025.MeTa|
+|FunCtional.UseCase026|!include -h FunCtional.UseCase026|!include -h FunCtional.UseCase026.MeTa|
+|FunCtional.UseCase027|!include -h FunCtional.UseCase027|!include -h FunCtional.UseCase027.MeTa|
+|FunCtional.UseCase029|!include -h FunCtional.UseCase029|!include -h FunCtional.UseCase029.MeTa|
+|FunCtional.UseCase030|!include -h FunCtional.UseCase030|!include -h FunCtional.UseCase030.MeTa|
+|FunCtional.UseCase031|!include -h FunCtional.UseCase031|!include -h FunCtional.UseCase031.MeTa|
+|FunCtional.UseCase033|!include -h FunCtional.UseCase033|!include -h FunCtional.UseCase033.MeTa|
+|FunCtional.UseCase034|!include -h FunCtional.UseCase034|!include -h FunCtional.UseCase034.MeTa|
+|FunCtional.UseCase035|!include -h FunCtional.UseCase035|!include -h FunCtional.UseCase035.MeTa|
+|FunCtional.UseCase036|!include -h FunCtional.UseCase036|!include -h FunCtional.UseCase036.MeTa|
+|FunCtional.UseCase037|!include -h FunCtional.UseCase037|!include -h FunCtional.UseCase037.MeTa|
+|FunCtional.UseCase038|!include -h FunCtional.UseCase038|!include -h FunCtional.UseCase038.MeTa|
+|FunCtional.UseCase039|!include -h FunCtional.UseCase039|!include -h FunCtional.UseCase039.MeTa|
+|FunCtional.UseCase040|!include -h FunCtional.UseCase040|!include -h FunCtional.UseCase040.MeTa|
 
 !1 Verworfene Anforderungen
-| FunCtional.UseCase032 | !include -h FunCtional.UseCase032 | !include -h FunCtional.UseCase032.MeTa |
+|FunCtional.UseCase032|!include -h FunCtional.UseCase032|!include -h FunCtional.UseCase032.MeTa|
