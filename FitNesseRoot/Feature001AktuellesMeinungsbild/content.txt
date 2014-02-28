@@ -1,13 +1,10 @@
 !1 Zielsetzung und Vision
 !include -seamless VisionAndPurpose
 
-!1 Abgrenzungen
+!1 Scope
 !include -seamless ScoPe
 !2 Quelle
 https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
-
-!1 Offene Fragen
-!include -seamless OpenQuestions
 
 !1 Stakeolder
 !include -seamless StakeHolders

@@ -1,4 +1,4 @@
-|Feature001AktuellesMeinungsbild|mje|10:40:02 Fri, Feb 28, 2014|
+|Feature001AktuellesMeinungsbild|mje|10:41:02 Fri, Feb 28, 2014|
 |FrontPage|mje|10:38:46 Fri, Feb 28, 2014|
 |FunCtional|mje|10:36:08 Fri, Feb 28, 2014|
 |NonFunCtional|mje|22:14:45 Thu, Feb 20, 2014|
