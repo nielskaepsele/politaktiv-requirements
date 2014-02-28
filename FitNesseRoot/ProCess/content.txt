@@ -1,1 +1,11 @@
 !contents -R2 -g -p -f -h
+
+!1 Aktive Prozesse
+|!2 Diskussionskreis                                                         |
+|ProCess.PrOc002|!include -h ProCess.PrOc002|!include -h ProCess.PrOc002.MeTa|
+|ProCess.PrOc005|!include -h ProCess.PrOc005|!include -h ProCess.PrOc005.MeTa|
+|!2 BI                                                         |
+|ProCess.PrOc003|!include -h ProCess.PrOc003|!include -h ProCess.PrOc003.MeTa|
+|ProCess.PrOc004|!include -h ProCess.PrOc004|!include -h ProCess.PrOc004.MeTa|
+|!2 Karte                                                         |
+|ProCess.PrOc006|!include -h ProCess.PrOc006|!include -h ProCess.PrOc006.MeTa|
