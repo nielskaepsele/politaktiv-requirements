@@ -1,6 +1,6 @@
-!3 UseCase030 Edit users account data
-!4 Actor
- * User / Benutzer
+!3 UseCase030 Eigene Daten pflegen
+!4 Aktor
+ * Benutzer
 
 !4 Stakeholder
  * Der Benutzer hat ein Interesse, seine Daten selbst pflegen zu können
@@ -9,11 +9,10 @@
 Der Benutzer muss angemeldet sein
 
 !4 Normaler Ablauf
- * The system shows "my account/mein Konto" to the user.
- * The user selects "my account".
- * the system shows the account informations to the user.
- * the user may change and save his informations.
- * the system shows the changed informations.
+ * Das System dem Actor zeigt "my account/mein Konto" an.
+ * Der Aktor wählt "mein Konto".
+ * Das System zeigt dem Aktor die persönlichen Daten.
+ * Der Aktor kann diese Informationen bearbeiten und speichern.
 
 !4 Siehe auch
 !4 Meta

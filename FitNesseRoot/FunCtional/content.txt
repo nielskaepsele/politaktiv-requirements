@@ -8,7 +8,6 @@
 |FunCtional.UseCase035|!include -h FunCtional.UseCase035|!include -h FunCtional.UseCase035.MeTa|
 |FunCtional.UseCase038|!include -h FunCtional.UseCase038|!include -h FunCtional.UseCase038.MeTa|
 |FunCtional.UseCase029|!include -h FunCtional.UseCase029|!include -h FunCtional.UseCase029.MeTa|
-|FunCtional.UseCase042|Mein Konto (oben rechts) soll für alle Benutzer sichtbar sein.|
 |!2 Navigation für Benutzer|
 |FunCtional.UseCase041|Mit dem Klick auf das PolitAktiv Logo kommt der Benutzer immer zur Politaktiv Hauptseite|
 |!2 Diskussionskreis                                                                           |

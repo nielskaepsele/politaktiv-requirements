@@ -1,0 +1,18 @@
+!3 UseCase041 Navigation auf die Haupseite zurück
+
+!4 Aktor
+ * Gast
+
+!4 Stakeholder
+ * Integrata Stiftung: Die Verbindung von einzelnen Diskussionskreisen zur Hauptseite soll vorhanden sein.
+
+!4 Normaler Ablauf
+ * Das System zeigt auf jeder Seite das PolitAktiv Logo an.
+ * Der Aktor kann mit einem Klick auf das PolitAktiv Logo zur Hauptseite zurücknavigieren.
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase0nn
+!include -seamless >AbnahmeTestUseCase041
