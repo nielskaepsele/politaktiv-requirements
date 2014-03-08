@@ -1,6 +1,6 @@
 !contents -R2 -g -p -f -h
 
-!1 Aktive Prozesse
+!1 Prozesse für die Plattform
 |!2 Diskussionskreis                                                         |
 |ProCess.PrOc002|!include -h ProCess.PrOc002|!include -h ProCess.PrOc002.MeTa|
 |ProCess.PrOc005|!include -h ProCess.PrOc005|!include -h ProCess.PrOc005.MeTa|
@@ -9,3 +9,8 @@
 |ProCess.PrOc004|!include -h ProCess.PrOc004|!include -h ProCess.PrOc004.MeTa|
 |!2 Karte                                                         |
 |ProCess.PrOc006|!include -h ProCess.PrOc006|!include -h ProCess.PrOc006.MeTa|
+
+!1 Prozesse für den IT Betrieb
+|!2 CRM                                                    |
+|ProCess.PrOc007|!include -h ProCess.PrOc007|!include -h ProCess.PrOc007.MeTa|
+

@@ -24,4 +24,5 @@ sind zum Beispiel die Bürgermeister oder andere Vertreter der Gemeinden, die Po
 !2 Interessenten
 sind wie Kunden die Bürgermeister oder andere Vertreter der Gemeinden, die sich für einen Nutzung von PolitAktiv interessieren.
 
-!2 Weitere Stakeholder
+!2 !-PolitAktiv-! IT
+Der IT Betrieb von PolitAktiv.

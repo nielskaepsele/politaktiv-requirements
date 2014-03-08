@@ -33,3 +33,6 @@ Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung ver
 !2 Designer
 ein Designer hat den Auftrag, Themes zu gestalten, sowohl für Communities, als auch für einzelne Seiten oder Portlets. Er benötigt dazu bestimmte Rechte, die - Stand 30.12.13 noch einzurichten sind. E
 in Designer hat nicht das Recht, in bestehende Seiten einzugreifen. Er macht vielmehr Vorschläge, die im weiteren Verlauf des entsprechenden Workflows vom Produktmanagement (Admin) noch abzunehmen sind.
+
+!2 IT-Admin
+Ein Administrator für den PolitAktiv IT Betrieb.
