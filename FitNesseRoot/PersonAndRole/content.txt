@@ -36,3 +36,6 @@ in Designer hat nicht das Recht, in bestehende Seiten einzugreifen. Er macht vie
 
 !2 IT-Admin
 Ein Administrator für den PolitAktiv IT Betrieb.
+
+!2 Plattform Owner (PO)
+Der Produktverantwortliche für die Plattform !-PolitAktiv-!.
