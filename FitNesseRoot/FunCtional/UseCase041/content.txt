@@ -8,7 +8,7 @@
 
 !4 Normaler Ablauf
  * Das System zeigt auf jeder Seite das PolitAktiv Logo an.
- * Der Aktor kann mit einem Klick auf das PolitAktiv Logo zur Hauptseite zurücknavigieren.
+ * Der Aktor kann mit einem Klick auf das PolitAktiv Logo zur Mainsite von PolitAktiv (Hauptseite) zurücknavigieren.
 
 !4 Meta
 >MeTa

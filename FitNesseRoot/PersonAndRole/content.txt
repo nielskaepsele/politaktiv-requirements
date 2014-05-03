@@ -12,7 +12,7 @@ Ein Member darf alles, was auch ein Benutzer darf.
 !2 Moderator
 Ein Benutzer, dem die Rolle Moderator eines Diskussionskreises zugeordnet wurde.  Er ist in diesem Diskussionskreis Moderator.  In anderen Diskussionskreisen ist er (nur) einfacher Benutzer oder Mitglied.
 
-Ein Moderator darf nicht einen Diskussiosnkreis neu einrichten. Dies ist Partnern und Admins vorbehalten. 
+Ein Moderator darf nicht einen Diskussiosnkreis neu einrichten. Dies ist Admins vorbehalten. 
 Ein Moderator darf einen Benutzer zum Moderator ernennen in dem Diskussionskreis, in der er selbst Moderator ist.
 Ein Moderator darf alles, was auch ein Mitglied darf.
 
