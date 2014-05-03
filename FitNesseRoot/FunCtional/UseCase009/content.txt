@@ -6,21 +6,22 @@
  * Die Stiftung hat ein Interesse daran, dass möglichst viele Benutzer registriert und (mindestens) einem Diskussionskreis beigetreten sind.
  * Die Anwender haben ein Interesse daran, dass möglichst viele Bürger bei einer Bürgerbeteiligung mitmachen.
  * Die Moderatoren haben ein Interesse daran, die Diskutanten eines DK erreichen zu können.
+ * Die Benutzer haben ein Interesse daran, bei wichtigen News informiert zu werden, was nur für registrierte und beigetretene Benutzern möglich ist.
 
 !4 Vorbedingung
 Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nicht beigetreten
 
-!4 Normaler Ablauf Beitreten
+!4 Normaler Ablauf Beitreten (überarbeiten gemäß neuem Design für 6.2.1!!)
  * Der Aktor navigiert durch die Seiten von PolitAktiv und entdeckt einen DK, in dem er gerne mitdiskutieren möchte, dem er aber noch nicht beigetreten ist.
- * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, rechts unterhalb des Anmeldeblocks 
-  * einen kurzen (zwei Zeile, 1/8 Bildschirmbreite - Button), frei editierbaren Text
+ * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, links neben dem Anmeldeblock 
+  * einen kurzen, frei editierbaren Text
   * den Link mit der Aufforderung "beitreten".
  * Der Aktor klickt auf den URL "dem Diskussionskreis beitreten",
  * Das System zeigt ihm dieselbe Seite, nun aber ohne die Aufforderung beizutreten.
  * Der Aktor sieht rechts oben nur noch seinen Namen und den Link "(abmelden)".
 
 !4 Alternativer Ablauf 1 Beitreten
- * Der Aktor navigiert auf eine Seite, auf der das Community-Portlets angezeigt wird, und wählt dort einen Tab aus: entweder "Offene Diskussionskreise" oder "Beschränkte Diskussionskreise"
+ * Der Aktor navigiert auf eine Seite, auf der das Community-Portlet angezeigt wird, und wählt dort einen Tab aus: entweder "Offene Diskussionskreise" oder "Beschränkte Diskussionskreise"
  * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Beitreten" oder den Link "Aufgeben".
  * Der Aktor klickt auf den Link "Beitreten" eines Diskussionskreises, dem er bisher noch nicht beigetreten ist.
  * Das System zeigt dieselbe Liste und hinter dem Diskussionskreis, dem der Aktor soeben beigetreten ist, nun aber den Link "Aufgeben".

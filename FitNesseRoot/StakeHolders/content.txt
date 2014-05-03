@@ -18,6 +18,7 @@ sind in der Rolle Gast oder Benutzer oder Member und haben ein Interesse an dem 
 
 !2 Bürgerinitiativen
 wollen ihre Mitbürger zum Mitdiskutieren bewegen
+
 !2 Kunden
 sind zum Beispiel die Bürgermeister oder andere Vertreter der Gemeinden, die PolitAktiv nutzen.
 
@@ -26,3 +27,6 @@ sind wie Kunden die Bürgermeister oder andere Vertreter der Gemeinden, die sich
 
 !2 !-PolitAktiv-! IT
 Der IT Betrieb von PolitAktiv.
+
+!2 Human IT Service GmbH (HIT)
+Die Mitarbeiter der HIT als Intensiv-Anwender
