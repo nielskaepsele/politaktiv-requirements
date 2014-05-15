@@ -9,7 +9,8 @@
 --
 
 !4 Normaler Ablauf
- * 
+ * terms.of.use.journal.article.id=TERMS_OF_USE
+terms.of.use.journal.article.group.id=10165
 
 !4 Alternativer Ablauf
  * 
