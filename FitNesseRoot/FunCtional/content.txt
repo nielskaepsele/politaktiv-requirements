@@ -1,36 +1,3 @@
-!3 UseCase042 Impressum 
-!4 Aktor
- * Gast
-
-!4 Stakeholder
- * alle
-
-!4 Vorbedingung
--- keine
-
-!4 Normaler Ablauf
- * Der Aktor scrollt die Seite nach unten und siehtt dort einen Querstrich.
- * unter dem Querstrich stehen verschiedene Links:
-  * Nutzungsbedingungen
-  * Impressum
-  * Kontakt
-  * Hilfe
-  * Feedback
- * bei Klick auf einen der Links wird er zur entsprechenden Seite auf der Mainsite geleitet.
- * die Zielseite geht in einem neuen Tab auf.
-
-!4 Alternativer Ablauf
- * -
-
-!4 Siehe auch
-
-!4 Meta
->MeTa
-
-!4 Abnahme Tests
->AbnahmeTestUseCase0nn
-!include -seamless >AbnahmeTestUseCase0nn
-
 !1 alle Requirements&Ansichten ungeordnet
 !contents -R2 -h
 
@@ -63,6 +30,8 @@
 |FunCtional.UseCase037|!include -h FunCtional.UseCase037|!include -h FunCtional.UseCase037.MeTa|
 |!2 Portal Manager - Funktionen                                                                |
 |FunCtional.UseCase039|!include -h FunCtional.UseCase039|!include -h FunCtional.UseCase039.MeTa|
+|FunCtional.UseCase042|!include -h FunCtional.UseCase042|!include -h FunCtional.UseCase042.MeTa|
+|FunCtional.UseCase043|!include -h FunCtional.UseCase043|!include -h FunCtional.UseCase043.MeTa|
 |FunCtional.UseCase040|!include -h FunCtional.UseCase040|!include -h FunCtional.UseCase040.MeTa|
 |!2 Moderator Funktionen                                                                       |
 |FunCtional.UseCase011|!include -h FunCtional.UseCase011|!include -h FunCtional.UseCase011.MeTa|
