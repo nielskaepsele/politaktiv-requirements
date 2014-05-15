@@ -1,25 +1,20 @@
 !3 UseCase043 Terms & Conditions bearbeiten 
 !4 Aktor
- * 
+ * Admin, Gast
 
 !4 Stakeholder
- * 
-
-!4 Vorbedingung
---
+ * Projektleiter Integrata-Stiftung
 
 !4 Normaler Ablauf
- * terms.of.use.journal.article.id=TERMS_OF_USE
-terms.of.use.journal.article.group.id=10165
-
-!4 Alternativer Ablauf
- * 
-
-!4 Siehe auch
+ * Der Admin wählt im Adminbereich die Gruppe "Global" aus.
+ * Der Admin wählt den WebInhalt "TERMS_OF_USE" aus.
+ * Der Admin kann den Webinhalt bearbeiten und speichern.
+ * Das System zeigt jedem Gast, der sich registriert, den aktuellen Inhalt des o.g. Webinhalts an.
+   * Der Webinhalt ist scrollbar.
 
 !4 Meta
 >MeTa
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase0nn
-!include -seamless >AbnahmeTestUseCase0nn
+!include -seamless >AbnahmeTestUseCase043
