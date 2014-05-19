@@ -15,7 +15,13 @@ Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
  * Der Aktor drückt "Registrieren"
  * Das System zeigt ihm daraufhin die Seite "Registrieren".
  * Im linken Teil sind Felder zum Ausfüllen; im rechten Teil ist eine Erklärung zum Ablauf der Registrierung; dort werden außerdem weitere Hilfen angeboten.
- * Die Felder Vorname, Login-Name und Emailadresse sind erforderlich. Alle anderen sind optional.
+  * mje: Das ist eine Layoutinfo und gehört ins WebDesing
+ * Das System zeigt die Felder folgenden verpflichtenden Felder:
+  * Vorname, 
+  * Login-Name und 
+  * Emailadresse sind erforderlich.
+ * Das System zeigt die optionalen Felder:
+  * Alle anderen ... (TODO: mje: bitte benennen, wenn wichtig).
  * Bei den Feldern ist auch ein Mathe-Captcha, das zur Vermeidung von Missbrauch ausgefüllt sein muss, bevor die Daten vom System angenommen werden.
  * Der Aktor füllt die Felder aus und drückt "senden"
  * Das System schickt unmittelbar danach eine Email an die angegebene Adresse.
