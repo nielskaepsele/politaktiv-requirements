@@ -17,9 +17,13 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase043
 !include -seamless FunCtional.UseCase040
 
-!2 Weitere Betroffene UseCases
-!include -seamless FunCtional.UseCase035
-!include -seamless FunCtional.UseCase029 	
+!2 Tests von betroffenen UseCases
+
+!3 !include -h FunCtional.UseCase035
+!include -seamless FunCtional.UseCase035.AbnahmeTestUseCase035
+
+!3 !include -h FunCtional.UseCase029
+!include -seamless FunCtional.UseCase029.AbnahmeTestUseCase029
 
 !1 Glossar
 !include -seamless GlosSar

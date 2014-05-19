@@ -11,8 +11,8 @@ Admin sollte sich in Liferay auskennen.
 
 !4 Normaler Ablauf
  * Aktor ruft ControlPanel auf und wechselt dort in die Community "Global".
- * Aktor wählt unter dem Menüpunkt "Webcontent" den Inhalt "REGISTRATION DESCRIPTION" aus.
- * Aktor wählt alternativ den Inhalt "LOGIN DESCRIPTION" aus. Beachte: die Filenamen müssen in UpperCase geschrieben sein.
+ * Aktor wählt unter dem Menüpunkt "Webcontent" den Inhalt "REGISTRATION_DESCRIPTION" aus.
+ * Aktor wählt alternativ den Inhalt "LOGIN_DESCRIPTION" aus. Beachte: die Filenamen müssen in UpperCase geschrieben sein.
  * Durch Klick auf den Filenamen oder durch Anklicken der entsprechenden Aktion kann er den Inhalt ändern.
  * Das System zeigt den Editor mitsamt dem Inhalt der entsprechenden Hilfe.
  * Der Aktor redigiert und klickt auf "Speichern".
