@@ -16,31 +16,36 @@ Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
  * Das System zeigt ihm daraufhin die Seite "Registrieren".
  * Im linken Teil sind Felder zum Ausfüllen; im rechten Teil ist eine Erklärung zum Ablauf der Registrierung; dort werden außerdem weitere Hilfen angeboten.
   * mje: Das ist eine Layoutinfo und gehört ins WebDesing
- * Das System zeigt die Felder folgenden verpflichtenden Felder:
-  * Vorname, 
-  * Login-Name und 
-  * Emailadresse sind erforderlich.
- * Das System zeigt die optionalen Felder:
-  * Alle anderen ... (TODO: mje: bitte benennen, wenn wichtig).
- * Bei den Feldern ist auch ein Mathe-Captcha, das zur Vermeidung von Missbrauch ausgefüllt sein muss, bevor die Daten vom System angenommen werden.
+ * Das System zeigt die Felder folgenden Felder:
+  * Vorname (verpflichtend)
+  * Nachname (optional)
+  * Login-Name (verpflichtend)
+  * Emailadresse (verpflichtend)
+  * Geschlecht (optional)
+  * Geburtsdatum (optional)
+ * Das System zeigt ein Mathe-Captcha.
  * Der Aktor füllt die Felder aus und drückt "senden"
- * Das System schickt unmittelbar danach eine Email an die angegebene Adresse.
+ * Das System prüft, ob alle Felder valide sind.
+  * die angezeigte Rechnung aus dem Captcha
+  * Mailadresse ist gültig
+ * Das System schickt eine Email mit dem Initial-Passwort an die vom Aktor angegebene Adresse.
  * Das System zeigt daraufhin die (normale) Anmeldeseite und eine Willkommensnachricht, in der steht, dass der Aktor in sein Postfach sehen soll. Auf der Seite ist der Login-Name bereits vorausgefüllt mit dem vorher angegebenen Login-Namen.
- * Der Aktor öffnet sein Postfach, liest die Email und findet sein Erstpasswort.
- * Der Aktor gibt das Erstpasswort aus der Email in das Feld Passwort ein und drückt "Anmelden".
+ * Der Aktor öffnet sein Postfach, liest die Email und findet sein Initial-Passwort.
+ * Der Aktor gibt das Initial-Passwort aus der Email in das Feld Passwort ein und drückt "Anmelden".
  * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn auf zuzustimmen.
  * Der Aktor drückt "Ich stimme zu"
  * Das System zeigt ihm daraufhin eine Seite mit der Aufforderung ein neues Passwort anzugeben. Zweimal, um Tippfehler zu vermeiden.
  * Der Aktor gibt ein neues Passwort an und drückt "Speichern".
  * Das System meldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Registrieren" gedrückt hat.
+
+mje: das folgende wird in einem anderen UseCase beschrieben - könnte hier unter siehe auch angezeigt werden.
  * Der Aktor ist nun angemeldet und kann dort fortsetzen, wo er beschlossen hat, sich zu registrieren (und sich anzumelden), um teilzunehmen.
  * Das System zeigt ihm auf dieser Seite rechts oben oberhalb seines Namens die Aufforderung beizutreten, WENN wenn es sich um eine Seite eines Diskussionskreises oder einer BI handelt.
  * Der Aktor kann nun beitreten, wenn er will. Siehe Requirement UseCase009.
 
-!4 Alternativer Ablauf
- * 
-
 !4 Siehe auch
+* Siehe Requirement UseCase009
+
 !4 Meta
 >MeTa
 
