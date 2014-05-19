@@ -20,5 +20,8 @@
 [[50 Todos][ToDo]]
 [[51 Alle System Anforderungen][SystemRequirementsSpecification]]
 
-!2 Lastenheft für spezifische Features
+!2 Features
 [[61 Aktuelles Meinungsbild][Feature001AktuellesMeinungsbild]]
+
+!2 Technische Aufteilung
+[[90 PA_Hook][Architecture090PaHook]]
