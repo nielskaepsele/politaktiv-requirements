@@ -4,21 +4,25 @@
 
 !4 Stakeholder
  * Die Stiftung legt großen Wert darauf, dass sich möglichst viele Benutzer registrieren.
- * Bürger möchten sich an Bürgerbeteiligungen in PolitAktiv beteiligen.
+ * Bürger möchten sich an Bürgerbeteiligungen in Polit@ktiv beteiligen.
 
 !4 Vorbedingung
-Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
+Benutzer ist noch nicht registriert und besitzt eine dauerhafte Email-Adresse
+Der beschriebene Ablauf gilt nur für Liferay V6.2ff
 
 !4 Normaler Ablauf
- * Der Aktor navigiert lesend durch PolitAktiv und möchte mitmachen.
- * Das System zeigt ihm auf (fast) allen Seiten oben rechts die Felder Login-Name, Passowort und den Button "Anmelden" und darüber den Button "Registrieren"
- * Der Aktor drückt "Registrieren"
- * Das System zeigt ihm daraufhin die Seite "Registrieren".
+ * Der Aktor navigiert lesend durch Polit@ktiv und möchte mitmachen.
+ * Das System zeigt ihm auf (fast) allen Seiten oben rechts den Button "Anmelden"
+ * Der Aktor drückt "Anmelden"
+ * Das System zeigt ihm daraufhin ein PopUp-Fenter mit den Feldern zur Anmeldung und weiteren Optioenn, darunter "Konto eröffnen".
+ * Der Aktor sieht rechts von den Feldern zum Login einen Text, der ihn auffordert, sich zu registrieren, wenn er zum ersten Mal hier ist.
+ * Im Text steht, dass er dazu auf den Text "Konto eröffnen" klicken muss am unteren Rand des PopUp-Fensters.
+ * Der Aktor klickt auf "Konot eröffnen"
+ * Das System zeigt ihm daraufhin eine Seite zum Registrieren. 
  * Im linken Teil sind Felder zum Ausfüllen; im rechten Teil ist eine Erklärung zum Ablauf der Registrierung; dort werden außerdem weitere Hilfen angeboten.
-  * mje: Das ist eine Layoutinfo und gehört ins WebDesing
  * Das System zeigt die Felder folgenden Felder:
   * Vorname (verpflichtend)
-  * Nachname (optional)
+  * Nachname (verpflichtend)
   * Login-Name (verpflichtend)
   * Emailadresse (verpflichtend)
   * Geschlecht (optional)
@@ -29,22 +33,37 @@ Benutzer ist noch nicht registriert und besitzt eine Email-Adresse
   * die angezeigte Rechnung aus dem Captcha
   * Mailadresse ist gültig
  * Das System schickt eine Email mit dem Initial-Passwort an die vom Aktor angegebene Adresse.
- * Das System zeigt daraufhin die (normale) Anmeldeseite und eine Willkommensnachricht, in der steht, dass der Aktor in sein Postfach sehen soll. Auf der Seite ist der Login-Name bereits vorausgefüllt mit dem vorher angegebenen Login-Namen.
+ * Das System zeigt daraufhin eine Anmeldeseite, in der steht, dass es das Initalpasswort an die angegebenen Email-Adresse geschickt habe. Er möge eventuell auch in seinem Spam-Ordner nachsehen.
+ * Der Aktor kann hier abbrechen und später durch Aufruf von Polit@ktiv fortsetzen (siehe Ablauf 2)
+ * Auf der Seite ist der Login-Name bereits vorausgefüllt mit dem vorher angegebenen Login-Namen.
  * Der Aktor öffnet sein Postfach, liest die Email und findet sein Initial-Passwort.
  * Der Aktor gibt das Initial-Passwort aus der Email in das Feld Passwort ein und drückt "Anmelden".
- * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn auf zuzustimmen.
+ * Das System trägt ihn zu diesem Zeitpunkt als Mitglied (Member) in den Diskussionskreis ein, von dem aus er auf "Anmelden" (mit folgender Kontoeröffnung) gedrückt hat.
+ * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn am unteren Ende des Textes auf, zuzustimmen.
  * Der Aktor drückt "Ich stimme zu"
  * Das System zeigt ihm daraufhin eine Seite mit der Aufforderung ein neues Passwort anzugeben. Zweimal, um Tippfehler zu vermeiden.
  * Der Aktor gibt ein neues Passwort an und drückt "Speichern".
- * Das System meldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Registrieren" gedrückt hat.
+ * Das System meldet ihn an und zeigt ihm die Seite, die der Aktor angesehen hat, bevor er auf "Anmelden" (mit folgender Kontoeröffnung) gedrückt hat.
+ * Das System trägt ihn außerdem gleich als Mitglied (Member) in den Diskussionskreis ein, von dem aus er auf "Anmelden" (mit folgender Kontoeröffnung) gedrückt hat.
 
-mje: das folgende wird in einem anderen UseCase beschrieben - könnte hier unter siehe auch angezeigt werden.
- * Der Aktor ist nun angemeldet und kann dort fortsetzen, wo er beschlossen hat, sich zu registrieren (und sich anzumelden), um teilzunehmen.
- * Das System zeigt ihm auf dieser Seite rechts oben oberhalb seines Namens die Aufforderung beizutreten, WENN wenn es sich um eine Seite eines Diskussionskreises oder einer BI handelt.
- * Der Aktor kann nun beitreten, wenn er will. Siehe Requirement UseCase009.
+!4 Ablauf 2 - Fortsetzung
+ * der Aktor ruft Polit@tktiv auf und klickt rechts oben auf "Anmelden"
+ * das System zeigt ihm ein PopUp-Fenster mit der Anmeldemaske
+ * der Aktor trägt seinen Loginnamen ein und das Erstpasswort, das er mit der Email zugeschickt bekommen hat und klickt auf "Anmelden".
+ * Das System trägt ihn zu diesem Zeitpunkt als Mitglied (Member) in den Diskussionskreis ein, von dem aus er auf "Anmelden" (mit folgender Kontoeröffnung) gedrückt hat.
+ * Das System zeigt ihm daraufhin die Nutzungsbedingungen und fordert ihn am unteren Ende des Textes auf, zuzustimmen.
+ * Der Aktor drückt "Ich stimme zu"
+ * Das System zeigt ihm daraufhin eine Seite mit der Aufforderung ein neues Passwort anzugeben. Zweimal, um Tippfehler zu vermeiden.
+ * Der Aktor gibt ein neues Passwort an und drückt "Speichern".
+ * Das System meldet ihn an und zeigt ihm die Seite, die der Aktor (vor längerer Zeit) angesehen hatte, bevor er auf "Anmelden" (mit folgender Kontoeröffnung) gedrückt hat.
+ 
 
 !4 Siehe auch
 * Siehe Requirement UseCase009
+mje: das folgende wird in einem anderen UseCase beschrieben - könnte hier unter siehe auch angezeigt werden.
+ * Der Aktor ist nun angemeldet und kann dort fortsetzen, wo er beschlossen hat, sich zu registrieren (und sich anzumelden), um teilzunehmen. MoM: No - siehe oben
+ * Das System zeigt ihm auf dieser Seite rechts oben oberhalb seines Namens die Aufforderung beizutreten, WENN wenn es sich um eine Seite eines Diskussionskreises oder einer BI handelt. MoM: wird hier nicht benötigt
+ * Der Aktor kann nun beitreten, wenn er will. Siehe Requirement UseCase009. MoM: No - wird hier nicht benötigt.
 
 !4 Meta
 >MeTa
