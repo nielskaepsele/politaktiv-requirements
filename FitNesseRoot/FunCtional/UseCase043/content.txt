@@ -3,10 +3,10 @@
  * Admin, Gast
 
 !4 Stakeholder
- * Projektleiter Integrata-Stiftung
+ * Projektleiter PolitAktiv der Integrata-Stiftung (PL P@ IST)
 
 !4 Normaler Ablauf
- * Der Admin wählt im Adminbereich die Gruppe "Global" aus.
+ * Der Admin wählt im Adminbereich "Global" aus.
  * Der Admin wählt den WebInhalt "TERMS_OF_USE" aus.
  * Der Admin kann den Webinhalt bearbeiten und speichern.
  * Das System zeigt jedem Gast, der sich registriert, den aktuellen Inhalt des o.g. Webinhalts an.
