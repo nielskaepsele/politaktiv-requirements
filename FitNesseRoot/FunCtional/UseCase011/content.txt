@@ -17,7 +17,7 @@
 
 !4 Alternativer Ablauf
  * Der Aktor möchte einem Mitglied eine Mail schicken und navigiert dazu zum Portlet "PolitAktiv Community Newsletter", das unter Moderator im DK eingestellt sein sollte.
- * Dort sucht er nach dem Mitglied und klickt aufdessen Eamil-Adresse.
+ * Dort sucht er nach dem Mitglied und klickt auf dessen Mail-Adresse.
  * Das System übergibt sie an das im Browser als Standard-Email-System eingestellte Mailsystem, z.B. also Outlook.
  * Der Aktor schreibt nun in Outlook eine Email.
 
