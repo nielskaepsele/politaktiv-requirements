@@ -6,15 +6,15 @@
  * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche   Kriterien die Bürger für sehr wichtig und welche anderen eher für   weniger wichtig halten. Dasselbe gilt für Ziele oder Themen anstelle von  Kriterien.
 
 !4 Vorbedingung
- * Das PolitAktiv-Meinungsbild ist auf einer Seite des Diskussionskreises, den der Moderator betreut, bereits eingerichtet.
+ * Das PolitAktiv-Meinungsbild (neuer Name PA-Präferenzabfrage) ist auf einer Seite des Diskussionskreises, den der Moderator betreut, bereits eingerichtet.
 
 !4 Normaler Ablauf
- * Der Aktor navigiert zu der Seite seines Diskussionskreises, die das PolitAktiv-Meinungsbild enthält.
+ * Der Aktor navigiert zu der Seite seines Diskussionskreises, die die PA-Präferenzabfrage enthält.
  * Das System zeigt ihm dieselbe Ansicht, die auch ein Mitglied zu sehen bekommt und zusätzlich einen Link "Konfigurationselemente einblenden".
- * Der Aktor blendet die Konfiguraionselemente ein.
+ * Der Aktor blendet die Konfigurationselemente ein.
  * Das System zeigt ein Feld, in das der Aktor die Maximalzahl von Punkten eingeben kann, die ein Mitglied insgesamt vergeben kann.
- * Das System zeigt ein weiteres Feld, in das der Aktor Maximalzahl von Punkte eingeben kann, die ein Mitglied pro Kriterium vergeben kann.
- * Das System zeigt einen Button "Speichern", der für die vergabe der Maximalpunktzahlen gilt.
+ * Das System zeigt ein weiteres Feld, in das der Aktor die Maximalzahl von Punkte eingeben kann, die ein Mitglied pro Kriterium vergeben kann.
+ * Das System zeigt einen Button "Speichern", der für die Vergabe der Maximalpunktzahlen gilt.
  * Das System zeigt sechs Gruppen von Feldern:
    * Neues Thema:
      * Eingabefeld für ein neues Thema (Kriteriengruppe, Themengruppe, Zielgruppe).

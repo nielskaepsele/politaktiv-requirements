@@ -1,3 +1,7 @@
 |Table:!-AcceptanceTest-!|${PAGE_NAME}                                |
-|Schrittnr.              |Aktion         |Erwartetes Ergebnis|Ergebnis|
-|1                       |Testschritt ...|                   |        |
+|Schrittnr.|Aktion         |Erwartetes Ergebnis|Ergebnis|
+|1|Anmelden als Moderator|| |
+|2|Navigieren zum Portlet PA-Präferenzabfrage|Link ist zu sehen "Konfigurationselemente einblenden"||
+|3|Klick auf "Konfigurationselemente einblenden"|Konfigurationselemente sind sichtbar:||
+Maximalzahl Punkte,
+MAximalzahl pro Thema
