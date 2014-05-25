@@ -10,7 +10,7 @@
 
 !4 Normaler Ablauf
  * Der Aktor navigiert zu der Seite seines Diskussionskreises, die die PA-Präferenzabfrage enthält.
- * Das System zeigt ihm dieselbe Ansicht, die auch ein Mitglied zu sehen bekommt und zusätzlich einen Link "Konfigurationselemente einblenden".
+ * Das System zeigt ihm dieselbe Ansicht, die auch ein Mitglied zu sehen bekommt und zusätzlich einen Link "Moderatorbedienung einblenden".
  * Der Aktor blendet die Konfigurationselemente ein.
  * Das System zeigt ein Feld, in das der Aktor die Maximalzahl von Punkten eingeben kann, die ein Mitglied insgesamt vergeben kann.
  * Das System zeigt ein weiteres Feld, in das der Aktor die Maximalzahl von Punkte eingeben kann, die ein Mitglied pro Kriterium vergeben kann.
@@ -31,7 +31,7 @@
      * Das Thema aus dem ersten Feld wird verschoben vor das Thema im zweiten Feld.
      * Dabei werden alle Unterthemen mitverschoben.
    * Neues Unterthema;
-     * Eingabefeld für ein neues Unterthema (Kiterium, Thema, Ziel).
+     * Eingabefeld für ein neues Unterthema (Kriterium, Thema, Ziel).
      * Eingabefeld für den URL zu diesem Unterthema.
      * Dropdownfeld mit allen verfügbaren Themen, sortiert in der eingestellten Reihenfolge.
      * Button "Unterthema anlegen".
