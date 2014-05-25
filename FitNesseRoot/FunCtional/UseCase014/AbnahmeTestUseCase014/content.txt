@@ -1,7 +1,13 @@
-|Table:!-AcceptanceTest-!|${PAGE_NAME}                                |
-|Schrittnr.|Aktion         |Erwartetes Ergebnis|Ergebnis|
-|1|Anmelden als Moderator|| |
-|2|Navigieren zum Portlet PA-Präferenzabfrage|Link ist zu sehen "Konfigurationselemente einblenden"||
-|3|Klick auf "Konfigurationselemente einblenden"|Konfigurationselemente sind sichtbar:||
-Maximalzahl Punkte,
-MAximalzahl pro Thema
+| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| 1 | Anmelden als Moderator | | |
+| 2 | Navigieren zum Portlet PA-Präferenzabfrage | Link ist zu sehen "Moderatorbedienung einblenden" | |
+| 3 | Klick auf "Moderatorbedienung einblenden" | Konfigurationselemente sind sichtbar: 1. "Maximale Anzahl Punkte pro Bürger      (Richtwert: Wurzel aus Anzahl Unterthemen,     wichtig: größer Null)" 2. "Maximale Anzahl Punkte pro Unterthema" 3. Tabelle mit den sechs Feldgruppen wie beschrieben | |
+| 4 | Eingabe Maximalzahl Gesamtpunkte | | |
+| 5 | Eingabe Maximalzahl Punkte pro Unterthema | | |
+| 6 | Neues Thema hinzufügen | | |
+| | Neues Unterthema eingeben | | |
+| | Zweites Unterthema eingeben | | |
+| 7 | Zweites neues Thema eingeben | | |
+| 8 | Thema löschen testen | | |
+| 9 | | | |
