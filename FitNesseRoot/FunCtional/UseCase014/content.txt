@@ -1,4 +1,4 @@
-!3 UseCase014 Meinungsbild konfigurieren
+!3 UseCase014 Präferenzabfrage konfigurieren
 !4 Aktor
  * Moderator oder vorläufiger Moderator
 
@@ -6,7 +6,7 @@
  * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche   Kriterien die Bürger für sehr wichtig und welche anderen eher für   weniger wichtig halten. Dasselbe gilt für Ziele oder Themen anstelle von  Kriterien.
 
 !4 Vorbedingung
- * Das PolitAktiv-Meinungsbild (neuer Name PA-Präferenzabfrage) ist auf einer Seite des Diskussionskreises, den der Moderator betreut, bereits eingerichtet.
+ * Das Portlet [[PA][PolitAktiv]]-Präferenzabfrage (alter Name PolitAkltiv Meinungsbild) ist auf einer Seite des Diskussionskreises, den der Moderator betreut, bereits eingerichtet.
 
 !4 Normaler Ablauf
  * Der Aktor navigiert zu der Seite seines Diskussionskreises, die die PA-Präferenzabfrage enthält.

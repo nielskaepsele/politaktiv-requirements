@@ -3,7 +3,7 @@
  * Admin
 
 !4 Stakeholder und deren Interessen:
- * Anwender hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
+ * Anwender oder Partner hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
 
 !4 Vorbedingung
 Der Aktor hat mehrere Browser zur Verfügung.
@@ -26,7 +26,6 @@ Der Aktor hat mehrere Browser zur Verfügung.
    * erstellt den DK, indem er "Speichern" klickt.
  * Der Aktor geht in einen anderen Browser, in dem er in PolitAktiv nicht angemeldet ist, und ruft die neue friendly URL auf.
  * Das System fordert ihn auf, sich einzuloggen, ohne ihm die neue Seite anzuzeigen.
-   * Falls dennoch die neue Seite angezeigt wird, muss der Aktor die Berechtigung auf allen betroffenen Seiten so abändern, dass sie nicht mehr für Gäste sichtbar ist. Dieser Vorgang gehört nicht zum UseCase017, sondern wird getrennt bei den Rechten beschrieben.
 
 !4 Alternativer Ablauf
  * 
