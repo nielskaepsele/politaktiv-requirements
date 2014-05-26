@@ -1,4 +1,4 @@
-!3 UseCase018 Diskussionskreis freigeben
+!3 UseCase018 UC löschen!
 !4 Aktor
  * Admin
 
@@ -14,12 +14,12 @@ Der Diskussionskreis ist eingerichtet und hat seine Erstbefüllung bekommen. Er 
    * Ist die betroffene Verwaltung benannt?
    * Ist der zuständige Moderator benannt?
    * Ist intuitive Navigation vorhanden?
-   * Ist das PolitAktiv-Karten-Portlet eingerichtet? 
+   * Ist das PolitAktiv-Karten-Portlet eingerichtet?
    * Ist das Meinungsbild-Portlet eingerichtet? zunächst noch "versteckt"!
    * Ist das Forum, das Forum light und sind Ergebnis-Seiten eingerichtet?
  * Wenn alles bejaht werden kann, ruft der Aktor das ControlPanel auf und navigiert dort zur Community (Diskussionskreis).
  * Das System zeigt ihm die Eigenschaften der Community
- * Der Aktor schaltet die Community von "privat"  auf "Öffentlich".
+ * Der Aktor schaltet die Community von "privat"  auf "Öffentlich".
  * Der Aktor informiert den Moderator, der nun alle Seiten auch Gästen zum Lesen zugänglich machen soll.
 
 !4 Alternativer Ablauf
