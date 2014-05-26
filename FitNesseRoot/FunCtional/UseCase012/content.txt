@@ -1,4 +1,4 @@
-!3 UseCase012 Meinungsbild ansehen
+!3 UseCase012 Präferenzabfrage ansehen
 !4 Aktor
  * Gast
 

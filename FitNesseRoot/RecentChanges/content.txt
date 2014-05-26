@@ -1,4 +1,7 @@
-|FunCtional.UseCase012|mom|20:18:01 Mon, May 26, 2014|
+|FunCtional.UseCase013|mom|20:29:26 Mon, May 26, 2014|
+|FunCtional.UseCase013.AbnahmeTestUseCase013|mom|20:25:58 Mon, May 26, 2014|
+|FunCtional.UseCase012|mom|20:21:57 Mon, May 26, 2014|
+|FunCtional.UseCase012.AbnahmeTestUseCase012|mom|20:20:55 Mon, May 26, 2014|
 |ScoPe|mom|23:45:50 Sun, May 25, 2014|
 |FunCtional.UseCase014.AbnahmeTestUseCase014|mom|23:18:50 Sun, May 25, 2014|
 |FunCtional.UseCase014|mom|22:39:41 Sun, May 25, 2014|
@@ -41,7 +44,6 @@
 |FunCtional.UseCase026|mje|15:22:30 Mon, Jan 06, 2014|
 |FunCtional.UseCase025|mje|15:22:20 Mon, Jan 06, 2014|
 |FunCtional.UseCase018|mje|15:22:09 Mon, Jan 06, 2014|
-|FunCtional.UseCase013|mje|15:21:47 Mon, Jan 06, 2014|
 |FunCtional.UseCase037.AbnahmeTestUseCase037|mom|14:05:23 Thu, Jan 02, 2014|
 |FunCtional.UseCase037.MeTa|mom|14:04:51 Thu, Jan 02, 2014|
 |FunCtional.UseCase036.AbnahmeTestUseCase036|mom|13:55:21 Thu, Jan 02, 2014|
@@ -72,9 +74,7 @@
 |OpenQuestions|mje|23:15:50 Mon, Dec 30, 2013|
 |VisionAndPurpose|mje|23:04:42 Mon, Dec 30, 2013|
 |FunCtional.UseCase014.MeTa|mom|16:30:54 Mon, Dec 30, 2013|
-|FunCtional.UseCase013.AbnahmeTestUseCase013|mom|16:02:45 Mon, Dec 30, 2013|
 |FunCtional.UseCase013.MeTa|mom|16:01:32 Mon, Dec 30, 2013|
-|FunCtional.UseCase012.AbnahmeTestUseCase012|mom|15:07:27 Mon, Dec 30, 2013|
 |FunCtional.UseCase012.MeTa|mom|15:06:53 Mon, Dec 30, 2013|
 |FunCtional.UseCase011.MeTa|mom|11:55:39 Mon, Dec 30, 2013|
 |PolitAktiv|mom|11:47:29 Mon, Dec 30, 2013|
