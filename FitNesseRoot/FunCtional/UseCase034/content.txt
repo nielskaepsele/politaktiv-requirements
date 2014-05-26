@@ -10,13 +10,13 @@
 
 !4 Vorbedingung
 !4 Normaler Ablauf für den Gast
- * Der Aktor navigiert auf die Startseite, auf der das PolitAktiv-Community-Portlet dargestellt ist in der schmalen Version
+ * Der Aktor navigiert auf die Startseite, auf der das [[Polit@ktiv][PolitAktiv]]-Community-Portlet dargestellt ist in der schmalen Version
  * Das System zeigt ihm in einer Liste die neuesten Diskussionskreise in umgekehrter zeitlicher Reihenfolge, also den neuesten oben.
  * Die Diskussionskreise sind durch ihr Icon und ihren Namen dargestellt und mit einem URL hinterlegt, der direkt zur Landingpage des DK führt.
  * Hinter jedem Diskussionskries steht "Bitte anmelden"
 
 !4 Normaler Ablauf für den Benutzer
- * Der Aktor navigiert auf die Startseite, auf der das PolitAktiv-Community-Portlet dargestellt ist in der schmalen Version
+ * Der Aktor navigiert auf die Startseite, auf der das [[Polit@ktiv][PolitAktiv]]-Community-Portlet dargestellt ist in der schmalen Version
  * Das System zeigt ihm in einer Liste oben zunächst seine eigenen Diskussionskreise und darunter einige der neuesten Diskussionskreise in umgekehrter zeitlicher Reihenfolge, also den neuesten oben.
  * Die Diskussionskreise sind durch ihr Icon und ihren Namen dargestellt und mit einem URL hinterlegt, der direkt zur Landingpage des DK führt.
  * Hinter jedem Diskussionskreis steht je nach Status des Benutzers:
@@ -25,7 +25,7 @@
    * "Mitgliedschaft beantragen", falls er nicht Mitglied der BI ist
 
 !4 Alternativer Ablauf für den Designer
- * Der Aktor geht auf die Seite mit dem PolitAktiv-Community-Portlet und klickt in den Bedienelementen auf "Präferenzes"
+ * Der Aktor geht auf die Seite mit dem [[Polit@ktiv][PolitAktiv]]-Community-Portlet und klickt in den Bedienelementen auf "Präferenzes"
  * Das System zeigt ihm zusätzlich zu seiner Liste, die er als Benutzer sowieso sieht, eine Anzahl von Feldern, mit denen er die Listendarstellung verändern kann:
  * Darstellungsversion:
    * Breite Version: bewirkt die Darstellung, die in "alle Projekte" üblich ist
@@ -34,7 +34,7 @@
    * Minimalanzahl der neuesten Diskussionskreise
    * Maximalanzahl der neuesten Diskussionskreise
  * Der Aktor kann die Präferenzes einstellen und klickt auf "Speichern".
- * Das System zeigt ihm die neue Darstellung, in der von ihm angegebenen Art. 
+ * Das System zeigt ihm die neue Darstellung, in der von ihm angegebenen Art.
 
 !4 Siehe auch
 !4 Meta
