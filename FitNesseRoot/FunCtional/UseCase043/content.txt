@@ -1,12 +1,12 @@
-!3 UseCase043 Terms & Conditions bearbeiten 
+!3 UseCase043 Terms & Conditions bearbeiten
 !4 Aktor
- * Admin, Gast
+ * Admin
 
 !4 Stakeholder
- * Projektleiter PolitAktiv der Integrata-Stiftung (PL P@ IST)
+ * Projektleiter PolitAktiv der Integrata-Stiftung (PL P@ IST), Datenschutzbeauftragter von BW
 
 !4 Normaler Ablauf
- * Der Admin wählt im Adminbereich "Global" aus.
+ * Der Admin wählt im Kontrollbereich "Global" aus.
  * Der Admin wählt den WebInhalt "TERMS_OF_USE" aus.
  * Der Admin kann den Webinhalt bearbeiten und speichern.
  * Das System zeigt jedem Gast, der sich registriert, den aktuellen Inhalt des o.g. Webinhalts an.
@@ -17,4 +17,5 @@
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase043
+
 !include -seamless >AbnahmeTestUseCase043

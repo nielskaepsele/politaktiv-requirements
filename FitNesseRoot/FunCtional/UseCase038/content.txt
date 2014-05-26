@@ -3,15 +3,15 @@
  * Gast, also jeder
 
 !4 Stakeholder
- * Stiftung mächte, dass auch Neubürger bequem teilnehmen können und damit das politische Ziel unterstützen, Neubürger schneller zu integrieren.
+ * Stiftung möchte, dass auch Neubürger bequem teilnehmen können und damit das politische Ziel unterstützen, Neubürger schneller zu integrieren.
 
 !4 Vorbedingung
  * Einige Inhalte sind in fremden Sprachen verfügbar.
 
 !4 Normaler Ablauf
- * Der Aktor navigiert durch PolitAktiv, versteht etwas nicht und möchte es in seiner Muttersprache oder in einer ihm besser geläufigen Sprache lesen.
+ * Der Aktor navigiert durch [[Polit@ktiv][PolitAktiv]], versteht etwas nicht und möchte es in seiner Muttersprache oder in einer ihm besser geläufigen Sprache lesen.
  * Der Aktor klickt auf die Flagge des Landes, in dem die von ihm gewünschte Sprache gesprochen wird.
- * Das System zeigt  alle in der gewünschten Sprache verfügbaren Begriffe und Inhalte an. Ansonsten werden weiterhin als default Deutsche Ausdrücke und Inhalte angezeigt.
+ * Das System zeigt  alle in der gewünschten Sprache verfügbaren Begriffe und Inhalte an. Ansonsten werden weiterhin als default Deutsche Ausdrücke und Inhalte angezeigt.
 
 !4 Alternativer Ablauf
  * 

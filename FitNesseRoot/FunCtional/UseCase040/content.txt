@@ -10,7 +10,7 @@
 Admin sollte sich in Liferay auskennen.
 
 !4 Normaler Ablauf
- * Aktor ruft ControlPanel auf und wechselt dort zu "Global".
+ * Aktor ruft im [[Kontrollbereich][ControlPanel]] die Sites auf und wechselt dort zu "Global".
  * Aktor wählt unter dem Menüpunkt "Webcontent" den Inhalt "REGISTRATION_DESCRIPTION" aus.
  * Aktor wählt alternativ den Inhalt "LOGIN_DESCRIPTION" aus. Beachte: die Filenamen müssen in UpperCase geschrieben sein.
  * Durch Klick auf den Filenamen oder durch Auswahl der entsprechenden Aktion kann er den Inhalt ändern.
@@ -28,4 +28,5 @@ Admin sollte sich in Liferay auskennen.
 
 !4 Abnahme Tests
 >AbnahmeTestUseCase040
+
 !include -seamless >AbnahmeTestUseCase040
