@@ -7,7 +7,7 @@
 
 !4 Vorbedingung
 !4 Normaler Ablauf
- * tbc
+ * Erst in einer späteren Version!
 
 !4 Alternativer Ablauf
  * 
