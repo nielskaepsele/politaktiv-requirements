@@ -6,15 +6,14 @@
  * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche Kriterien die Bürger für sehr wichtig und welche anderen eher für weniger wichtig halten. Dasselbe gilt für Ziele anstelle von Kriterien.
 
 !4 Vorbedingung
-Das Portlet PolitAktiv-Meinungsbild (neuer Name: "PA-Präferenzabfrage") ist in einem Diskussionskreis eingebaut, vom Moderator konfiguriert und bereits von Mitgliedern benutzt worden.
+Das Portlet [[Polit@ktiv][PolitAktiv]]-Meinungsbild (neuer Name: "PA-Präferenzabfrage") ist in einem Diskussionskreis eingebaut, vom Moderator konfiguriert und bereits von Mitgliedern benutzt worden.
 
 !4 Normaler Ablauf
  * Der Aktor navigiertauf eine Seite, auf der das Portlet PA-Präferenzabfrage angezeigt wird.
- * Das Portlet PolitAktiv-Meinungsbild zeigt unterhalb der Überschrift eine kurze Erläuterung zur Bedienung.
+ * Das Portlet [[PA-Präferenzabfrage][PolitAktiv]] zeigt unterhalb der Überschrift eine kurze Erläuterung zur Bedienung.
  * Das System zeigt ihm die noch zusammengeklappte Kriterienliste der Präferenzabfrage. Es zeigt für jede Gruppe von Kriterien die Summe der bisher dafür von den Mitgliedern des DK vergebenen Punkte.
  * Der Aktor kann auf das "+"-Zeichen einer Gruppe klicken.
  * Das System zeigt ihm daraufhin (zusätzlich zu den bereits in der Übersicht vorhandenen Gruppen mit deren aufsummierten Punkten) die in dieser Gruppe vorhandenen Kriterien mit den jeweils dafür vergebenen Punkten.
-
 
 !4 Alternativer Ablauf
  * 
