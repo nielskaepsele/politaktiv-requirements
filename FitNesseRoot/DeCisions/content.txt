@@ -1,1 +1,6 @@
 !contents -R2 -g -p -f -h
+!3 Namenszug
+der gültige Namenszug lautet: '''Polit@ktiv'''
+
+!3 Logo
+mit dem Logo darf nicht gespielt werden, daher enthalten die Homepage und die Landingpages keine stilisierten Schattenrisse, sondern Kacheln.

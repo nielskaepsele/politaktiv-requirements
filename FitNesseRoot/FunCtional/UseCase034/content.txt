@@ -5,8 +5,8 @@
  * Designer
 
 !4 Stakeholder
- * Gäste möchten die neusten öffentlichen Projekte auf der Startseite sehen
- * Benutzer möchten ihre eigenen Projekte und die neuesten öffentlichen Projekte auf der Startseite sehen
+ * Gäste möchten die neusten öffentlichen Projekte möglichst auf der Startseite sehen
+ * Benutzer möchten ihre eigenen Projekte und die neuesten öffentlichen Projekte möglichst auf der Startseite sehen
 
 !4 Vorbedingung
 !4 Normaler Ablauf für den Gast

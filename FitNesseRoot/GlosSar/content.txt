@@ -1,1 +1,5 @@
+!3 Homepage Polit@ktiv
+!3 Landingpage
+!3 Themenseite
+!3 Unterthemenseite
 !contents -R2 -g -p -f -h
