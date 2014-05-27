@@ -9,9 +9,8 @@
 Der Benutzer muss angemeldet sein
 
 !4 Normaler Ablauf
- * Das System dem Actor zeigt "my account/mein Konto" an.
- * Der Aktor wählt "mein Konto".
- * Das System zeigt dem Aktor die persönlichen Daten.
+ * Aktor klickt auf den drop-down-Pfeil bei seinem Namen rechts oben in der Nav-Bar und wählt "mein Konto"
+ * Das System zeigt dem Aktor "Mein Konto" an mit den persönlichen Daten.
  * Der Aktor kann diese Informationen bearbeiten und speichern.
 
 !4 Siehe auch
