@@ -29,6 +29,8 @@ Der Aktor ist nicht angemeldet (also Gast), hat sich aber früher schon mal regi
  * 
 
 !4 Siehe auch
+Ist bisher in 4 Jahren noch nie vorgekommen. Wir können darauf verzichten. Die Benutzer legen sich eher ein neues Konto an (Schon oft vorgekommen), als dass sie auf "Kennwort vergessen" klicken.
+
 !4 Meta
 >MeTa
 
