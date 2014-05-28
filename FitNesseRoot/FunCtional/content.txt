@@ -31,6 +31,7 @@
 | FunCtional.UseCase042 | !include -h FunCtional.UseCase042 | !include -h FunCtional.UseCase042.MeTa |
 | FunCtional.UseCase043 | !include -h FunCtional.UseCase043 | !include -h FunCtional.UseCase043.MeTa |
 | FunCtional.UseCase040 | !include -h FunCtional.UseCase040 | !include -h FunCtional.UseCase040.MeTa |
+| FunCtional.UseCase044 | !include -h FunCtional.UseCase044 | !include -h FunCtional.UseCase044.MeTa |
 | !2 Moderator Funktionen |
 | FunCtional.UseCase011 | !include -h FunCtional.UseCase011 | !include -h FunCtional.UseCase011.MeTa |
 
