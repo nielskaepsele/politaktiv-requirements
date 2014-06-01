@@ -23,7 +23,7 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
 
 !4 Alternativer Ablauf 1 Beitreten
  * Der Aktor navigiert auf eine Seite, auf der das Community-Portlet angezeigt wird, und wählt dort einen Tab aus: entweder "Offene Diskussionskreise" oder "Beschränkte Diskussionskreise"
- * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Beitreten" oder den Link "Aufgeben".
+ * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Beitreten" oder den Link "Austreten".
  * Der Aktor klickt auf den Link "Beitreten" eines Diskussionskreises, dem er bisher noch nicht beigetreten ist.
  * Das System zeigt dieselbe Liste und hinter dem Diskussionskreis, dem der Aktor soeben beigetreten ist, nun aber den Link "austreten".
  * Der Aktor klickt auf den Tab "Meine Diskussionskreise".

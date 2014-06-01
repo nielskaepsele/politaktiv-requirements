@@ -10,9 +10,9 @@ Der Aktor muss bereits registriert sein, darf aber noch nicht angemeldet sein. E
 
 !4 Normaler Ablauf
  * Der Aktor navigiert durch die Diskussionskreise von [[Polit@ktiv][PolitAktiv]] und wünscht mitdiskutieren zu können.
- * Das System zeigt dem Aktor auf jeder Seite rechts oben in der NAv-Bar den Button "Anmelden".
+ * Das System zeigt dem Aktor auf jeder Seite rechts oben in der Nav-Bar den Button "Anmelden".
  * Der Aktor klickt auf Anmelden.
- * DAs System zeigt ihm ein PopUp-Fenster mit einer Anmeldemaske und erklärendem text rechts von den Anmeldefeldern.
+ * Das System zeigt ihm ein PopUp-Fenster mit einer Anmeldemaske und erklärendem Text rechts von den Anmeldefeldern.
  * Der Aktor trägt in das Feld
    * Username seinen Anmeldenamen ein und
    * in das Feld Passwort sein Passwort und klickt auf "Anmelden".
@@ -20,7 +20,7 @@ Der Aktor muss bereits registriert sein, darf aber noch nicht angemeldet sein. E
  * Das System zeigt dem Aktor (jetzt Benutzer) dieselbe Seite an, von der aus er sich angemeldet hat.
  * Das System zeigt rechts oben in de Nav-Bar den Namen des Benutzers und ein Feld "Meine Kreise".
  * -
- * Der Benutzer kann jederzeit sein Namensfeld nach unten ausklappen und dort auf die Auswahl Abmelden klicken.
+ * Der Benutzer kann jederzeit sein Namensfeld nach unten ausklappen und dort auf die Auswahl "Abmelden" klicken.
  * Das System meldet den Benutzer ab.
  * Das System zeigt dem Benutzer dieselbe Seite an, von der aus er sich abgemeldet hat.
    * Ausnahme: Diese Seite soll für einen Gast nicht sichtbar sein. Dann zeigt das System eine Fehlermedung an.
