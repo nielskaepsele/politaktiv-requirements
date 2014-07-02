@@ -1,0 +1,23 @@
+!3 UseCase048 MailService
+!4 Aktor
+ * InterFaces.InterFace001 Mailversand
+
+!4 Normaler Ablauf (produktiv)
+ * Der Service nimmt die Mail entgegen und bestätigt die Entgegenahme
+ * Der Service wiederholt (Abbruch maxTime, success)
+   * die Auslieferung der Mail an den Mailserver der Zieladresse
+
+!4 Alternativer Ablauf (test)
+ * Der Service nimmt die Mail entgegen und bestätigt die Entgegenahme
+ * Der Service wiederholt (Abbruch maxTime, success)
+   * die Auslieferung der Mail an den Mailserver einer hinterlegten Test-Mail-Adresse
+
+!4 Siehe auch
+ * InterFaces.InterFace001 Mailversand
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase0nn
+!include -seamless >AbnahmeTestUseCase0nn

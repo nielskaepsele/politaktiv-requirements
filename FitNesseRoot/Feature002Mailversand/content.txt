@@ -14,9 +14,8 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
 !1 Funktionale Anforderungen
 !2 Mailversand
-
-
-!include -seamless FunCtional.UseCase014
+!include -seamless InterFaces.InterFace001
+!include -seamless FunCtional.UseCase048
 
 !1 Glossar
 !include -seamless GlosSar
