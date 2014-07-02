@@ -1,11 +1,11 @@
-!3 UseCase048 Production MailService
+!3 UseCase049 Test MailService
 !4 Aktor
  * InterFaces.InterFace001 Mailversand
 
 !4 Normaler Ablauf
  * Der Service nimmt die Mail entgegen und bestätigt die Entgegenahme
  * Der Service wiederholt (Abbruch maxTime, success)
-   * die Auslieferung der Mail an den Mailserver der Zieladresse
+   * die Auslieferung der Mail an den Mailserver einer hinterlegten Test-Mail-Adresse
 
 !4 Siehe auch
  * InterFaces.InterFace001 Mailversand
