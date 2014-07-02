@@ -20,6 +20,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase048
 !include -seamless NonFunctional.NonFunctional002
 !include -seamless NonFunctional.NonFunctional003
+!include -seamless NonFunctional.NonFunctional004
 
 !1 Glossar
 !include -seamless GlosSar

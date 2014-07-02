@@ -1,0 +1,14 @@
+!3 NonFunctional0nn Ueberschrift
+
+!4 Beschreibung
+ * 
+
+!4 Siehe auch
+ * 
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase0nn
+!include -seamless >AbnahmeTestUseCase0nn
