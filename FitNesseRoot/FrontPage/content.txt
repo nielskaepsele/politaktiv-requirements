@@ -22,6 +22,7 @@
 
 !2 Features
 [[61 Aktuelles Meinungsbild][Feature001AktuellesMeinungsbild]]
+[[62 Mailversand][Feature002Mailversand]]
 
 !2 Technische Aufteilung
 [[90 PA_Hook][Architecture090PaHook]]

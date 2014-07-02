@@ -1,0 +1,17 @@
+!3 InterFace001 Mailversand
+
+!4 Auslöser
+!4 Parameter
+!4 Ergebnisse
+!4 Fehlerbehandlung
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase041
+
+
+
+
