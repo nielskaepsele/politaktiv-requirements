@@ -1,7 +1,9 @@
+|Feature002Mailversand|mje|17:09:46 Wed, Jul 02, 2014|
+|NonFunctional|mje|17:06:47 Wed, Jul 02, 2014|
+|NonFunCtional|mje|17:06:03 Wed, Jul 02, 2014|
 |FunCtional|mje|16:59:46 Wed, Jul 02, 2014|
 |FunCtional.UseCase048|mje|16:58:49 Wed, Jul 02, 2014|
 |FunCtional.UseCase049|mje|16:58:30 Wed, Jul 02, 2014|
-|Feature002Mailversand|mje|12:02:53 Wed, Jul 02, 2014|
 |InterFaces.InterFace001|mje|11:55:01 Wed, Jul 02, 2014|
 |InterFaces|mje|11:45:53 Wed, Jul 02, 2014|
 |FrontPage|mje|11:41:35 Wed, Jul 02, 2014|
@@ -57,7 +59,6 @@
 |ProCess.PrOc007|mje|08:59:31 Sat, Mar 08, 2014|
 |SystemRequirementsSpecification|mje|13:53:30 Fri, Feb 28, 2014|
 |Feature001AktuellesMeinungsbild|mje|13:47:29 Fri, Feb 28, 2014|
-|NonFunCtional|mje|22:14:45 Thu, Feb 20, 2014|
 |FunCtional.UseCase032.MeTa|mje|11:19:13 Tue, Jan 07, 2014|
 |ReleaseRequirementsSpecification201401|mje|19:55:27 Mon, Jan 06, 2014|
 |FunCtional.UseCase037|mje|15:24:07 Mon, Jan 06, 2014|
@@ -97,4 +98,3 @@
 |FunCtional.UseCase012.MeTa|mom|15:06:53 Mon, Dec 30, 2013|
 |FunCtional.UseCase011.MeTa|mom|11:55:39 Mon, Dec 30, 2013|
 |PolitAktiv|mom|11:47:29 Mon, Dec 30, 2013|
-|FunCtional.UseCase040.AbnahmeTestUseCase040|mom|22:12:50 Sun, Dec 29, 2013|

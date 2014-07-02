@@ -16,6 +16,10 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !2 Mailversand
 !include -seamless InterFaces.InterFace001
 !include -seamless FunCtional.UseCase048
+!include -seamless FunCtional.UseCase049
+!include -seamless FunCtional.UseCase048
+!include -seamless NonFunctional.NonFunctional002
+!include -seamless NonFunctional.NonFunctional003
 
 !1 Glossar
 !include -seamless GlosSar

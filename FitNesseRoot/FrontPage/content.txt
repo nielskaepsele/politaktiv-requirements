@@ -11,7 +11,7 @@
 [[14 Prozesse][ProCess]]
 [[15 Rollen und Personen][PersonAndRole]]
 [[16 Funktionale Anforderungen][FunCtional]]
-[[17 Nichtfunktionale Anforderungen][NonFunCtional]]
+[[17 Nichtfunktionale Anforderungen][NonFunctional]]
 [[18 Schnittstellen][InterFaces]]
 [[19 Entscheidungen][DeCisions]]
 [[20 Glossar][GlosSar]]
