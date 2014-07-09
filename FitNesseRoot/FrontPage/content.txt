@@ -26,3 +26,6 @@
 
 !2 Technische Aufteilung
 [[90 PA_Hook][Architecture090PaHook]]
+
+!2 Technische Accounts
+TechnischeAccounts
