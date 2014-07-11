@@ -6,7 +6,7 @@
  * PolitAktiv IT
 
 !4 Anstoss (Trigger)
-PO beantragt einen neuen Zugang
+PO beantragt in Jira einen neuen Zugang
 
 !4 Normaler Verlauf
  1 Ein IT-Admin erhält die Aufforderungn, einen neuen BenutzerAccount für das CRM einzurichten. Enthaltene Angaben sind:
