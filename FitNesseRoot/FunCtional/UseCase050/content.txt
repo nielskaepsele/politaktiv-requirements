@@ -1,16 +1,16 @@
-!3 UseCase050 Zentrale Inhalte pflegen
+!3 UseCase050 Globale Inhalte pflegen
 !4 Aktor
  * Admin
 
 !4 Stakeholder
- * Die Integrata-Stiftung, die Inhalte zentral pflegen möchte.
+ * Das Integrata-Projekt-Management, dase globale Inhalte pflegen möchte.
 
 !4 Vorbedingung
 Admin sollte sich in Liferay auskennen.
 
 !4 Normaler Ablauf
  * Aktor ruft im [[Kontrollbereich][ControlPanel]] die Sites auf und wechselt dort zu "Global".
- * Aktor wählt unter dem Menüpunkt "Webcontent" aus (Beachte: die Filenamen müssen in UpperCase geschrieben sein.):
+ * Aktor wählt unter dem Menüpunkt "Webcontent" aus (Beachte: die Filenamen müssen in Upper Case geschrieben sein.):
    * für die Navigations-Topbar "SYSTEM_IST_TOP_BAR"
    * für die statischen Bookmarks zu den Sozialen PolitAktiv Auftritten "SYSTEM_STATIC_SOCIAL_BM"
  * Durch Klick auf den Filenamen oder durch Auswahl der entsprechenden Aktion kann er den Inhalt ändern.
