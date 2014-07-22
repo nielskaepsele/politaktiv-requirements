@@ -3,7 +3,7 @@
  * Admin
 
 !4 Stakeholder
- * Das Integrata-Projekt-Management, dase globale Inhalte pflegen möchte.
+ * Das Integrata-Projekt-Management, das globale Inhalte pflegen möchte.
 
 !4 Vorbedingung
 Admin sollte sich in Liferay auskennen.
