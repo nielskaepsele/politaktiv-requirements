@@ -13,18 +13,18 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
 
 !4 Normaler Ablauf Beitreten (im neuem Design von 6.2.1)
  * Der Aktor navigiert durch die Seiten von PolitAktiv und entdeckt einen DK, in dem er gerne mitdiskutieren möchte, dem er aber noch nicht beigetreten ist.
- * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, links neben der Nav-Bar: 
-  * einen Button mit der Aufforderung beizutreten.
-  * der Text auf dem Button ist sprachabhängig und lautet auf Deutsch: "Diskussionskreis beitreten"
- * Der Aktor klickt auf den URL "Diskussionskreis beitreten".
+ * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, links neben der Nav-Bar:
+   * einen Button mit der Aufforderung beizutreten.
+   * der Text auf dem Button ist sprachabhängig und lautet auf Deutsch: "Mitmachen"
+ * Der Aktor klickt auf den URL "Mitmachen".
  * Das System macht ihn zum Member in diesem Diskussionskreis.
  * Das System zeigt ihm dieselbe Seite, nun aber ohne die Aufforderung beizutreten.
  * Der Aktor sieht rechts oben nur noch die sonstigen Felder der Nav-Bar (Admin, Meine Sites, Login-Name).
 
 !4 Alternativer Ablauf 1 Beitreten
  * Der Aktor navigiert auf eine Seite, auf der das Community-Portlet angezeigt wird, und wählt dort einen Tab aus: entweder "Offene Diskussionskreise" oder "Beschränkte Diskussionskreise"
- * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Beitreten" oder den Link "Austreten".
- * Der Aktor klickt auf den Link "Beitreten" eines Diskussionskreises, dem er bisher noch nicht beigetreten ist.
+ * Das System zeigt eine Liste aller verfügbaren Diskussionskreise des jeweiligen Typs an und hinter jedem Diskussionskreis entweder den Link "Mitmachen" oder den Link "Austreten".
+ * Der Aktor klickt auf den Link "Mitmachen" eines Diskussionskreises, dem er bisher noch nicht beigetreten ist.
  * Das System zeigt dieselbe Liste und hinter dem Diskussionskreis, dem der Aktor soeben beigetreten ist, nun aber den Link "austreten".
  * Der Aktor klickt auf den Tab "Meine Diskussionskreise".
  * Das System zeigt ihm eine Liste aller Diskussionskreise, denen er schon beigetreten ist. Darunter befindet sich auch der Diskussionskreis, dem er soeben beigetreten ist.
@@ -33,9 +33,9 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
  * Der Aktor möchte den Diskussionskreis verlassen.
  * Das System macht es ihm nicht leicht (ist so gewollt).
  * Der Aktor findet die Möglichkeit auf der Seite mit dem Community-Portlet in der breiten Version unter "meine Projekte"
- * Das System zeigt auf allen drei Tabs die Diskussiosnkreise so an, dass dahinter entweder "beitreten" oder "austreten" steht.
- * Der Aktor klickt bei dem Diskussionskreis, den er verlassen möchte, auf "austreten".
- * Das System zeigt dieselbe Liste, nun aber so, dass dahinter wieder "beitreten" steht.
+ * Das System zeigt auf allen drei Tabs die Diskussiosnkreise so an, dass dahinter entweder "Mimachen" oder "Austreten" steht.
+ * Der Aktor klickt bei dem Diskussionskreis, den er verlassen möchte, auf "Austreten".
+ * Das System zeigt dieselbe Liste, nun aber so, dass dahinter wieder "Mitmachen" steht.
 
 !4 Siehe auch
 !4 Meta
