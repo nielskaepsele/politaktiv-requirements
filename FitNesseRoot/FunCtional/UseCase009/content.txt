@@ -16,6 +16,7 @@ Benutzer ist angemeldet (also auch registriert) und mindestens einem DK noch nic
  * Das System zeigt ihm auf allen Seiten der DK, denen er noch nicht beigetreten ist, links neben der Nav-Bar:
    * einen Button mit der Aufforderung beizutreten.
    * der Text auf dem Button ist sprachabhängig und lautet auf Deutsch: "Mitmachen"
+   * per Mouse-over erscheint erklärender Text >Fügen Sie den aktuellen Diskussionskreis zu "Meine Sites" hinzu<
  * Der Aktor klickt auf den URL "Mitmachen".
  * Das System macht ihn zum Member in diesem Diskussionskreis.
  * Das System zeigt ihm dieselbe Seite, nun aber ohne die Aufforderung beizutreten.
