@@ -4,7 +4,7 @@
  * Benutzer
 
 !4 Stakeholder
- * 
+ * Stiftung möchte, dass möglichst viele Benutzer motiviert sind mitzumachen.
 
 !4 Vorbedingung
 !4 Normaler Ablauf
@@ -16,9 +16,16 @@
    * Der Aktor kann zwischen den Tabs hin- und herschalten
    * Das System zeigt die Diskussionskreise innerhalb der Tabs in alphabetischer Reihenfolge
    * Wenn die jeweilige Liste lang ist, gibt es einen Scrollbalken
+   * Die Liste zeigt folgende Spalten (die Spalten-Überschrift steht in""):
+     * "Bild" enthält das Wappen oder ersatzweise ein Blind-Bild
+     * "Community" (Besser: "Diskussionskreis") enthält den Namen des DK FAlls der Text zu lang ist, kann er umbrochen werden.
+     * "Beschreibung" enthält den Inhalt des Feldes Beschreibung aus der Konfiguration des DK Falls der Text zu lang ist, kann / soll er umbrochen werden.
+     * "Koordinaten" enthält später mal die GPS-Koordinaten des DK, sobald das programmiert / eingerichtet ist.
+     * "Benutzer" enthält die Anzahl der Site-Memeber
+     * "Aktion" enthält die mögliche Aktion (wie bisher)
  * Das System zeigt außerdem ein Eingabefeld und dahinter einen Button "Suchen"
  * Der Aktor trägt in das Suchfeld einen String ein und klickt auf "Suchen"
- * Das System zeigt ihm nun innerhalb des jeweiligen Tabs alle Diskussionskreise, die in ihrem Namen an irgendeiner Position den angegebenen String enthalten.
+ * Das System zeigt ihm nun innerhalb des jeweiligen Tabs alle Diskussionskreise, die in ihrem Namen oder in ihrer Beschreibung an irgendeiner Position den angegebenen String enthalten.
  * Wenn der Aktor das Suchfeld löscht (leert), zeigt das System wieder die vollständige Liste an.
 
 !4 Alternativer Ablauf
