@@ -31,13 +31,12 @@
 | FunCtional.UseCase040 | !include -h FunCtional.UseCase040 | !include -h FunCtional.UseCase040.MeTa |
 | FunCtional.UseCase044 | !include -h FunCtional.UseCase044 | !include -h FunCtional.UseCase044.MeTa |
 | FunCtional.UseCase050 | !include -h FunCtional.UseCase050 | !include -h FunCtional.UseCase050.MeTa |
-| FunCtional.UseCase051 | !include -h FunCtional.UseCase051 | !include -h FunCtional.UseCase051.MeTa |
+| FunCtional.UseCase047 | !include -h FunCtional.UseCase047 | !include -h FunCtional.UseCase047.MeTa |
 | !2 Design-Anforderungen |
 | FunCtional.UseCase046 | !include -h FunCtional.UseCase046 | !include -h FunCtional.UseCase046.MeTa |
 | !2 Moderator Funktionen |
 | FunCtional.UseCase011 | !include -h FunCtional.UseCase011 | !include -h FunCtional.UseCase011.MeTa |
 | FunCtional.UseCase045 | !include -h FunCtional.UseCase045 | !include -h FunCtional.UseCase045.MeTa |
-| FunCtional.UseCase047 | !include -h FunCtional.UseCase047 | !include -h FunCtional.UseCase047.MeTa |
 | !2 System Services |
 | FunCtional.UseCase048 | !include -h FunCtional.UseCase048 | !include -h FunCtional.UseCase048.MeTa |
 | FunCtional.UseCase049 | !include -h FunCtional.UseCase049 | !include -h FunCtional.UseCase049.MeTa |
