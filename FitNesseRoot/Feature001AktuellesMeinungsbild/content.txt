@@ -18,5 +18,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless FunCtional.UseCase013
 !include -seamless FunCtional.UseCase014
 
+FunCtional.UseCase099
+
 !1 Glossar
 !include -seamless GlosSar

@@ -1,3 +1,5 @@
+|FunCtional.UseCase099|mje|13:26:08 Fri, Dec 19, 2014|
+|Feature001AktuellesMeinungsbild|mje|13:23:55 Fri, Dec 19, 2014|
 |FunCtional|mom|18:27:48 Thu, Oct 02, 2014|
 |FunCtional.UseCase047|mom|18:25:19 Thu, Oct 02, 2014|
 |FunCtional.UseCase033|mom|12:01:28 Sun, Sep 14, 2014|
@@ -63,7 +65,6 @@
 |PersonAndRole|mom|21:43:52 Sat, May 03, 2014|
 |StakeHolders|mom|21:31:20 Sat, May 03, 2014|
 |SystemRequirementsSpecification|mje|13:53:30 Fri, Feb 28, 2014|
-|Feature001AktuellesMeinungsbild|mje|13:47:29 Fri, Feb 28, 2014|
 |FunCtional.UseCase032.MeTa|mje|11:19:13 Tue, Jan 07, 2014|
 |ReleaseRequirementsSpecification201401|mje|19:55:27 Mon, Jan 06, 2014|
 |FunCtional.UseCase037|mje|15:24:07 Mon, Jan 06, 2014|
@@ -97,4 +98,3 @@
 |OpenQuestions|mje|23:15:50 Mon, Dec 30, 2013|
 |VisionAndPurpose|mje|23:04:42 Mon, Dec 30, 2013|
 |FunCtional.UseCase014.MeTa|mom|16:30:54 Mon, Dec 30, 2013|
-|FunCtional.UseCase013.MeTa|mom|16:01:32 Mon, Dec 30, 2013|
