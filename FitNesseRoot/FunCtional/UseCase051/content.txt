@@ -1,0 +1,29 @@
+!3 UseCase051nn 
+!4 Aktor
+ * Anwendung: Nutzer von Sozialen Netzwerken G+, Facebook, twitter
+ * Konfiguration: Politaktiv Admin
+
+!4 Stakeholder
+ * Es ist im Sinne von Politaktiv, dass wenn ein User eines sozialen Netzwerks einen Link auf Politaktiv einbindet ("postet"), dass OpenGraph-Metainformationen zur Verfügung stehen, sodass ein guter, ansprechender Eindruck von Politaktiv entsteht
+
+
+!4 Vorbedingung
+ * Netwerke unterstützen OpenGraph
+
+!4 Normaler Ablauf
+ * Politaktiv Admin spezifiziert anzuzeigende Open-Graph-Informationen
+ * User teilt eine Seite von Politaktiv über ein soziales Netzwerk (fremde Seite)
+ * Seite erkennt open-graph-meta-tags und bindet sie in seine Darstellung ein.
+
+
+!4 Siehe auch
+
+Erläuterung von OpenGraph
+http://ogp.me/
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase051nn
+!include -seamless >AbnahmeTestUseCase051nn
