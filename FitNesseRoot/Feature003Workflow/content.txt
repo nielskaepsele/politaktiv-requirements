@@ -1,0 +1,30 @@
+!1 Zielsetzung und Vision
+!include -seamless VisionAndPurpose
+
+!1 Scope
+!include -seamless ScoPe
+!2 Quelle
+https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+
+!1 Stakeolder
+!include -seamless StakeHolders
+
+!1 Rollen und Personen
+!include -seamless PersonAndRole
+
+!1 Funktionale Anforderungen
+!2 General Workflow Requirements
+ * Admin defines a Workflow
+ * Admin activates defined workflow
+ * User starts a new Workflow Instance
+ * System informs Admin / User for his Active Workflow Instances
+ * User / Admin enters Data to Workflow Instance
+ * System shows Workflow Instance Data to Admin / User
+ * System provides Workflow Instance Data and triggers automated Activities.
+ * Admin views Workflow Statistics and Reports
+
+Forschung, ob Liferay aus einem Formular-Eintrag einen Workflow anlegen kann, der als Anker die Mailadresse aus dem Formulareintrag übernehmen kann. 
+Oder ob irgendetwas anderes, passendes in Liferay möglich wäre.
+
+!1 Glossar
+!include -seamless GlosSar
