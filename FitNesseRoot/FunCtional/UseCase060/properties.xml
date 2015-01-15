@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<properties>
+	<Edit>true</Edit>
+	<Files>true</Files>
+	<Help>Der Admin sieht sich Reports (technische Fehlermeldungen, eskalierte Workflow Instanzen, alle Workflow Instanzen nach Typ und Durchlaufzeit) an</Help>
+	<Properties>true</Properties>
+	<RecentChanges>true</RecentChanges>
+	<Refactor>true</Refactor>
+	<Search>true</Search>
+	<Suites></Suites>
+	<Versions>true</Versions>
+	<WhereUsed>true</WhereUsed>
+</properties>

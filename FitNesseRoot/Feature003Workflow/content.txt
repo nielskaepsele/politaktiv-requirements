@@ -14,15 +14,15 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
 !1 Funktionale Anforderungen
 !2 Generelle Workflow Anforderungen
- * Ein Admin definiert einen neuen Workflow
- * Ein Admin aktiviert einen definierten Workflow
- * Ein Benutzer startet eine neue Workflow Instance
- * Das System informiert den Admin / Moderator / Partner über seine aktiven Workflow Instanzen
- * Ein Benutzer gibt Daten in seinen aktive Workflow Instanz ein.
- * Der Benutzer sieht sich Daten einer Workflow Instanz an.
- * Das System stellt Daten einer Workflow Instance einem automatic Job zur Verfügung und startet diesen.
- * Das System eskaliert Workflow Instanzen.
- * Der Admin sieht sich Reports (technische Fehlermeldungen, eskalierte Workflow Instanzen, alle Workflow Instanzen nach Typ und Durchlaufzeit) an.
+!include -seamless FunCtional.UseCase053
+!include -seamless FunCtional.UseCase052
+!include -seamless FunCtional.UseCase054
+!include -seamless FunCtional.UseCase055
+!include -seamless FunCtional.UseCase056
+!include -seamless FunCtional.UseCase057
+!include -seamless FunCtional.UseCase058
+!include -seamless FunCtional.UseCase059
+!include -seamless FunCtional.UseCase060
 
 !1 Glossar
 !include -seamless GlosSar
