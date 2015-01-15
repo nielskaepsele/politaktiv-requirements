@@ -1,1 +1,4 @@
- * UseCase060 Der Admin sieht sich Reports (technische Fehlermeldungen, eskalierte Workflow Instanzen, alle Workflow Instanzen nach Typ und Durchlaufzeit) an.
+ * UseCase060 Der Admin sieht sich Reports an:
+  * technische Fehlermeldungen, 
+  * eskalierte Workflow Instanzen,
+  * alle Workflow Instanzen nach Typ und Durchlaufzeit.

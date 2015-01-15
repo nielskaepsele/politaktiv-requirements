@@ -2,12 +2,12 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Der Admin sieht sich Reports (technische Fehlermeldungen, eskalierte Workflow Instanzen, alle Workflow Instanzen nach Typ und Durchlaufzeit) an</Help>
+	<Help>Der Admin sieht sich Reports an.</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
-	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>

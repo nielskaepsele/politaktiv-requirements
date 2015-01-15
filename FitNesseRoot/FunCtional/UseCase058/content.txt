@@ -1,1 +1,1 @@
- * UseCase058 Das System stellt Daten einer Workflow Instance einem automatic Job zur Verfügung und startet diesen.
+ * UseCase058 Das System stellt Daten einer Workflow Instanz einem automatic Job zur Verfügung und startet diesen.

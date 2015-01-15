@@ -2,12 +2,12 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Das System stellt Daten einer Workflow Instance einem automatic Job zur Verfügung und startet diesen.</Help>
+	<Help>Das System stellt Daten einer Workflow Instanz einem automatic Job zur Verfügung und startet diesen.</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
-	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>

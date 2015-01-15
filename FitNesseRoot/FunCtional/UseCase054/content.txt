@@ -1,1 +1,1 @@
- * UseCase054 Ein Benutzer startet eine neue Workflow Instance.
+ * UseCase054 Ein Benutzer startet eine neue Workflow Instanz.
