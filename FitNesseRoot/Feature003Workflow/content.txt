@@ -13,18 +13,16 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 !include -seamless PersonAndRole
 
 !1 Funktionale Anforderungen
-!2 General Workflow Requirements
- * Admin defines a Workflow
- * Admin activates defined workflow
- * User starts a new Workflow Instance
- * System informs Admin / User for his Active Workflow Instances
- * User / Admin enters Data to Workflow Instance
- * System shows Workflow Instance Data to Admin / User
- * System provides Workflow Instance Data and triggers automated Activities.
- * Admin views Workflow Statistics and Reports
-
-Forschung, ob Liferay aus einem Formular-Eintrag einen Workflow anlegen kann, der als Anker die Mailadresse aus dem Formulareintrag übernehmen kann. 
-Oder ob irgendetwas anderes, passendes in Liferay möglich wäre.
+!2 Generelle Workflow Anforderungen
+ * Ein Admin definiert einen neuen Workflow
+ * Ein Admin aktiviert einen definierten Workflow
+ * Ein Benutzer startet eine neue Workflow Instance
+ * Das System informiert den Admin / Moderator / Partner über seine aktiven Workflow Instanzen
+ * Ein Benutzer gibt Daten in seinen aktive Workflow Instanz ein.
+ * Der Benutzer sieht sich Daten einer Workflow Instanz an.
+ * Das System stellt Daten einer Workflow Instance einem automatic Job zur Verfügung und startet diesen.
+ * Das System eskaliert Workflow Instanzen.
+ * Der Admin sieht sich Reports (technische Fehlermeldungen, eskalierte Workflow Instanzen, alle Workflow Instanzen nach Typ und Durchlaufzeit) an.
 
 !1 Glossar
 !include -seamless GlosSar
