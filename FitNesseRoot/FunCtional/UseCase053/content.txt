@@ -1,1 +1,1 @@
- * UseCase053 Ein Admin definiert einen neuen Workflow.
+ * UseCase053 Ein Admin erstellt/bearbeitet einen neue Workflow-Definition. 

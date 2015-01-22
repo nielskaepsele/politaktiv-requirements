@@ -1,1 +1,1 @@
- * UseCase052 Ein Admin aktiviert einen definierten Workflow.
+ * UseCase052 Ein Admin importiert eine Workflow-Definition.

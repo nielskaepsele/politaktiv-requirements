@@ -1,1 +1,1 @@
- * UseCase054 Ein Benutzer startet eine neue Workflow Instanz.
+ * UseCase054 Ein (Benutzer-)Ereignis generiert eine neues Ticket.

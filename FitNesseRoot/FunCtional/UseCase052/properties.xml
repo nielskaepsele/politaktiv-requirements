@@ -2,7 +2,7 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Ein Admin aktiviert einen definierten Workflow</Help>
+	<Help>Ein Admin importiert eine Workflow-Definition.</Help>
 	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>

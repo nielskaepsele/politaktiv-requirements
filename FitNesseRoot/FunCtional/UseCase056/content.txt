@@ -1,1 +1,1 @@
- * UseCase056 Ein Benutzer gibt Daten in seinen aktive Workflow Instanz ein.
+ * UseCase056 Ein Benutzer bearbeitet Daten in seinem aktiven Ticket.

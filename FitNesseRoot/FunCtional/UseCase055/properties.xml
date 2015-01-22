@@ -2,12 +2,12 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Das System informiert den Admin / Moderator / Partner über seine aktiven Workflow Instanzen</Help>
+	<Help>Der Benutzer ruft seine (aktiven) Tickets ab.</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
-	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>
