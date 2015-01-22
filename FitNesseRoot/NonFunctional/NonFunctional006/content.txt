@@ -1,1 +1,6 @@
  * NonFunctional006 Integration in Liferay
+  * Authentifizierung und Autorisierung ist in Liferay integrierbar.
+  * (optional) Benutzer-Verwaltung ist in Liferay integrierbar.
+  * (optional) Rollen-Verwaltung ist in Liferay integrierbar.
+  * Tickets können in Liferay angezeigt werden
+  * Formulare können in Liferay angezeigt werden

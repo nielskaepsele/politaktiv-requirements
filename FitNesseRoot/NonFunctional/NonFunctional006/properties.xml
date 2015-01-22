@@ -3,11 +3,11 @@
 	<Edit>true</Edit>
 	<Files>true</Files>
 	<Help>Integration in Liferay</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
-	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>

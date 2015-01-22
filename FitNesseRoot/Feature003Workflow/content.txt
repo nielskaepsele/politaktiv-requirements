@@ -1,7 +1,7 @@
-!1 Rollen und Personen
+!2 Rollen und Personen
 Siehe PersonAndRole
 
-!1 Funktionale Anforderungen
+!2 Funktionale Anforderungen
 !include -seamless FunCtional.UseCase053
 !include -seamless FunCtional.UseCase052
 !include -seamless FunCtional.UseCase054
@@ -15,9 +15,8 @@ Siehe PersonAndRole
 !include -seamless FunCtional.UseCase064
 !include -seamless FunCtional.UseCase065
 
-!1 Nicht Funktionale Anforderungen
+!2 Nicht Funktionale Anforderungen
 !include -seamless NonFunctional.NonFunctional005
 !include -seamless NonFunctional.NonFunctional006
-!include -seamless NonFunctional.NonFunctional007
 !include -seamless NonFunctional.NonFunctional008
 
