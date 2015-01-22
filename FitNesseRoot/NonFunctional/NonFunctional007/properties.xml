@@ -2,7 +2,7 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Das Workflow-System ist mandantenfähig</Help>
+	<Help>Authentifizierung und Autorisierung des Workflow-System ist in Liferay integrierbar.</Help>
 	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>

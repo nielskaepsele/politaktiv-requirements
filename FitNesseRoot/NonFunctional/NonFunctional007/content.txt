@@ -1,0 +1,1 @@
+ * NonFunctional007 Authentifizierung und Autorisierung des Workflow-System ist in Liferay integrierbar.

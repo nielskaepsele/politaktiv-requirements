@@ -2,12 +2,12 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Das Workflow-System ist mandantenfähig</Help>
-	<LastModifyingUser>mje</LastModifyingUser>
+	<Help>Das System kann die folgenden Nutzungsdimensionen bewältigen</Help>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
+	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>

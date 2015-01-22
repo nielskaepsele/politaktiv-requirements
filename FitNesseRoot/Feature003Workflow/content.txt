@@ -12,3 +12,12 @@ Siehe PersonAndRole
 !include -seamless FunCtional.UseCase060
 !include -seamless FunCtional.UseCase062
 !include -seamless FunCtional.UseCase063
+!include -seamless FunCtional.UseCase064
+!include -seamless FunCtional.UseCase065
+
+!1 Nicht Funktionale Anforderungen
+!include -seamless NonFunctional.NonFunctional005
+!include -seamless NonFunctional.NonFunctional006
+!include -seamless NonFunctional.NonFunctional007
+!include -seamless NonFunctional.NonFunctional008
+
