@@ -1,1 +1,1 @@
- * UseCase059 Das System eskaliert Workflow Instanzen.
+ * UseCase059 Das System eskaliert Tickets.

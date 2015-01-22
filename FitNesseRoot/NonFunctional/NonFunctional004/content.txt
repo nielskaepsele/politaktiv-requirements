@@ -1,14 +1,1 @@
-!3 NonFunctional004 Transport-Sicherheit
-
-!4 Beschreibung
- * Sämtliche Kommunikation über das Internet findet verschlüsselt statt.
-
-!4 Siehe auch
- * 
-
-!4 Meta
->MeTa
-
-!4 Abnahme Tests
->AbnahmeTestUseCase0nn
-!include -seamless >AbnahmeTestUseCase0nn
+ * NonFunctional004 Workflow-Vortschritte müssen über API beeinflusst werden können

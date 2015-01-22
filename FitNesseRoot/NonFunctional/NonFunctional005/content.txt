@@ -1,0 +1,3 @@
+ * NonFunctional005 Workflows müssen Mandantenfähig sein
+  * im Rahmen von Liferay-Sites
+  * (optional) auch unabhängig von Liferay

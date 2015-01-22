@@ -1,4 +1,4 @@
  * UseCase060 Der Admin sieht sich Reports an:
   * technische Fehlermeldungen, 
-  * eskalierte Workflow Instanzen,
-  * alle Workflow Instanzen nach Typ und Durchlaufzeit.
+  * eskalierte Tickets,
+  * alle Tickets nach Typ und Durchlaufzeit.
