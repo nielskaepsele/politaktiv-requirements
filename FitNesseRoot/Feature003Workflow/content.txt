@@ -19,4 +19,6 @@ Siehe PersonAndRole
 !include -seamless NonFunctional.NonFunctional005
 !include -seamless NonFunctional.NonFunctional006
 !include -seamless NonFunctional.NonFunctional008
+!include -seamless NonFunctional.NonFunctional007
+
 
