@@ -37,6 +37,8 @@
 |FunCtional.UseCase061|!include -h FunCtional.UseCase061|!include -h FunCtional.UseCase061.MeTa|
 |!2 Design-Anforderungen                                                                       |
 |FunCtional.UseCase046|!include -h FunCtional.UseCase046|!include -h FunCtional.UseCase046.MeTa|
+|!2 Web-Form-Anforderungen                                                                     |
+|FunCtional.UseCase066|!include -h FunCtional.UseCase046|!include -h FunCtional.UseCase066.MeTa|
 |!2 Moderator Funktionen                                                                       |
 |FunCtional.UseCase011|!include -h FunCtional.UseCase011|!include -h FunCtional.UseCase011.MeTa|
 |FunCtional.UseCase045|!include -h FunCtional.UseCase045|!include -h FunCtional.UseCase045.MeTa|
