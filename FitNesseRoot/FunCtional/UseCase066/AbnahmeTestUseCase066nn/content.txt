@@ -1,0 +1,28 @@
+!5 Vorgehen: 
+ * Sende mit Web-From-Portlet zwei Eingaben, z.B.:
+
+   Obligatorisches Textfeld : Obligatorisch und lang
+   Optionales Textfeld : Optional und sehr, sehr lang
+   Kontrollkästchen 1 : true
+   Kontrollkästchen 2 : false
+   Optionen 1 : Weiß nicht
+   Optionen 2 : Weiß nicht
+
+   Obligatorisches Textfeld : test
+   Optionales Textfeld : test
+   Kontrollkästchen 1 : true
+   Kontrollkästchen 2 : false
+   Optionen 1 : Ja
+   Optionen 2 : Nein
+
+ * Überprüfe Anzeige im E-Mail Client. 
+ * Bei schlechter Formatierung (z.B. mit E-Mail Client Outlook), siehe Lösung
+
+
+!5 Lösung: Outlook
+ * Ausschnitt aus  http://www.webtrafficexchange.com/solved-outlook-stripping-newline-character-sendgrid 
+ * Furthermore, you can configure Outlook to never remove such carriage returns by going to Tools --> Options, clicking the E-mail Options button, and then unchecking “Remove extra line breaks in plain text messages". 
+
+
+!5 Testbeschreibung von:
+Tobias Scherer <tobias.scherer@integrata-stiftung.de>

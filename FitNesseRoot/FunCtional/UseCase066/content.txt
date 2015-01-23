@@ -1,0 +1,20 @@
+
+!4 Aktor
+ * Moderator
+
+!4 Stakeholder
+ * Human IT Service GmbH
+
+!4 Normaler Ablauf
+ * Ein Benutzer oder Gast füllt die Felder im Web-Form-Portlet aus.
+ * Es wird eine automatiesierte, wohlformatierte Mail an den Moderator geschickt.
+ * Der Moderator leitet die Mail weiter, mit der Anfrage, ob es sich tatsächlich um die angegebene Person handelt.
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase066nn
+!include -seamless >AbnahmeTestUseCase0nn
