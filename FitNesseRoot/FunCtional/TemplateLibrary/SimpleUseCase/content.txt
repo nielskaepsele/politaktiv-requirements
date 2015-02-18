@@ -1,4 +1,4 @@
  * UseCase0nn
   * Weiterführend
     * >MeTa
-    * >AbnahmeTestUseCase0nn
+    * >AcceptanceCriteriaUseCase0nn

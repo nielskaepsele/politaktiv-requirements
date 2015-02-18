@@ -4,6 +4,6 @@
     * Wollen wir tracking-links auch durchlassen?
   * Weiterführend
     * >MeTa
-    * >AbnahmeTestUseCase067
+    * >AcceptanceCriteriaUseCase067
 
   
