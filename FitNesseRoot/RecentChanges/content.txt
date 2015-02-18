@@ -1,10 +1,14 @@
+|FunCtional.TemplateLibrary.SimpleAcceptanceCriteria|mje|09:40:00 Wed, Feb 18, 2015|
+|FunCtional.UseCase067|mje|09:37:45 Wed, Feb 18, 2015|
+|FunCtional.TemplateLibrary.SimpleUseCase|mje|09:37:09 Wed, Feb 18, 2015|
+|Feature005CrmOptOut|mje|09:31:56 Wed, Feb 18, 2015|
+|FunCtional|mje|09:31:47 Wed, Feb 18, 2015|
 |FrontPage|mje|09:29:17 Wed, Feb 18, 2015|
 |Feature004OpenGraph|mje|09:22:11 Tue, Feb 03, 2015|
 |Feature003Workflow|mje|09:21:50 Tue, Feb 03, 2015|
 |FunCtional.UseCase066|sct|17:10:49 Fri, Jan 23, 2015|
 |FunCtional.UseCase051.AbnahmeTestUseCase051|sct|17:09:47 Fri, Jan 23, 2015|
 |FunCtional.UseCase066.AbnahmeTestUseCase066nn|sct|17:08:41 Fri, Jan 23, 2015|
-|FunCtional|sct|16:53:42 Fri, Jan 23, 2015|
 |NonFunctional.NonFunctional007|mje|11:13:42 Thu, Jan 22, 2015|
 |NonFunctional.NonFunctional006|mje|10:44:03 Thu, Jan 22, 2015|
 |NonFunctional.NonFunctional005|mje|10:35:32 Thu, Jan 22, 2015|
@@ -94,7 +98,3 @@
 |FunCtional.UseCase026|mje|15:22:30 Mon, Jan 06, 2014|
 |FunCtional.UseCase025|mje|15:22:20 Mon, Jan 06, 2014|
 |FunCtional.UseCase037.MeTa|mom|14:04:51 Thu, Jan 02, 2014|
-|FunCtional.UseCase036.AbnahmeTestUseCase036|mom|13:55:21 Thu, Jan 02, 2014|
-|FunCtional.UseCase036.MeTa|mom|13:54:53 Thu, Jan 02, 2014|
-|FunCtional.UseCase027.AbnahmeTestUseCase027|mom|13:50:17 Thu, Jan 02, 2014|
-|FunCtional.UseCase027.MeTa|mom|13:49:35 Thu, Jan 02, 2014|
