@@ -1,4 +1,4 @@
-|FunCtional.UseCase067.AcceptanceCriteriaUseCase067|mje|11:41:51 Wed, Feb 18, 2015|
+|FunCtional.UseCase067.AcceptanceCriteriaUseCase067|mje|12:35:20 Wed, Feb 18, 2015|
 |FunCtional.TemplateLibrary.SimpleAcceptanceCriteria|mje|09:46:54 Wed, Feb 18, 2015|
 |FunCtional.UseCase067|mje|09:43:01 Wed, Feb 18, 2015|
 |FunCtional.TemplateLibrary.SimpleUseCase|mje|09:42:07 Wed, Feb 18, 2015|

@@ -12,11 +12,14 @@
     * Eine Piwik-URL erstellen: http://piwik.org/docs/tracking-campaigns-url-builder/
     * Ein OptOut Tracker
   1 EMail-Marketing erstellen & hinzufügen
-    *  Status: aktiv
+    * Status: aktiv
     * Use Mail Account: bounce@pa
     * Start Date & Time: ...
     * Send This Message To: All Target List(s) in the Campaign.
-    * Email Template: ... (ich hab BM Erstkontakt genommen)
+    * Email Template: ... (ich hab Test Kampangne genommen)
+  1 Im EMail Marketing das Template editieren und dann die Tracker-URL hinzufügen.
+  1 Testemail verschicken
+
    
   	
   	 
