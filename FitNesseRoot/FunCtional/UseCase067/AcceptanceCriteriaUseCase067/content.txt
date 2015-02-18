@@ -6,7 +6,7 @@
     * Typ ist Test
   1 Campaign erstellen
     * Target-List hinzufügen
-    * Status Active
+    * Status inactive
     * Start und Ende-Datum setzen
   1 Tracker erstellen & hinzufügen
     * Eine Piwik-URL erstellen: http://piwik.org/docs/tracking-campaigns-url-builder/
