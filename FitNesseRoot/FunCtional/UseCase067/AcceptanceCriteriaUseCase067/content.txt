@@ -3,7 +3,7 @@
     * Ausfüllen: Salutation, Vorname, Nachname, Salutationext, City, Kfz-Kennzeichen, Mailadresse
   1 Target-List erstellen (falls noch nicht vorhanden - Bsp. ist testmje)
     * oben erstellte Accounts hinzufügen
-    * Typ ist Test
+    * Typ: Default
   1 Campaign erstellen
     * Target-List hinzufügen
     * Status inactive
