@@ -1,4 +1,4 @@
-|Feature004Karte|mje|21:21:06 Mon, Apr 27, 2015|
+|Feature004Karte|mje|21:31:44 Mon, Apr 27, 2015|
 |FrontPage|mje|20:41:08 Mon, Apr 27, 2015|
 |FunCtional.UseCase067.AcceptanceCriteriaUseCase067|mje|12:35:20 Wed, Feb 18, 2015|
 |FunCtional.TemplateLibrary.SimpleAcceptanceCriteria|mje|09:46:54 Wed, Feb 18, 2015|

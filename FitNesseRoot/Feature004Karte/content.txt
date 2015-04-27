@@ -25,6 +25,11 @@
 !2 Overlay
  * Req101: Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einfache grafische Figuren einzeichnen (z.B. Linien oder Flächen) und diese mit einem Link zu seinem Text versehen.
    * Ein Overlay hat: Owner, Ein Overlay hat einen Text, wie er bei einem Marker bereits realisiert ist, also Name, Kurzbeschreibung und Link. Der erscheint in einem modalen Fenster, wenn der Tab angeklickt wurde und der Overlay angezeigt wird.
+   * Ein Benutzer, der ein Overlay hochladen möchte klickt auf einen noch nicht belegten Tab. Dazu muss immer ein leerer Tab vorhanden sein. Wäre er schon belegt, würde das entsprechende Overlay angezeigt. Ist er noch nicht belegt, erscheint stattdessen das Menü zum Hochladen. Will er nicht hochladen oder abbrechen, kann er das Menü einfach wegklicken. Der Tab bleibt dann geschlossen und unbelegt.
+    * Was ist, wenn ein zweiter Benutzer gleichzeitig auf denselben Tab ein Overlay hochladen will? Es gilt das optimistische Prinzip: der erste gewinnt. Der zweite wird aufgefordert, es mit dem nächsten Tab nochmals zu versuchen.
+    * Ein Benutzer, der ein Overlay hochlädt, sollte das Directory, wohin es geladen wird und die dort bereits befindlichen Files nicht zu Gesicht bekommen. Das Hochladen sollte also "halb-blind" erfolgen. Anders der Admin (Moderator), der Einstellungen machen darf: Er sollte das Directory zu sehen bekommen. Der Benutzer kann also nur ein einziges Overlay hochladen und muss danach die ganze Prozedur neu starten, wenn er ein zweites hochladen will. Der Admin kann mehrere auf einmal hochladen (wie bei allen anderen Dokumenten / Bildern bisher auch schon).
+
+
  * Req111: Ein Overlay kann vom Benutzer online erstellt werden, indem er direkt über die Karte zeichnet, die in einer beliebigen Vergrößerung angezeigt wird.
   * Dazu stehen eine Reihe von Zeichentools zur Verfügung. (Leaf-let?)
   * Zum Einfügen wird die Karte / das Bild dann in eine beliebige Vergrößerung versetzt und das hochgeladene Overlay in Höhe und Breite dem aktuellen Bild angepasst, so dass es vollständig innerhalb des gerade sichtbaren Kartenausschnittes zu sehen ist.
@@ -48,28 +53,25 @@
  * Req110: Ein Benutzer kann per Schraubenschlüssel das Karten Portlet konfigurieren
    * Nur das Folgende:
       * Der Owner kann ein eigenes Overlay auch wieder löschen.
- * Req115: Ein Administrator kann Bilder einer Karten-Portlet-Instanz zuordnen
+ * Req115: Ein Administrator kann Overlays einer Karten-Portlet-Instanz zuordnen
+  * Er kann dabei aus allen Overlays einer Site auswählen.
+ * Req117: Opt. Das System erlaub dem Admin eine Kartenportlet Instanz in eine neue Karten Portlet Instanz zu kopieren.
+ * Req118: Ein Benutzer kann hochgeladene Bilder als Overlay einpassen
+  * Wenn ein Overlay nicht direkt eingezeichnet, sondern hochgeladen wird, muss es auf die darunter liegende Karte (Bild) angepasst werden können.
+    1. Es soll mit der Maus grob und mit den Pfeiltasten fein verschoben werden können.
+    2. Seine Höhe und seine Breite soll angepasst werden können
+    3. Außerdem soll es um die linke untere Ecke gedreht werden können.
+    4. Zur Größenanpassung und Winkelverstellung sind sowohl grobe als auch feine Schritte vorzusehen, die sich um den Faktor 10 unterscheiden.
+    5. Nachdem die Größe und der Winkel angepasst sind, muss es fixiert werden können. Ab diesem Moment ist die darunter liegende Karte (Bild) mit dem neuen Overlay fest verbunden. Beide werden dann gemeinsam vergrößert / verkleinert.
  
 !2 Import / Export
  * Req109: Ein Overlay kann vom Benutzer aber auch als File (png, jpg) hochgeladen werden
 
 3 Option zum Hochladen
- * Req114: Ein Benutzer kann Bilder hochladen
+ * Req114: Ein Benutzer kann Bilder als Overlay hochladen
    * Bilder haben: Namen
    * Das System erzeugt eine SystemID
-
-Beim Hochladen oder beim direkten Einzeichnen wird in der DB eine ID vergeben, die an die Karte (oder das Bild) gebunden wird. Das hochgeladene oder gezeichnete Overlay hat einen Namen, wie jedes andere Objekt auch und kann (z.B. vom Admin auch einem anderen Bild hinzugefügt werden, indem der Admin dieses Bild zur anderen Karte hinzufügt, anstatt es neu hochzuladen.
-Kommentar: Damit kann ein Admin aus einer Karte, die inzwischen zu viele Overlays hat, eine weitere Karte anlegen und einige Overlays dorthin verschieben. Er kann damit die Overlays sinnvoll bündeln.
-Ein Benutzer, der ein Overlay hochladen möchte klickt auf einen noch nicht belegten Tab. Dazu muss immer ein leerer Tab vorhanden sein. Wäre er schon belegt, würde das entsprechende Overlay angezeigt. Ist er noch nicht belegt, erscheint stattdessen das Menü zum Hochladen. Will er nicht hochladen oder abbrechen, kann er das Menü einfach wegklicken. Der Tab bleibt dann geschlossen und unbelegt.
-Was ist, wenn ein zweiter Benutzer gleichzeitig auf denselben Tab ein Overlay hochladen will? Es gilt das optimistische Prinzip: der erste gewinnt. Der zweite wird aufgefordert, es mit dem nächsten Tab nochmals zu versuchen.
-Ein Benutzer, der ein Overlay hochlädt, sollte das Directory, wohin es geladen wird und die dort bereits befindlichen Files nicht zu Gesicht bekommen. Das Hochladen sollte also "halb-blind" erfolgen. Anders der Admin (Moderator), der Einstellungen machen darf: Er sollte das Directory zu sehen bekommen. Der Benutzer kann also nur ein einziges Overlay hochladen und muss danach die ganze Prozedur neu starten, wenn er ein zweites hochladen will. Der Admin kann mehrere auf einmal hochladen (wie bei allen anderen Dokumenten / Bildern bisher auch schon).
-Wenn ein Overlay nicht direkt eingezeichnet, sondern hochgeladen wird, muss es auf die darunter liegende Karte (Bild) angepasst werden können.
-1. Es soll mit der Maus grob und mit den Pfeiltasten fein verschoben werden können.
-2. Seine Höhe und seine Breite soll angepasst werden können
-3. Außerdem soll es um die linke untere Ecke gedreht werden können.
-4. Zur Größenanpassung und Winkelverstellung sind sowohl grobe als auch feine Schritte vorzusehen, die sich um den Faktor 10 unterscheiden.
-5. Nachdem die Größe und der Winkel angepasst sind, muss es fixiert werden können.
-Ab diesem Moment ist die darunter liegende Karte (Bild) mit dem neuen Overlay fest verbunden. Beide werden dann gemeinsam vergrößert / verkleinert.
+   * (Bilder liegen in einem eigenen Ordner pro Site / Community)
 
 !1 Glossar
 !include -seamless GlosSar
