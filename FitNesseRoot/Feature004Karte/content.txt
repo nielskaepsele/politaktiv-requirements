@@ -5,38 +5,59 @@
 !include -seamless PersonAndRole
 
 !1 Anforderungen
-Anforderungen an das Kartenportlet
-1 Grundgedanken:
-1. Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einen Marker setzen und diese mit einem Link zu einem Text versehen, den er dazu verfasst hat.
-2. Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einfache grafische Figuren einzeichnen (z.B. Linien oder Flächen) und diese mit einem Link zu seinem Text versehen.
-3. Anstelle einer Karte kann vom Admin auch ein anderes Bild (z.B. Zeichnung, Foto) zugrunde gelegt werden.
-4. Wenn Karte oder Bild vergrößert / verkleinert werden, wird die hinzugefügte grafische Figur im gleichen Maßstab ebenfalls vergrößert/verkleinert.
+!2 Basis
+ * Req103: Wenn Karte oder Bild vergrößert / verkleinert werden, wird die hinzugefügte grafische Figur im gleichen Maßstab ebenfalls vergrößert/verkleinert.
+ * Req116: Das Kartenportlet kann pro Portal / Site / Seite in beliebig vielen eigenen Instanzen angelegt werden.
+   * Eine Karten-Portlet-Instanz hat: Namen
 
-2 Festlegungen:
-2.1 Marker
-Es sind bis zu 1.000 Marker pro Karte (Bild) zulässig.
-Der Moderator kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Marker möglich ist.
-Ein Marker hat einen Namen, eine Kurzbeschreibung und einen Link.
-Die Bezeichnungen der Marker erscheinen beim Klick auf den Marker als modales Fenster über der Karte, das aktiv wieder weggeklickt werden muss.
+!2 Karte
+ * Req102: Anstelle einer Karte kann vom Admin auch ein anderes Bild (z.B. Zeichnung, Foto) zugrunde gelegt werden.
 
-2.2 Overlay
-Es sind bis zu 99 Karten-Overlays pro Karte (Bild) zulässig.
-Der Admin (Moderator) kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Overlay möglich ist.
-Die Bezeichnungen der Overlays können als TAB oben am Rand der Karte/Bild dargestellt werden, die eine Nummer und den Anfang der entsprechenden Beschriftung des Overlays tragen.
-Ein Klick auf den Tab zeigt den Overlay über der Karte / Bild. Das Overlay wird dabei transparent über der Karte dargestellt.
-Option: Die Transparenz (in Prozent) kann vom Admin per Einstellung (mit dem Schraubenschlüssel) für alle Overlays gemeinsam festgelegt werden.
-Es ist zulässig, mehrere Tabs anzuklicken / anzuzeigen.
-Ein zweiter Klick auf einen Tab verbirgt das entsprechende Overlay wieder.
-Der Admin (oder der Owner) kann ein Overlay auch wieder löschen.
-Ein Overlay hat einen Text, wie er bei einem Marker bereits realisiert ist, also Name, Kurzbeschreibung und Link. Der erscheint in einem modalen Fenster, wenn der Tab angeklickt wurde und der Overlay angezeigt wird.
-Ein Overlay kann vom Benutzer online erstellt werden, indem er direkt über die Karte zeichnet, die in einer beliebigen Vergrößerung angezeigt wird.
-Dazu stehen eine Reihe von Zeichentools zur Verfügung. (Leaf-let?)
-Ein Overlay kann vom Benutzer aber auch als File (png, jpg) hochgeladen werden:
-Zum Einfügen wird die Karte / das Bild dann in eine beliebige Vergrößerung versetzt und das hochgeladene Overlay in Höhe und Breite dem aktuellen Bild angepasst, so dass es vollständig innerhalb des gerade sichtbaren Kartenausschnittes zu sehen ist.
-Reihenfolge der Overlays übereinander, wenn mehrere existieren?
-Schön wäre es, wenn es die Reihenfolge des Anklickens ist. Wenn danach ein dazwischenliegendes Overlay wieder weggeklickt wird und erneut angeklickt wird, wird es als oberstes angezeigt: Immer das zuletzt geklickte ist das oberste. Die Karte selbst ist das unterste.
+!2 Marker
+ * Req100: Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einen Marker setzen und diese mit einem Link zu einem Text versehen, den er dazu verfasst hat.
+  * Ein Marker hat einen Namen, eine Kurzbeschreibung und einen Link.
+  * Die Bezeichnungen der Marker erscheinen beim Klick auf den Marker als modales Fenster über der Karte, das aktiv wieder weggeklickt werden muss.
+
+!3 Markerdetails
+ * Req104: Es sind bis zu 1.000 Marker pro Karte (Bild) zulässig.
+ * Req105: Der Moderator kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Marker möglich ist.
+
+!2 Overlay
+ * Req101: Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einfache grafische Figuren einzeichnen (z.B. Linien oder Flächen) und diese mit einem Link zu seinem Text versehen.
+   * Ein Overlay hat: Owner, Ein Overlay hat einen Text, wie er bei einem Marker bereits realisiert ist, also Name, Kurzbeschreibung und Link. Der erscheint in einem modalen Fenster, wenn der Tab angeklickt wurde und der Overlay angezeigt wird.
+ * Req111: Ein Overlay kann vom Benutzer online erstellt werden, indem er direkt über die Karte zeichnet, die in einer beliebigen Vergrößerung angezeigt wird.
+  * Dazu stehen eine Reihe von Zeichentools zur Verfügung. (Leaf-let?)
+  * Zum Einfügen wird die Karte / das Bild dann in eine beliebige Vergrößerung versetzt und das hochgeladene Overlay in Höhe und Breite dem aktuellen Bild angepasst, so dass es vollständig innerhalb des gerade sichtbaren Kartenausschnittes zu sehen ist.
+ * Req113: Der Gast kann die Reihenfolge der Overlays beeinflussen
+  * Bei der initialen Anzeige zeigt das System keine Overlays an.
+  * Das System zeigt das zueltzt angklickte Overlay zu oberst an.
+
+ * Req108: Ein Gast kann Overlays aus- und einblenden
+  * Die Bezeichnungen der Overlays können als TAB oben am Rand der Karte/Bild dargestellt werden, die eine Nummer und den Anfang der entsprechenden Beschriftung des Overlays tragen.
+  * Ein Klick auf den Tab zeigt den Overlay über der Karte / Bild. Das Overlay wird dabei transparent über der Karte dargestellt.
+  * Es ist zulässig, mehrere Tabs anzuklicken / anzuzeigen.
+  * Ein zweiter Klick auf einen Tab verbirgt das entsprechende Overlay wieder.
+
+!3 Overlaydetails
+ * Req106: Es sind bis zu 99 Karten-Overlays pro Karte (Bild) zulässig.
+ * Req107: Der Admin kann die Karten Portlet konfigurieren
+   * Der Admin (Moderator) kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Overlay möglich ist.
+   * Option: Die Transparenz (in Prozent) kann vom Admin per Einstellung (mit dem Schraubenschlüssel) für alle Overlays gemeinsam festgelegt werden.
+   * Der Admin (oder der Owner) kann ein Overlay auch wieder löschen.
+ * Req112: Der Admin kann Berechtigungen (Overlays erstellen, löschen, ändern) einer sitespezifischen Rolle hinzufügen oder entfernen.
+ * Req110: Ein Benutzer kann per Schraubenschlüssel das Karten Portlet konfigurieren
+   * Nur das Folgende:
+      * Der Owner kann ein eigenes Overlay auch wieder löschen.
+ * Req115: Ein Administrator kann Bilder einer Karten-Portlet-Instanz zuordnen
+ 
+!2 Import / Export
+ * Req109: Ein Overlay kann vom Benutzer aber auch als File (png, jpg) hochgeladen werden
 
 3 Option zum Hochladen
+ * Req114: Ein Benutzer kann Bilder hochladen
+   * Bilder haben: Namen
+   * Das System erzeugt eine SystemID
+
 Beim Hochladen oder beim direkten Einzeichnen wird in der DB eine ID vergeben, die an die Karte (oder das Bild) gebunden wird. Das hochgeladene oder gezeichnete Overlay hat einen Namen, wie jedes andere Objekt auch und kann (z.B. vom Admin auch einem anderen Bild hinzugefügt werden, indem der Admin dieses Bild zur anderen Karte hinzufügt, anstatt es neu hochzuladen.
 Kommentar: Damit kann ein Admin aus einer Karte, die inzwischen zu viele Overlays hat, eine weitere Karte anlegen und einige Overlays dorthin verschieben. Er kann damit die Overlays sinnvoll bündeln.
 Ein Benutzer, der ein Overlay hochladen möchte klickt auf einen noch nicht belegten Tab. Dazu muss immer ein leerer Tab vorhanden sein. Wäre er schon belegt, würde das entsprechende Overlay angezeigt. Ist er noch nicht belegt, erscheint stattdessen das Menü zum Hochladen. Will er nicht hochladen oder abbrechen, kann er das Menü einfach wegklicken. Der Tab bleibt dann geschlossen und unbelegt.
