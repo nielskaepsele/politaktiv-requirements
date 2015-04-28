@@ -1,5 +1,6 @@
 | Table:!-AcceptanceTest-! | ${PAGE_NAME} |
-| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis | 
+| -- |
 | 1 | Als Admin einloggen, zu einer Seite navigieren mit Kartenportlet, Karte anklicken | Karte bleibt sichtbar | ok |
 | 2 | Prüfen: Sind die Buttons "Hilfe, Marker, Overlay" vorhanden? | Die Buttons "Hilfe, Marker, Overlay" sind sichtbar | ok |
 | 3 | Button "Marker" anklicken | Eine Reihe weiterer Buttons erscheint: "setzen, fixieren, löschen, zurück" | ok |

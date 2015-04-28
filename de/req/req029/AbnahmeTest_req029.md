@@ -1,5 +1,6 @@
 | Table:!-AcceptanceTest-! | ${PAGE_NAME} |
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| -- |
 | 1 | Als Admin im 1. Browser einloggen | | |
 | 2 | Kontrollbereich aufrufen, Benutzer, alle Benutzer auswählen | | |
 | 3 | Eigene Konten anzeigen lassen | | |

@@ -1,5 +1,6 @@
 | Table:!-AcceptanceTest-! | ${PAGE_NAME} |
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| -- |
 | 1 | Als Admin einloggen, zu einer Seite navigieren mit Kartenportlet, Karte anklicken | Karte bleibt sichtbar | ok |
 | 2 | Prüfen: Sind die Buttons "Hilfe, Marker, Overlay" vorhanden? | Die Buttons "Hilfe, Marker, Overlay" sind sichtbar | ok |
 | 3 | Button "Overlay" anklicken | Eine Gruppe weiterer Menüteile erscheint: "Bild/Zeichnung hochladen, Bild/Zeichnung auswählen, Overlay ausrichten, Overlay fixieren, Overlay entfernen, zurück" | ok |

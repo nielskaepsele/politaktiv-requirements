@@ -1,5 +1,6 @@
-|Table:!-AcceptanceTest-Normal!|${PAGE_NAME}                                |
+|Table:!-AcceptanceTest-Normal!|${PAGE_NAME}                                ||| 
 |Schrittnr.|Aktion         |Erwartetes Ergebnis|Ergebnis|
+| -- |
 |1|Als Testuser anmelden|||
 |2|Ins Forum navigieren|||
 |3|Testbeitrag schreiben|||

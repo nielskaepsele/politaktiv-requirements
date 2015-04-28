@@ -1,5 +1,6 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+| Table:!-AcceptanceTest-! | ${PAGE_NAME} | |||
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| -- |  
 | 1 | Anmelden als Moderator | | |
 | 2 | Navigieren zum Portlet PA-Präferenzabfrage | Link ist zu sehen "Moderatorbedienung einblenden" | |
 | 3 | Klick auf "Moderatorbedienung einblenden" | Konfigurationselemente sind sichtbar: | |

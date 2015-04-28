@@ -1,5 +1,6 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+| Table:!-AcceptanceTest-! | ${PAGE_NAME} | |||
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
+| -- |  
 | 1 | Anmelden als Admin | | |
 | 2 | zum Kontrollbereich navigieren | | |
 | 3 | "Site" aufrufen | Liste aller Sites wird angezeigt | |

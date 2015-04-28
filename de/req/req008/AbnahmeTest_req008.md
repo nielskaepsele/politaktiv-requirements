@@ -1,5 +1,6 @@
-|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                    |
+|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                    | | |
 |Schrittnr.              |Aktion                             |Erwartetes Ergebnis|Ergebnis|
+| -- |
 |1                       |www.politaktiv.org aufrufen        |                   |        |
 |2                       |Prüfen: Communities sind sichtbar  |                   |        |
 |3                       |communitiy Bild klicken            |                   |        |
@@ -10,6 +11,7 @@
 
 |Table:!-AcceptanceTest-!|${PAGE_NAME}                                                                                       |
 |Schrittnr.              |Aktion                                                                |Erwartetes Ergebnis|Ergebnis|
+| -- |
 |10                      |www.politaktiv.org aufrufen                                           |                   |        |
 |11                      |Prüfen: Community Portlet enthält Communities                         |                   |        |
 |12                      |Anmelden als Benutzer User Tübingen-Süd                               |                   |        |
