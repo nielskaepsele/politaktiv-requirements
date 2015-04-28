@@ -1,0 +1,40 @@
+!3 UseCase017 UC Löschen!
+!4 Aktor
+ * Admin
+
+!4 Stakeholder und deren Interessen:
+ * Anwender oder Partner hat einen neuen Diskussionskreis bestellt und will ihn umgehend nutzen können
+
+!4 Vorbedingung
+Der Aktor hat mehrere Browser zur Verfügung.
+
+!4 Normaler Ablauf
+ * Der Aktor ruft das ControlPanel auf.
+ * Der Aktor wählt unter "Portal" das Feld "Communities" aus.
+ * Das System zeigt ein Menü mit der Liste aller bestehenden Communities.
+ * Der Aktor wählt "hinzufügen".
+ * Das System zeigt eine Liste von Vorlagen (Templates) an.
+ * Der Aktor wählt eine Vorlage aus.
+   * Für einen normalen Diskussionskreis wählt er "Standard-DK"
+   * Für eine BI wählt er "Standard-BI"
+ * Der Aktor
+   * vergibt den Namen,
+   * erstellt eine Beschreibung,
+   * vergibt die friendly URL,
+   * schaltet die Propagation aus,
+   * setzt den Mitgliedschaftstyp auf "privat" und
+   * erstellt den DK, indem er "Speichern" klickt.
+ * Der Aktor geht in einen anderen Browser, in dem er in PolitAktiv nicht angemeldet ist, und ruft die neue friendly URL auf.
+ * Das System fordert ihn auf, sich einzuloggen, ohne ihm die neue Seite anzuzeigen.
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase017
+
+!include -seamless >AbnahmeTestUseCase017

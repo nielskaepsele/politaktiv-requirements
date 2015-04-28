@@ -1,0 +1,4 @@
+| Erfasst | Nutzen | Entscheidungsbedarf | Umsetzungsaufwand |
+| Erfasst: MoM 29.12.13; in Arbeit | Nutzen: sehr hoch | Entscheidungsbed.: - | Umsetzungsaufwand: mittel |
+| weil: | weil:KO-Kriterium | weil:ist entschieden | weil:?? |
+| nicht genutzt, in Arbeit, mit Fragen, wartet auf Test, fertig | gering, mittel, hoch | gering, mittel, hoch | gering, mittel, hoch |

@@ -1,0 +1,44 @@
+!3 UseCase013 Kriterien bewerten in Präferenzabfrage
+!4 Aktor
+ * Mitglied
+
+!4 Stakeholder
+ * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche  Kriterien die Bürger für sehr wichtig und welche anderen eher für  weniger wichtig halten. Dasselbe gilt für Ziele oder Themen anstelle von Kriterien.
+ * Die Mitglieder möchten ihre Bewertung jederzeit ändern können.
+
+!4 Vorbedingung
+Das Portlet [[PA][PolitAktiv]]-Präferenzabfrage ist in dem Diskussionskreis eingebaut und vom Moderator konfiguriert, in dem der Benutzer Mitglied ist.
+
+!4 Normaler Ablauf
+ * Der Aktor möchte seine persönliche Bewertung für die vom Moderator vorgeschlagenen Kriterien abgeben oder ändern.
+ * Das System zeigt ihm das [[Portlet PA][PolitAktiv]]-Präferenzabfrage zunächst in zugeklapptem Zustand.
+ * Der Aktor liest die Anleitung und klappt eine Kriterien-Gruppe oder alle Gruppen auf.
+ * Das System zeigt dem Aktor, wieviele Punkte er den jeweiligen Kriterien (eventuell auch früher schon mal) bereits vergeben hat.
+ * Er sieht eine tabellarische Liste mit einer Überschrift und drei (oder 4) Spalten:
+   * die Überschrift über die erste Spalte heisst "Maßnahmen, Themen, Ziele".
+   * die Überschrift über die 2. Spalte heisst "Punkte".
+   * die Überschrift über die 3. Spalte heisst "Meine Punkte", hinter denen ein +/- Button ist (die 4. Spalte).
+   * die 1. Spalte listet alle Themen dazu auf.
+   * die 2. Spalte zeigt die Zahl der Punkte, die das Thema von den Bürgern erhalten hat.
+   * die 3. Spalte zeigt die Zahl der Punkte, die der Bürger den Themen jeweils bereits vergeben hat.
+   * er sieht die maximale Anzahl von Punkten, die ein Aktor vergeben kann.
+   * er sieht in einem Extrafeld die Summe der Punkte, die er bereits vergeben hat.
+   * er sieht in einem weiteren Feld die Summe aller Punkte, die bisher vergeben wurden.
+ * Der Aktor klickt auf "+" oder "-" bis die von ihm gewünschte Anzahl von Punkten beim jeweiligen Kriterium erreicht ist.
+ * Der Aktor wiederholt dies für jedes Kriterium, dem er Punkte vergeben möchte.
+ * Wenn der Aktor versucht, einem Kriterium mehr Punkte zu vergeben, als zulässig, ändert sich die Punktezahl nicht. Gleiches gilt, wenn er versucht weniger als Null Punkte zu vergeben.
+ * Wenn der Aktor versucht, insgesamt mehr Punkte (auf verschiedene Kriterien verteilt) zu vergeben, als ihm zustehen, bekommt er einen Hinweis, dass er keine Punkte mehr vergeben kann.
+ * Am Schluss klickt der Aktor auf "Gesamtpunkte aktualisieren".
+ * Das System berechnet nun aktuell die jeweilige Gesamtpunktezahl für jedes Kriterium und für jede Gruppe einschließlich der neu zugeordneten Punkte des Aktors und zeigt wieder dieselbe Liste an.
+
+!4 Alternativer Ablauf:
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase013
+
+!include -seamless >AbnahmeTestUseCase013

@@ -1,0 +1,69 @@
+!1 Zielsetzung und Vision
+!include -seamless VisionAndPurpose
+
+!1 Abgrenzungen
+!include -seamless ScoPe
+!2 Quelle
+https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+
+!1 Offene Fragen
+!include -seamless OpenQuestions
+
+!1 Stakeolder
+!include -seamless StakeHolders
+
+!1 Rollen und Personen
+!include -seamless PersonAndRole
+
+!1 Funktionale Anforderungen
+
+!2 Registrierung, Anmeldung und SelfService für Benutzer
+!include -seamless FunCtional.UseCase029
+!include -seamless FunCtional.UseCase031
+!include -seamless FunCtional.UseCase030
+!include -seamless FunCtional.UseCase035
+
+!2 Allgemeine Funktionen für Benutzer
+!include -seamless FunCtional.UseCase038
+
+!2 Diskussionskreis für Benutzer
+!include -seamless ProCess.PrOc004
+!include -seamless FunCtional.UseCase008
+!include -seamless FunCtional.UseCase009
+!include -seamless FunCtional.UseCase033
+!include -seamless FunCtional.UseCase034
+
+!2 Diskussionskreis für Moderatoren und ?Initiatoren?
+!include -seamless ProCess.PrOc002
+!include -seamless ProCess.PrOc003
+!include -seamless ProCess.PrOc005
+!include -seamless FunCtional.UseCase010
+!include -seamless FunCtional.UseCase017
+!include -seamless FunCtional.UseCase018
+
+!2 Meinungsbild
+!include -seamless FunCtional.UseCase012
+!include -seamless FunCtional.UseCase013
+!include -seamless FunCtional.UseCase014
+
+!2 Karte
+!include -seamless ProCess.PrOc006
+!include -seamless FunCtional.UseCase025
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase027
+!include -seamless FunCtional.UseCase036
+!include -seamless FunCtional.UseCase037
+
+!2 Bürger aktivieren
+!include -seamless FunCtional.UseCase011
+
+!2 Seitenpflege für Moderatoren
+!include -seamless FunCtional.UseCase039
+!include -seamless FunCtional.UseCase040
+
+!1 Nicht funktionale Anforderungen
+
+!1 Schnittstellen
+
+!1 Glossar
+!include -seamless GlosSar

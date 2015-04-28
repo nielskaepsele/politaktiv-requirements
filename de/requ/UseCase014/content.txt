@@ -1,0 +1,60 @@
+!3 UseCase014 Präferenzabfrage konfigurieren
+!4 Aktor
+ * Moderator oder vorläufiger Moderator
+
+!4 Stakeholder
+ * Die Kunden möchten wissen, was den Bürgern wichtig ist, also welche   Kriterien die Bürger für sehr wichtig und welche anderen eher für   weniger wichtig halten. Dasselbe gilt für Ziele oder Themen anstelle von  Kriterien.
+
+!4 Vorbedingung
+ * Das Portlet [[PA][PolitAktiv]]-Präferenzabfrage (alter Name PolitAkltiv Meinungsbild) ist auf einer Seite des Diskussionskreises, den der Moderator betreut, bereits eingerichtet.
+
+!4 Normaler Ablauf
+ * Der Aktor navigiert zu der Seite seines Diskussionskreises, die die PA-Präferenzabfrage enthält.
+ * Das System zeigt ihm dieselbe Ansicht, die auch ein Mitglied zu sehen bekommt und zusätzlich einen Link "Moderatorbedienung einblenden".
+ * Der Aktor blendet die Konfigurationselemente ein.
+ * Das System zeigt ein Feld, in das der Aktor die Maximalzahl von Punkten eingeben kann, die ein Mitglied insgesamt vergeben kann.
+ * Das System zeigt ein weiteres Feld, in das der Aktor die Maximalzahl von Punkte eingeben kann, die ein Mitglied pro Kriterium vergeben kann.
+ * Das System zeigt einen Button "Speichern", der für die Vergabe der Maximalpunktzahlen gilt.
+ * Das System zeigt sechs Gruppen von Feldern:
+   * Neues Thema:
+     * Eingabefeld für ein neues Thema (Kriteriengruppe, Themengruppe, Zielgruppe).
+     * Button "Thema hinzufügen".
+     * Das Thema wird am Ende der Themenliste hinzugefügt.
+   * Thema löschen:
+     * Dropdownfeld mit allen verfügbaren Themen, sortiert in der eingestellten Reihenfolge.
+     * Button "Thema löschen".
+     * Dabei werden alle Unterthemen mit gelöscht, sofern vorhanden.
+   * Thema verschieben:
+     * Dropdownfeld mit allen verfügbaren Themen, sortiert in der eingestellten Reihenfolge.
+     * Button "Thema verschieben vor: ".
+     * Dropdownfeld mit allen verfügbaren Themen, sortiert in der eingestellten Reihenfolge.
+     * Das Thema aus dem ersten Feld wird verschoben vor das Thema im zweiten Feld.
+     * Dabei werden alle Unterthemen mitverschoben.
+   * Neues Unterthema;
+     * Eingabefeld für ein neues Unterthema (Kriterium, Thema, Ziel).
+     * Eingabefeld für den URL zu diesem Unterthema.
+     * Dropdownfeld mit allen verfügbaren Themen, sortiert in der eingestellten Reihenfolge.
+     * Button "Unterthema anlegen".
+   * Unterthema löschen:
+     * Dropdownfeld aller verfügbaren Unterthemen aus allen Themen, alphabetisch sortiert.
+     * Button "Unterthema löschen".
+   * Unterthema verschieben:
+     * Dropdownfeld aller verfügbaren Unterthemen aus allen Themen, alphabetisch sortiert.
+     * Button "Unterthema verschieben vor: "
+     * Dropdownfeld aller verfügbarer Themen, sortiert in der eingestellten Reihenfolge.
+     * Dropdownfeld aller verfügbaren Unterthemen im eingestellten Themenfeld, sortiert in der eingestellten Reihenfolge.
+ * Der Aktor kann nun ein neues Thema hinzufügen, ein Thema löschen oder ein Thema verschieben.
+ * Der Aktor kann ein Unterthema hinzufügen, löschen oder verschieben.
+ * Wenn der Aktor ein Thema oder ein Unterthema löscht, werden auch alle dafür bereits vergebenen Punkte gelöscht.
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase014
+
+!include -seamless >AbnahmeTestUseCase014

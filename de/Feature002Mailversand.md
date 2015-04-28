@@ -1,0 +1,26 @@
+!1 Zielsetzung und Vision
+!include -seamless VisionAndPurpose
+
+!1 Scope
+!include -seamless ScoPe
+!2 Quelle
+https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+
+!1 Stakeolder
+!include -seamless StakeHolders
+
+!1 Rollen und Personen
+!include -seamless PersonAndRole
+
+!1 Funktionale Anforderungen
+!2 Mailversand
+!include -seamless InterFaces.InterFace001
+!include -seamless FunCtional.UseCase048
+!include -seamless FunCtional.UseCase049
+!include -seamless FunCtional.UseCase048
+!include -seamless NonFunctional.NonFunctional002
+!include -seamless NonFunctional.NonFunctional003
+!include -seamless NonFunctional.NonFunctional004
+
+!1 Glossar
+!include -seamless GlosSar

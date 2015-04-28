@@ -1,0 +1,3 @@
+ * NonFunctional005 Das Workflow-System ist mandantenfähig
+  * im Rahmen von Liferay-Sites
+  * (optional) auch unabhängig von Liferay

@@ -1,0 +1,22 @@
+!3 PrOc005 Diskussionskreis erstbefüllen
+!4 Owner
+ * Partner
+
+!4 Stakeholder
+ * 
+
+!4 Anstoss (Trigger)
+--
+
+!4 Teilaufgaben
+ *
+
+!4 Normaler Verlauf
+ * 
+
+!4 Varianten
+ * 
+
+!4 Siehe auch
+ * Dieser Prozess ist Teil von PrOc002 Neuen Diskussionskreis einrichten
+

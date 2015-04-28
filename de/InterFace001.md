@@ -1,0 +1,26 @@
+!3 InterFace001 Mailversand
+
+!4 Auslöser
+Das System (Liferay) initiert den Mailversand. Gründe sind z.B. ein Passwortreset, eine Neuregistrierung oder eine benachrichtigung über neue Beiträge.
+
+!4 Parameter
+ * Mail-Empfänger
+ * Mail-Subject
+ * Mail-Body
+
+!4 Ergebnisse
+ * Keines
+
+!4 Fehlerbehandlung
+ * Keine
+
+!4 Siehe auch
+ * TODO: verlinken: ein Passwortreset, eine Neuregistrierung oder eine benachrichtigung über neue Beiträge.
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase041
+
+
+

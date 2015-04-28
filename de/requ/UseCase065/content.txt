@@ -1,0 +1,1 @@
+ * UseCase065 Das System kann outbound Mails versenden

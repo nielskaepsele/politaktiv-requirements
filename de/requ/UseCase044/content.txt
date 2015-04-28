@@ -1,0 +1,28 @@
+!3 UseCase044 
+!4 Aktor
+ * Admin
+
+!4 Stakeholder
+ * Die Stiftung möchte PolitAktiv auch begrifflich spezifisch darstellen, damit die Inhalte so konkret wir möglich beschreiben sind.
+
+!4 Vorbedingung
+--
+
+!4 Normaler Ablauf
+ * Der Aktor loggt sich ein und navigiert zu GLOBAL
+ * Der Aktor ruft den Content auf: SPECIAL_WORD
+ * der Aktor sucht in der Tabelle das gewünschte Wort (im gewünschten Zusammenhang) und schreibt daneben das neue Wort
+ * das System stellt auf der Oberfläche ab sofort das neue Wort statt des alten dar.
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase044
+!include -seamless >AbnahmeTestUseCase044
+!contents -R2 -g -p -f -h

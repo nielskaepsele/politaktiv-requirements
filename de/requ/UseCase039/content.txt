@@ -1,0 +1,23 @@
+!3 UseCase039 Werbung einstellen
+!4 Aktor
+ * Admin
+
+!4 Stakeholder
+ * Die Stiftung möchte mit dem Portal auch durch Werbung Einnahmen erzielen.
+
+!4 Vorbedingung
+!4 Normaler Ablauf
+ * Erst in einer späteren Version!
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase039
+
+!include -seamless >AbnahmeTestUseCase039
+!contents -R2 -g -p -f -h

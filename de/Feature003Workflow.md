@@ -1,0 +1,23 @@
+!2 Rollen und Personen
+Siehe PersonAndRole
+
+!2 Funktionale Anforderungen
+!include -seamless FunCtional.UseCase053
+!include -seamless FunCtional.UseCase052
+!include -seamless FunCtional.UseCase054
+!include -seamless FunCtional.UseCase055
+!include -seamless FunCtional.UseCase056
+!include -seamless FunCtional.UseCase058
+!include -seamless FunCtional.UseCase059
+!include -seamless FunCtional.UseCase060
+!include -seamless FunCtional.UseCase062
+!include -seamless FunCtional.UseCase063
+!include -seamless FunCtional.UseCase064
+!include -seamless FunCtional.UseCase065
+
+!2 Nicht Funktionale Anforderungen
+!include -seamless NonFunctional.NonFunctional005
+!include -seamless NonFunctional.NonFunctional006
+!include -seamless NonFunctional.NonFunctional008
+!include -seamless NonFunctional.NonFunctional007
+

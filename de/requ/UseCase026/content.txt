@@ -1,0 +1,34 @@
+!3 UseCase026 Marker zur Karte hinzufügen
+!4 Aktor
+ * Mitglied
+
+!4 Stakeholder
+ * Mitglied möchte einen lokalen Bezug geografisch darstellen
+
+!4 Vorbedingung
+!4 Normaler Ablauf
+ * Der Benutzer hat eine Möglichkeit, Marker hinzuzufügen
+ * Der Benutzer kann den Marker auf der Karte Positionieren
+ * Der Benutzer fügt dem Marker Informationen hinzu (Bezeichnung, Beschreibung, Link)
+ * Der Marker kann gespeichert werden.
+
+'''Berechtigungen'''
+ * Der Marker kann vom Benutzer wieder bearbeitet werden.
+ * Der Marker kann von anderen Benutzern nicht bearbeitet werden.
+ * Alle Marker können von einem Administrator bearbeitet werden.
+
+'''Zukünftig'''
+ * Der Benutzer kann sich eine Markerfarbe aussuchen aus (16).
+
+
+!4 Alternativer Ablauf
+ * 
+
+!4 Siehe auch
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase026
+
+!include -seamless >AbnahmeTestUseCase026
