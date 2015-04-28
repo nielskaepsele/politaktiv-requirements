@@ -18,7 +18,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 {% include "./PersonAndRole" %}
 
 
-# Funktionale Anforderungen
+# Anforderungen
 
 ## Meinungsbild
 {% include "./FunCtional.UseCase012" %}

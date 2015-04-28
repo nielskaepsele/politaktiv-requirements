@@ -18,7 +18,7 @@ https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 {% include "./PersonAndRole" %}
 
 
-# Funktionale Anforderungen
+#Anforderungen
 
 ## Mailversand
 {% include "./InterFaces.InterFace001" %}

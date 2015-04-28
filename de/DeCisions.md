@@ -1,5 +1,3 @@
-!contents -R2 -g -p -f -h
-
 ### Namenszug
 der gültige Namenszug lautet: '''Polit@ktiv'''
 

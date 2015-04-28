@@ -21,5 +21,3 @@ ist die Seite, die der einen oder anderen Interessentengruppe angeboten wird. Es
 
 ### Diskussionskreis
 ist in Liferay (ab version 6.2) eine Site, war früher eine Community
-
-!contents -R2 -g -p -f -h

@@ -3,7 +3,7 @@
 Siehe PersonAndRole
 
 
-## Funktionale Anforderungen
+## Anforderungen
 {% include "./FunCtional.UseCase053" %}
 {% include "./FunCtional.UseCase052" %}
 {% include "./FunCtional.UseCase054" %}
@@ -16,9 +16,6 @@ Siehe PersonAndRole
 {% include "./FunCtional.UseCase063" %}
 {% include "./FunCtional.UseCase064" %}
 {% include "./FunCtional.UseCase065" %}
-
-
-## Nicht Funktionale Anforderungen
 {% include "./NonFunctional.NonFunctional005" %}
 {% include "./NonFunctional.NonFunctional006" %}
 {% include "./NonFunctional.NonFunctional008" %}
