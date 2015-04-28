@@ -15,16 +15,16 @@ PO beantragt in Jira einen neuen Zugang
 
 #### Normaler Verlauf
  1 Ein IT-Admin erhält die Aufforderungn, einen neuen BenutzerAccount für das CRM einzurichten. Enthaltene Angaben sind:
-  1 Vorname Nachname
-  1 Kürzel (=username)
-  1 Email
+  2 Vorname Nachname
+  2 Kürzel (=username)
+  2 Email
  1 Der IT Admin fügt den neuen Benutzer an
-  1 ssh root@crm.intra.politaktiv.org an
-  1 htpasswd -nb <username> <password>
-  1 Das Ergebnis
-    1 in htpasswd eintragen: vi /etc/apache2/htpasswd
-    1 in puppet eintragen & commiten
-    1 eine Email[1] schreiben & verschicken
+  2 ssh root@crm.intra.politaktiv.org an
+  2 htpasswd -nb <username> <password>
+  2 Das Ergebnis
+    3 in htpasswd eintragen: vi /etc/apache2/htpasswd
+    3 in puppet eintragen & commiten
+    3 eine Email[1] schreiben & verschicken
 
 
 #### Anhang

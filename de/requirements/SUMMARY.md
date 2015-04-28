@@ -1,101 +1,101 @@
-!1 Aktive Anforderungen
-|!2 Navigation für Benutzer     |||                                                               |
+# Aktive Anforderungen
+|## Navigation für Benutzer     |||                                                               |
 | -- |
-|FunCtional.UseCase041|!include -h FunCtional.UseCase041|
+|[req041](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req041.md)|Navigation auf die Hauptseite zurück|
 
-|!2 Benutzerzentrierte Funktionen        |||
+|## Benutzerzentrierte Funktionen        |||
 | -- |                                                      |
-|FunCtional.UseCase038|!include -h FunCtional.UseCase038|
-|FunCtional.UseCase029|!include -h FunCtional.UseCase029|
-|FunCtional.UseCase035|!include -h FunCtional.UseCase035|
-|FunCtional.UseCase030|!include -h FunCtional.UseCase030|
+|[req038](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req038.md)|Sprache wechseln|
+|[req029](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req029.md)|Registrieren|
+|[req035](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req035.md)|An- und Abmelden|
+|[req030](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req030.md)|Eigene Datein pflegen|
 
-|!2 Diskussionskreis         |||                                                                  |
+|## Diskussionskreis         |||                                                                  |
 | -- |
-|FunCtional.UseCase008|!include -h FunCtional.UseCase008|
-|FunCtional.UseCase009|!include -h FunCtional.UseCase009|
-|FunCtional.UseCase010|!include -h FunCtional.UseCase010|
-|FunCtional.UseCase017|!include -h FunCtional.UseCase017|
-|FunCtional.UseCase018|!include -h FunCtional.UseCase018|
-|FunCtional.UseCase033|!include -h FunCtional.UseCase033|
-|FunCtional.UseCase034|!include -h FunCtional.UseCase034|
+|[req008](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req008.md)|Benutzer navigiert zu einem Diskussionskreis|
+|[req009](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req009.md)|Beitreten und DK verlassen|
+|[req010](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req010.md)|Administration des Community-Portlets|
+|[req017](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req017.md)|UC löschen|
+|[req018](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req018.md)|UC löschen|
+|[req033](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req033.md)|Community-Portlet: Diskussionskreise anzeigen|
+|[req034](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req034.md)|Neue DK auf Startseite|
 
-|!2 Präferenzabfrage           |||                                                                |
+|## Präferenzabfrage           |||                                                                |
 | -- |
-|FunCtional.UseCase012|!include -h FunCtional.UseCase012|
-|FunCtional.UseCase013|!include -h FunCtional.UseCase013|
-|FunCtional.UseCase014|!include -h FunCtional.UseCase014|
+|[req012](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req012.md)|Präferenzabfrage ansehen|
+|[req013](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req013.md)|Kriterien bewerten in Präferenzabfrage|
+|[req014](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req014.md)|Präferenzabfrage konfigurieren|
 
-|!2 Karte                     |||                                                                 |
+|## Karte                     |||                                                                 |
 | -- |
-|FunCtional.UseCase025|!include -h FunCtional.UseCase025|
-|FunCtional.UseCase026|!include -h FunCtional.UseCase026|
-|FunCtional.UseCase027|!include -h FunCtional.UseCase027|
-|FunCtional.UseCase036|!include -h FunCtional.UseCase036|
-|FunCtional.UseCase037|!include -h FunCtional.UseCase037|
+|[req025](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req025.md)|Karte ansehen|
+|[req026](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req026.md)|Marker zur Karte hinzufügen|
+|[req027](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req027.md)|Karte einrichten|
+|[req036](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req036.md)|Bild statt Karte|
+|[req037](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req037.md)|Overlay auf Karte einstellen|
 
-|!2 Portal Manager - Funktionen      |||                                                          |
+|## Portal Manager - Funktionen      |||                                                          |
 | -- |
-|FunCtional.UseCase039|!include -h FunCtional.UseCase039|
-|FunCtional.UseCase042|!include -h FunCtional.UseCase042|
-|FunCtional.UseCase043|!include -h FunCtional.UseCase043|
-|FunCtional.UseCase040|!include -h FunCtional.UseCase040|
-|FunCtional.UseCase044|!include -h FunCtional.UseCase044|
-|FunCtional.UseCase050|!include -h FunCtional.UseCase050|
-|FunCtional.UseCase047|!include -h FunCtional.UseCase047|
+|[req039](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req039.md)|Werbung einstellen|
+|[req042](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req042.md)|Impressum|
+|[req043](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req043.md)|Terms & Conditions bearbeiten|
+|[req040](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req040.md)|Registrierungs- oder Loginhilfe redigieren|
+|[req044](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req044.md)|Deutsche (und fremdsprachige) Worte von Liferay an Politaktiv anpassen|
+|[req050](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req050.md)|Globale Inhalte pflegen|
+|[req047](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req047.md)|Neuen Diskusionskreis anlegen|
 
-|!2 Open-Graph - Funktionen      |||                                                              |
+|## Open-Graph - Funktionen      |||                                                              |
 | -- |
-|FunCtional.UseCase051|!include -h FunCtional.UseCase051|
-|FunCtional.UseCase061|!include -h FunCtional.UseCase061|
+|[req051](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req051.md)|Benutzer teilt eine Seite in sozialem Netzwerk|
+|[req061](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req061.md)|Moderator spezifiziert Open-Graph-Tags|
 
-|!2 Design-Anforderungen       |||                                                                |
+|## Design-Anforderungen       |||                                                                |
 | -- |
-|FunCtional.UseCase046|!include -h FunCtional.UseCase046|
+|[req046](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req046.md)|Das Wort Teaser in Lesezeichen unterdrücken|
 
-|!2 Web-Form-Anforderungen    |||                                                                 |
+|## Web-Form-Anforderungen    |||                                                                 |
 | -- |
-|FunCtional.UseCase066|!include -h FunCtional.UseCase046||
+|[req066](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req066.md)|Web-Form-Portlet versendet wohlformatierte Mails |
 
-|!2 Moderator Funktionen      |||                                                                 |
+|## Moderator Funktionen      |||                                                                 |
 | -- |
-|FunCtional.UseCase011|!include -h FunCtional.UseCase011|
-|FunCtional.UseCase045|!include -h FunCtional.UseCase045||
+|[req011](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req011.md)|Mail an Benutzer |
+|[req045](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req045.md)|Statistik eines DK ansehen & downloaden||
 
-|!2 Workflow     |||                                                                              |
+|## Workflow     |||                                                                              |
 | -- |
-|FunCtional.UseCase053|!include -h FunCtional.UseCase053                                       |
-|FunCtional.UseCase052|!include -h FunCtional.UseCase052                                       |
-|FunCtional.UseCase054|!include -h FunCtional.UseCase054                                       |
-|FunCtional.UseCase055|!include -h FunCtional.UseCase055                                       |
-|FunCtional.UseCase056|!include -h FunCtional.UseCase056                                       |
-|FunCtional.UseCase057|!include -h FunCtional.UseCase057                                       |
-|FunCtional.UseCase058|!include -h FunCtional.UseCase058                                       |
-|FunCtional.UseCase059|!include -h FunCtional.UseCase059                                       |
-|FunCtional.UseCase060|!include -h FunCtional.UseCase060                                       |
+|[req053](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req053.md)|Ein Admin erstellt/bearbeitet eine neue Workflow-Definition   |
+|[req052](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req052.md)|Ein Admin importiert eine Workflow-Definition           |
+|[req054](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req054.md)|Ein (Benuzter-)Ereignis generiert ein neues Ticket                   |
+|[req055](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req055.md)|Der Benutzer ruft seine (aktiven) Tickets ab                             |
+|[req056](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req056.md)|Ein Benuzter bearbeitet Daten in seinem aktiven Ticket                                    |
+|[req057](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req057.md)|Der Benuzter sieht sich Daten eienr Workflow Instanz an                                     |
+|[req058](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req058.md)|Das System stellt Daten von einem Ticket einem automatic Job zur Verfügung und started diesen                                   |
+|[req059](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req059.md)|Das System eskaliert Tickets                  |
+|[req060](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req060.md)|Der Admin sieht sich Reports an                                 |
 
-|!2 System Services       |||                                                                     |
+|## System Services       |||                                                                     |
 | -- |
-|FunCtional.UseCase048|!include -h FunCtional.UseCase048||
-|FunCtional.UseCase049|!include -h FunCtional.UseCase049||
+|[req048](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req048.md)|Production MailService||
+|[req049](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req049.md)|Test MailService||
 
-|!2 Crm Requirements||||
+|## Crm Requirements||||
 | -- |
-|FunCtional.UseCase067|!include -h FunCtional.UseCase067||
+|[req067](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req067.md)|Massen-Mail Adressdaten sollen sich de-registrieren können||
 
-|!2 weitere:|||
+|## weitere:|||
 | -- |
-|FunCtional.UseCase001|!include -h FunCtional.UseCase001|
-|FunCtional.UseCase002|!include -h FunCtional.UseCase002|
-|FunCtional.UseCase003|!include -h FunCtional.UseCase003|
-|FunCtional.UseCase004|!include -h FunCtional.UseCase004|
-|FunCtional.UseCase005|!include -h FunCtional.UseCase005|
-|FunCtional.UseCase006|!include -h FunCtional.UseCase006|
-|FunCtional.UseCase007|!include -h FunCtional.UseCase007|
+|[req001](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req001.md)|Nutzungsdimensionen des Systems: 100 Tickets / Tag ; 10 arbeitende Mitarbeiter|
+|[req002](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req002.md)|Mail-Zustell-Fehler behandeln|
+|[req003](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req003.md)|Mails werden nicht als Spam gewertet|
+|[req004](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req004.md)|Workflow-Fortschritte müssen über API beeinflusst werden können|
+|[req005](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req005.md)|Das Workflow-System ist mandantenfähig|
+|[req006](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req006.md)|Integration in Liferay|
+|[req007](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req007.md)|Workflow-System harmoniert mit der angedachten Architektur|
 
-|!1 Verworfene Anforderungen    |||                                                                 |
+|## Verworfene Anforderungen    |||                                                                 |
 | -- |
-|FunCtional.UseCase031|!include -h FunCtional.UseCase031|
-|FunCtional.UseCase032|!include -h FunCtional.UseCase032|
+|[req031](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req031.md)|Anmeldung per Facebook|
+|[req032](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req032.md)|Password vergessen|
 
 

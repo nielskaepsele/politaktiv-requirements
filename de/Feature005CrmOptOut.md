@@ -1,7 +1,5 @@
 
-## Rollen und Personen
-Siehe PersonAndRole
+## [Rollen und Personen](./PersonAndRole.md)
 
-
-## Funktionale Anforderungen
-{% include "./FunCtional.UseCase067" %}
+## Anforderungen
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req067/req067.md" %}

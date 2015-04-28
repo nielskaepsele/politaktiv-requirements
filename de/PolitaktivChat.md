@@ -6,7 +6,12 @@ politaktiv/Produktmanagement/UseCases/Chat-Typen
 
 
 ### Bold-Chat
-!img /files/StakeholderRequests/bold-chat.jpg
+
+![Bold-Chat][bold-chat-pic]
+
+[bold-chat-pic]: https://github.com/PolitAktiv/politaktiv-requirements/blob/master/de/files/StakeholderRequests/bold-chat.jpg "Bold-Chat"
+
+
 
 Ich werde nicht schlau daraus, ob man mit dieser Technik den Bold-Chat bei uns einbauen kann. Offensichtlich hilft mir dafür das dashboard auch nicht wirklich weiter. Hier wird offensichtlich ein neues Fenster im Browser geöffnet mit allen erforderlichen Teilchen (Scrollbalken, etc..). Ob man es aber im selben Portlet innerhalb desselben Fensters öffnen kann, kann ich nicht erkennen.
 

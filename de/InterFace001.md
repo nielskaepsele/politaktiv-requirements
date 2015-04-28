@@ -3,7 +3,7 @@
 
 
 #### Auslöser
-Das System (Liferay) initiert den Mailversand. Gründe sind z.B. ein Passwortreset, eine Neuregistrierung oder eine benachrichtigung über neue Beiträge.
+Das System (Liferay) initiert den Mailversand. Gründe sind z.B. ein Passwortreset, eine Neuregistrierung oder eine Benachrichtigung über neue Beiträge.
 
 
 #### Parameter

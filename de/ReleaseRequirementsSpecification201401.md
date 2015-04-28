@@ -1,31 +1,30 @@
 
 # Zielsetzung und Vision
-{% include "./VisionAndPurpose" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/VisionAndPurpose.md" %}
 
 
 # Stakeolder
-{% include "./StakeHolders" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
 
 # Rollen und Personen
-{% include "./PersonAndRole" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
 
-# Funktionale Anforderungen
-
+# Anforderungen
 
 ## Registrierung, Anmeldung und SelfService für Benutzer
-{% include "./FunCtional.UseCase029" %}
-{% include "./FunCtional.UseCase035" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req029/req029.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req35/req035.md" %}
 
 
 ## Allgemeine Funktionen für Benutzer
-{% include "./FunCtional.UseCase038" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req038/req038.md" %}
 
 
 ## Seitenpflege für Moderatoren
-{% include "./FunCtional.UseCase039" %}
-{% include "./FunCtional.UseCase040" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req039/req039.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req040/req040.md" %}
 
 ### Nutzungsbedingungen pflegen
 

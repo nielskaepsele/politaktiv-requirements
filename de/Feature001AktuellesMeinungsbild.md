@@ -1,32 +1,30 @@
 
 # Zielsetzung und Vision
-{% include "./VisionAndPurpose" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/VisionAndPurpose.md" %}
 
 
 # Scope
-{% include "./ScoPe" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/ScoPe.md" %}
 
 ## Quelle
-https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+[SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
 
 # Stakeolder
-{% include "./StakeHolders" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
 
 # Rollen und Personen
-{% include "./PersonAndRole" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
 
 # Anforderungen
 
 ## Meinungsbild
-{% include "./FunCtional.UseCase012" %}
-{% include "./FunCtional.UseCase013" %}
-{% include "./FunCtional.UseCase014" %}
-
-FunCtional.UseCase099
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req012/req012.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req013/req013.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req014/req014.md" %}
 
 
 # Glossar
-{% include "./GlosSar" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}

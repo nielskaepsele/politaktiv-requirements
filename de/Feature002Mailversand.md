@@ -1,34 +1,35 @@
 
 # Zielsetzung und Vision
-{% include "./VisionAndPurpose" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/VisionAndPurpose.md" %}
 
 
 # Scope
-{% include "./ScoPe" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/ScoPe.md" %}
 
 ## Quelle
-https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+[SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
 
 # Stakeolder
-{% include "./StakeHolders" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
 
 # Rollen und Personen
-{% include "./PersonAndRole" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
 
 #Anforderungen
 
 ## Mailversand
-{% include "./InterFaces.InterFace001" %}
-{% include "./FunCtional.UseCase048" %}
-{% include "./FunCtional.UseCase049" %}
-{% include "./FunCtional.UseCase048" %}
-{% include "./NonFunctional.NonFunctional002" %}
-{% include "./NonFunctional.NonFunctional003" %}
-{% include "./NonFunctional.NonFunctional004" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/InterFace001.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req043/req048.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req040/req049.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req002/req002.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req003/req003.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req004/req004.md" %}
+
+
 
 
 # Glossar
-{% include "./GlosSar" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}

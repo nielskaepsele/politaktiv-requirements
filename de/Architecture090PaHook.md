@@ -1,37 +1,35 @@
 
 # Zielsetzung und Vision
-{% include "./VisionAndPurpose" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/VisionAndPurpose.md" %}
 
 
 # Scope
-{% include "./ScoPe" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/ScoPe.md" %}
 
 ## Quelle
-https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
+[SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
 
 # Stakeolder
-{% include "./StakeHolders" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
 
 # Rollen und Personen
-{% include "./PersonAndRole" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
 
-# Funktionale Anforderungen
+# Anforderungen
 
 ## Tools für den PortalManager
-{% include "./FunCtional.UseCase043" %}
-{% include "./FunCtional.UseCase040" %}
-{% include "./FunCtional.UseCase029" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req043/req043.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req040/req040.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req029/req029.md" %}
 
 
 ## Tests von betroffenen UseCases
 
-
-### !include -h FunCtional.UseCase035
-{% include "./FunCtional.UseCase035.AbnahmeTestUseCase035" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req035/.AbnahmeTest_req035.md" %}
 
 
 # Glossar
-{% include "./GlosSar" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}
