@@ -8,20 +8,20 @@ Prozesse müssen beschrieben werden, weil verschiedenen Rollen damit zu tun habe
 |
 ## Diskussionskreis ||||
 | -- | 
-|ProCess.PrOc002|!include -h ProCess.PrOc002|!include -h ProCess.PrOc002.MeTa|
-|ProCess.PrOc005|!include -h ProCess.PrOc005|!include -h ProCess.PrOc005.MeTa|
+|ProCess.PrOc002|!include -h ProCess.PrOc002|
+|ProCess.PrOc005|!include -h ProCess.PrOc005|
 |
 ## BI                                                         |
-|ProCess.PrOc003|!include -h ProCess.PrOc003|!include -h ProCess.PrOc003.MeTa|
-|ProCess.PrOc004|!include -h ProCess.PrOc004|!include -h ProCess.PrOc004.MeTa|
+|ProCess.PrOc003|!include -h ProCess.PrOc003|
+|ProCess.PrOc004|!include -h ProCess.PrOc004|
 |
 ## Karte                                                         |
-|ProCess.PrOc006|!include -h ProCess.PrOc006|!include -h ProCess.PrOc006.MeTa|
+|ProCess.PrOc006|!include -h ProCess.PrOc006|
 
 
 # Prozesse für den IT Betrieb
 |
 ## CRM                                                    ||||
 | -- | 
-|ProCess.PrOc007|!include -h ProCess.PrOc007|!include -h ProCess.PrOc007.MeTa|
+|ProCess.PrOc007|!include -h ProCess.PrOc007|
 
