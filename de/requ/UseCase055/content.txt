@@ -1,1 +1,0 @@
- * UseCase055 Der Benutzer ruft seine (aktiven) Tickets ab.

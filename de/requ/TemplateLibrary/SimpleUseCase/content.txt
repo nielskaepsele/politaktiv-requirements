@@ -1,4 +1,0 @@
- * UseCase0nn
-  * Weiterführend
-    * >MeTa
-    * >AcceptanceCriteriaUseCase0nn

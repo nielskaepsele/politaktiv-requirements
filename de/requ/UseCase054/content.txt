@@ -1,1 +1,0 @@
- * UseCase054 Ein (Benutzer-)Ereignis generiert eine neues Ticket.

@@ -1,4 +1,0 @@
- * NonFunctional001 Das System kann die folgenden Nutzungsdimensionen bewältigen
-  * 100 Tickets / Tag
-  * 10 Mitarbeiter, die mit dem System arbeiten
- 
