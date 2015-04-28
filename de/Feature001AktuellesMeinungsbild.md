@@ -1,24 +1,32 @@
-!1 Zielsetzung und Vision
-!include -seamless VisionAndPurpose
 
-!1 Scope
-!include -seamless ScoPe
-!2 Quelle
+# Zielsetzung und Vision
+{% include "./VisionAndPurpose" %}
+
+
+# Scope
+{% include "./ScoPe" %}
+
+## Quelle
 https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
-!1 Stakeolder
-!include -seamless StakeHolders
 
-!1 Rollen und Personen
-!include -seamless PersonAndRole
+# Stakeolder
+{% include "./StakeHolders" %}
 
-!1 Funktionale Anforderungen
-!2 Meinungsbild
-!include -seamless FunCtional.UseCase012
-!include -seamless FunCtional.UseCase013
-!include -seamless FunCtional.UseCase014
+
+# Rollen und Personen
+{% include "./PersonAndRole" %}
+
+
+# Funktionale Anforderungen
+
+## Meinungsbild
+{% include "./FunCtional.UseCase012" %}
+{% include "./FunCtional.UseCase013" %}
+{% include "./FunCtional.UseCase014" %}
 
 FunCtional.UseCase099
 
-!1 Glossar
-!include -seamless GlosSar
+
+# Glossar
+{% include "./GlosSar" %}

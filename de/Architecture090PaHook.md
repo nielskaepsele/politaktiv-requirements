@@ -1,27 +1,37 @@
-!1 Zielsetzung und Vision
-!include -seamless VisionAndPurpose
 
-!1 Scope
-!include -seamless ScoPe
-!2 Quelle
+# Zielsetzung und Vision
+{% include "./VisionAndPurpose" %}
+
+
+# Scope
+{% include "./ScoPe" %}
+
+## Quelle
 https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
-!1 Stakeolder
-!include -seamless StakeHolders
 
-!1 Rollen und Personen
-!include -seamless PersonAndRole
+# Stakeolder
+{% include "./StakeHolders" %}
 
-!1 Funktionale Anforderungen
-!2 Tools für den PortalManager
-!include -seamless FunCtional.UseCase043
-!include -seamless FunCtional.UseCase040
-!include -seamless FunCtional.UseCase029
 
-!2 Tests von betroffenen UseCases
+# Rollen und Personen
+{% include "./PersonAndRole" %}
 
-!3 !include -h FunCtional.UseCase035
-!include -seamless FunCtional.UseCase035.AbnahmeTestUseCase035
 
-!1 Glossar
-!include -seamless GlosSar
+# Funktionale Anforderungen
+
+## Tools für den PortalManager
+{% include "./FunCtional.UseCase043" %}
+{% include "./FunCtional.UseCase040" %}
+{% include "./FunCtional.UseCase029" %}
+
+
+## Tests von betroffenen UseCases
+
+
+### !include -h FunCtional.UseCase035
+{% include "./FunCtional.UseCase035.AbnahmeTestUseCase035" %}
+
+
+# Glossar
+{% include "./GlosSar" %}

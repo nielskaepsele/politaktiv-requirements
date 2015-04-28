@@ -1,23 +1,32 @@
-!1 Zielsetzung und Vision
-!include -seamless VisionAndPurpose
 
-!1 Stakeolder
-!include -seamless StakeHolders
+# Zielsetzung und Vision
+{% include "./VisionAndPurpose" %}
 
-!1 Rollen und Personen
-!include -seamless PersonAndRole
 
-!1 Funktionale Anforderungen
+# Stakeolder
+{% include "./StakeHolders" %}
 
-!2 Registrierung, Anmeldung und SelfService für Benutzer
-!include -seamless FunCtional.UseCase029
-!include -seamless FunCtional.UseCase035
 
-!2 Allgemeine Funktionen für Benutzer
-!include -seamless FunCtional.UseCase038
+# Rollen und Personen
+{% include "./PersonAndRole" %}
 
-!2 Seitenpflege für Moderatoren
-!include -seamless FunCtional.UseCase039
-!include -seamless FunCtional.UseCase040
-!3 Nutzungsbedingungen pflegen
-!3 Impressum pflegen
+
+# Funktionale Anforderungen
+
+
+## Registrierung, Anmeldung und SelfService für Benutzer
+{% include "./FunCtional.UseCase029" %}
+{% include "./FunCtional.UseCase035" %}
+
+
+## Allgemeine Funktionen für Benutzer
+{% include "./FunCtional.UseCase038" %}
+
+
+## Seitenpflege für Moderatoren
+{% include "./FunCtional.UseCase039" %}
+{% include "./FunCtional.UseCase040" %}
+
+### Nutzungsbedingungen pflegen
+
+### Impressum pflegen

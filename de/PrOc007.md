@@ -1,14 +1,19 @@
-!3 PrOc007 CRM Account anlegen
-!4 Owner
+
+### PrOc007 CRM Account anlegen
+
+#### Owner
  * IT
 
-!4 Stakeholder
+
+#### Stakeholder
  * PolitAktiv IT
 
-!4 Anstoss (Trigger)
+
+#### Anstoss (Trigger)
 PO beantragt in Jira einen neuen Zugang
 
-!4 Normaler Verlauf
+
+#### Normaler Verlauf
  1 Ein IT-Admin erhält die Aufforderungn, einen neuen BenutzerAccount für das CRM einzurichten. Enthaltene Angaben sind:
   1 Vorname Nachname
   1 Kürzel (=username)
@@ -21,7 +26,8 @@ PO beantragt in Jira einen neuen Zugang
     1 in puppet eintragen & commiten
     1 eine Email[1] schreiben & verschicken
 
-!4 Anhang
+
+#### Anhang
 
 [1] Benachrichtigungsmail
 

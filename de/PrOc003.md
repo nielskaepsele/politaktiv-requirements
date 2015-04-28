@@ -1,21 +1,29 @@
-!3 PrOc003 BI einrichten
-!4 Owner
+
+### PrOc003 BI einrichten
+
+#### Owner
  * Stiftung
 
-!4 Stakeholder
+
+#### Stakeholder
  * Stiftung
 
-!4 Anstoss (Trigger)
+
+#### Anstoss (Trigger)
 --
 
-!4 Teilaufgaben
+
+#### Teilaufgaben
  *
 
-!4 Normaler Verlauf
+
+#### Normaler Verlauf
  * 
 
-!4 Varianten
+
+#### Varianten
  * 
 
-!4 Siehe auch
+
+#### Siehe auch
  *

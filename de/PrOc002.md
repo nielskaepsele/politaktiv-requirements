@@ -1,20 +1,28 @@
-!3 PrOc002 Neuen Diskussionskreis starten
 
-!4 Owner
+### PrOc002 Neuen Diskussionskreis starten
+
+
+#### Owner
  * Partner
 
-!4 Stakeholder
+
+#### Stakeholder
  * Stiftung
 
-!4 Anstoss (Trigger)
-!4 Teilaufgaben
+
+#### Anstoss (Trigger)
+
+#### Teilaufgaben
 *
 
-!4 Normaler Verlauf
+
+#### Normaler Verlauf
  * 
 
-!4 Varianten
+
+#### Varianten
  * 
 
-!4 Siehe auch
+
+#### Siehe auch
 *

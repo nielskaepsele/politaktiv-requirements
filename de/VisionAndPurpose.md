@@ -1,11 +1,13 @@
-!2 Vision
+
+## Vision
 PolitAktiv soll als ein Beispiel für die humane Nutzung der IT entwickelt werden.
 
 PolitAktiv unterstützt die individuelle Meinungsbildung auf dem Gebiet der Partizipation.
 
 PolitAktiv bietet Diskussionskreise an, die Themen im kommunalen Umfeld zum Gegenstand haben.
 
-!2 Ziele
+
+## Ziele
 PolitAktiv wird Kommunen und Bürgerinitiativen kostenlos zur Verfügung gestellt.
 
 PolitAktiv soll die wichtigste Plattform zur Diskussion von kommunalen Projekten in Deutschland werden.

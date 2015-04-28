@@ -1,69 +1,87 @@
-!1 Zielsetzung und Vision
-!include -seamless VisionAndPurpose
 
-!1 Abgrenzungen
-!include -seamless ScoPe
-!2 Quelle
+# Zielsetzung und Vision
+{% include "./VisionAndPurpose" %}
+
+
+# Abgrenzungen
+{% include "./ScoPe" %}
+
+## Quelle
 https://requirements.intra.politaktiv.org/SystemRequirementsSpecification
 
-!1 Offene Fragen
-!include -seamless OpenQuestions
 
-!1 Stakeolder
-!include -seamless StakeHolders
+# Offene Fragen
+{% include "./OpenQuestions" %}
 
-!1 Rollen und Personen
-!include -seamless PersonAndRole
 
-!1 Funktionale Anforderungen
+# Stakeolder
+{% include "./StakeHolders" %}
 
-!2 Registrierung, Anmeldung und SelfService für Benutzer
-!include -seamless FunCtional.UseCase029
-!include -seamless FunCtional.UseCase031
-!include -seamless FunCtional.UseCase030
-!include -seamless FunCtional.UseCase035
 
-!2 Allgemeine Funktionen für Benutzer
-!include -seamless FunCtional.UseCase038
+# Rollen und Personen
+{% include "./PersonAndRole" %}
 
-!2 Diskussionskreis für Benutzer
-!include -seamless ProCess.PrOc004
-!include -seamless FunCtional.UseCase008
-!include -seamless FunCtional.UseCase009
-!include -seamless FunCtional.UseCase033
-!include -seamless FunCtional.UseCase034
 
-!2 Diskussionskreis für Moderatoren und ?Initiatoren?
-!include -seamless ProCess.PrOc002
-!include -seamless ProCess.PrOc003
-!include -seamless ProCess.PrOc005
-!include -seamless FunCtional.UseCase010
-!include -seamless FunCtional.UseCase017
-!include -seamless FunCtional.UseCase018
+# Funktionale Anforderungen
 
-!2 Meinungsbild
-!include -seamless FunCtional.UseCase012
-!include -seamless FunCtional.UseCase013
-!include -seamless FunCtional.UseCase014
 
-!2 Karte
-!include -seamless ProCess.PrOc006
-!include -seamless FunCtional.UseCase025
-!include -seamless FunCtional.UseCase026
-!include -seamless FunCtional.UseCase027
-!include -seamless FunCtional.UseCase036
-!include -seamless FunCtional.UseCase037
+## Registrierung, Anmeldung und SelfService für Benutzer
+{% include "./FunCtional.UseCase029" %}
+{% include "./FunCtional.UseCase031" %}
+{% include "./FunCtional.UseCase030" %}
+{% include "./FunCtional.UseCase035" %}
 
-!2 Bürger aktivieren
-!include -seamless FunCtional.UseCase011
 
-!2 Seitenpflege für Moderatoren
-!include -seamless FunCtional.UseCase039
-!include -seamless FunCtional.UseCase040
+## Allgemeine Funktionen für Benutzer
+{% include "./FunCtional.UseCase038" %}
 
-!1 Nicht funktionale Anforderungen
 
-!1 Schnittstellen
+## Diskussionskreis für Benutzer
+{% include "./ProCess.PrOc004" %}
+{% include "./FunCtional.UseCase008" %}
+{% include "./FunCtional.UseCase009" %}
+{% include "./FunCtional.UseCase033" %}
+{% include "./FunCtional.UseCase034" %}
 
-!1 Glossar
-!include -seamless GlosSar
+
+## Diskussionskreis für Moderatoren und ?Initiatoren?
+{% include "./ProCess.PrOc002" %}
+{% include "./ProCess.PrOc003" %}
+{% include "./ProCess.PrOc005" %}
+{% include "./FunCtional.UseCase010" %}
+{% include "./FunCtional.UseCase017" %}
+{% include "./FunCtional.UseCase018" %}
+
+
+## Meinungsbild
+{% include "./FunCtional.UseCase012" %}
+{% include "./FunCtional.UseCase013" %}
+{% include "./FunCtional.UseCase014" %}
+
+
+## Karte
+{% include "./ProCess.PrOc006" %}
+{% include "./FunCtional.UseCase025" %}
+{% include "./FunCtional.UseCase026" %}
+{% include "./FunCtional.UseCase027" %}
+{% include "./FunCtional.UseCase036" %}
+{% include "./FunCtional.UseCase037" %}
+
+
+## Bürger aktivieren
+{% include "./FunCtional.UseCase011" %}
+
+
+## Seitenpflege für Moderatoren
+{% include "./FunCtional.UseCase039" %}
+{% include "./FunCtional.UseCase040" %}
+
+
+# Nicht funktionale Anforderungen
+
+
+# Schnittstellen
+
+
+# Glossar
+{% include "./GlosSar" %}

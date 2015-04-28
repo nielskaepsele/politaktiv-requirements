@@ -1,9 +1,12 @@
-!1 !-DomainDrivenArchitecture-! Anforderungsmanagement 
 
-!2 Noch nicht qualifizierte Anforderungen
+# !-DomainDrivenArchitecture-! Anforderungsmanagement 
+
+
+## Noch nicht qualifizierte Anforderungen
 [[00 Anfragen von Stakeholdern][UnqualifiedRequirements]]
 
-!2 Anforderungen
+
+## Anforderungen
 [[10 Ziele und Vision][VisionAndPurpose]]
 [[11 Abgrenzung][ScoPe]]
 [[12 Offene Fragen][OpenQuestions]]
@@ -16,11 +19,13 @@
 [[19 Entscheidungen][DeCisions]]
 [[20 Glossar][GlosSar]]
 
-!2 System Anforderungen
+
+## System Anforderungen
 [[50 Todos][ToDo]]
 [[51 Alle System Anforderungen][SystemRequirementsSpecification]]
 
-!2 Features
+
+## Features
 [[61 Aktuelles Meinungsbild][Feature001AktuellesMeinungsbild]]
 [[62 Mailversand][Feature002Mailversand]]
 [[63 Workflow][Feature003Workflow]]
@@ -28,8 +33,10 @@
 [[65 !-CrmOptOut-!][Feature005CrmOptOut]]
 
 
-!2 Technische Accounts
+
+## Technische Accounts
 [[80 Technische Accounts][TechnischeAccounts]]
 
-!2 Technische Aufteilung
+
+## Technische Aufteilung
 [[90 PA_Hook][Architecture090PaHook]]

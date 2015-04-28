@@ -1,22 +1,30 @@
-!3 PrOc004 Benutzer wird Mitglied in einer BI
 
-!4 Owner
+### PrOc004 Benutzer wird Mitglied in einer BI
+
+
+#### Owner
  * 
 
-!4 Stakeholder
+
+#### Stakeholder
  * 
 
-!4 Anstoss (Trigger)
+
+#### Anstoss (Trigger)
 --
 
-!4 Teilaufgaben
+
+#### Teilaufgaben
  *
 
-!4 Normaler Verlauf
+
+#### Normaler Verlauf
  * 
 
-!4 Varianten
+
+#### Varianten
  * 
 
-!4 Siehe auch
+
+#### Siehe auch
  *

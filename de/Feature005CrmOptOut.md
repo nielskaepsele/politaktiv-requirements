@@ -1,5 +1,7 @@
-!2 Rollen und Personen
+
+## Rollen und Personen
 Siehe PersonAndRole
 
-!2 Funktionale Anforderungen
-!include -seamless FunCtional.UseCase067
+
+## Funktionale Anforderungen
+{% include "./FunCtional.UseCase067" %}

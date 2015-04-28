@@ -1,23 +1,26 @@
-!2 Rollen und Personen
+
+## Rollen und Personen
 Siehe PersonAndRole
 
-!2 Funktionale Anforderungen
-!include -seamless FunCtional.UseCase053
-!include -seamless FunCtional.UseCase052
-!include -seamless FunCtional.UseCase054
-!include -seamless FunCtional.UseCase055
-!include -seamless FunCtional.UseCase056
-!include -seamless FunCtional.UseCase058
-!include -seamless FunCtional.UseCase059
-!include -seamless FunCtional.UseCase060
-!include -seamless FunCtional.UseCase062
-!include -seamless FunCtional.UseCase063
-!include -seamless FunCtional.UseCase064
-!include -seamless FunCtional.UseCase065
 
-!2 Nicht Funktionale Anforderungen
-!include -seamless NonFunctional.NonFunctional005
-!include -seamless NonFunctional.NonFunctional006
-!include -seamless NonFunctional.NonFunctional008
-!include -seamless NonFunctional.NonFunctional007
+## Funktionale Anforderungen
+{% include "./FunCtional.UseCase053" %}
+{% include "./FunCtional.UseCase052" %}
+{% include "./FunCtional.UseCase054" %}
+{% include "./FunCtional.UseCase055" %}
+{% include "./FunCtional.UseCase056" %}
+{% include "./FunCtional.UseCase058" %}
+{% include "./FunCtional.UseCase059" %}
+{% include "./FunCtional.UseCase060" %}
+{% include "./FunCtional.UseCase062" %}
+{% include "./FunCtional.UseCase063" %}
+{% include "./FunCtional.UseCase064" %}
+{% include "./FunCtional.UseCase065" %}
+
+
+## Nicht Funktionale Anforderungen
+{% include "./NonFunctional.NonFunctional005" %}
+{% include "./NonFunctional.NonFunctional006" %}
+{% include "./NonFunctional.NonFunctional008" %}
+{% include "./NonFunctional.NonFunctional007" %}
 
