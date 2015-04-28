@@ -1,8 +1,9 @@
 Technische Accounts mit Administrator-Rechten.
 Für Entwickler!
 
-!|Technische Accounts  |
-|                      |
+|Technische Accounts  | |
+|  --  |
 |Login        |Passwort|
 |devtest      |JeM&ScT |         
+
 
