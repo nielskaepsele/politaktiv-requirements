@@ -1,3 +1,3 @@
-Table of Contents
+# Table of Contents
 
 {% include "SUMMARY.md" %}
