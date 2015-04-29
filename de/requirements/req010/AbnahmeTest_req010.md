@@ -1,8 +1,7 @@
-|Table:!-AcceptanceTest-!|${PAGE_NAME}       
-                                                                                                                                |
-|Schrittnr.              |Aktion         
-| -- |
-                                                                                                           |Erwartetes Ergebnis|Ergebnis|
+#AcceptanceTest     
+
+|Schrittnr. |Aktion |Erwartetes Ergebnis|Ergebnis|
+                                                                                                           | -- |
 |1                       |www.politaktiv.org aufrufen                                                                                               |                   |        |
 |2                       |Mit einem Admin-Benutzer anmelden                                                                                         |                   |        |
 |3                       |Prüfen: Community Select Portlet enthält die Option "Preferences"                                                         |                   |        |
