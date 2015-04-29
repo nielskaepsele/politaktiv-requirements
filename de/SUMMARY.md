@@ -1,4 +1,4 @@
 # Summary
 
-* [introduction](SUMMARY.md)
+* introduction
 
