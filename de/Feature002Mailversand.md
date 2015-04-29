@@ -22,8 +22,8 @@
 
 ## Mailversand
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/InterFace001.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req043/req048.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req040/req049.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req048/req048.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req049/req049.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req002/req002.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req003/req003.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req004/req004.md" %}
