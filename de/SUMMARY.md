@@ -1,5 +1,3 @@
 # Summary
 
-* introduction
-* introduction
 
