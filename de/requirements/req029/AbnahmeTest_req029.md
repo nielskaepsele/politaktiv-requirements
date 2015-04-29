@@ -1,4 +1,4 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+#AcceptanceTest
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |
 | 1 | Als Admin im 1. Browser einloggen | | |
@@ -12,4 +12,4 @@
 | 9 | Später: Im 1. Browser nachsehen, ob als Member im zugehörigfen DK eingetragen | Als member eingetragen | |
 | 10 | Weitertesten wie in [[FunCtional angegeben][FunCtionakl]] | Ablauf stimmt. | |
 | 11 | Im 1. Browser: Account wieder löschen | | |
-| 12 | Im 1. Browser: Prüfen, ob Mail-Adresse wieder frei ist | | |
+| 12 | Im 1. Browser: Prüfen, ob Mail-Adresse wieder frei ist | | ||
