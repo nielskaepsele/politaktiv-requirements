@@ -1,4 +1,5 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} ||||
-| -- | 
+#AcceptanceTest
+
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
-| 1 | hat nichts mit Softwareentwicklung zu tun... | | |
+| -- | 
+| 1 | hat nichts mit Softwareentwicklung zu tun... | | | | 
