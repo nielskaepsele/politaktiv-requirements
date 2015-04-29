@@ -1,5 +1,7 @@
 {
     "gitbook": "2.0.0-alpha.9",
+    "title": "Politaktiv Requirements"
+    "language": "de"
     "plugins": ["piwik"],
     "pluginsConfig": {
         "piwik": {
