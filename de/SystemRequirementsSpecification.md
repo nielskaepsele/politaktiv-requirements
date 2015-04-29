@@ -80,4 +80,4 @@
 
 
 # Glossar
-{% include "./GlosSar" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}
