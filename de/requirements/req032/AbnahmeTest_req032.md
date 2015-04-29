@@ -1,5 +1,6 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} |
+#AcceptanceTest
+
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |
-| 1 | Überflüssig - muss nicht getestet werden | | |
-| | | | |
+| 1 | Überflüssig - muss nicht getestet werden | | | |
+
