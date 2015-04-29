@@ -1,3 +1,4 @@
-|Table:!-AcceptanceTest-!|${PAGE_NAME}                                |||
+#AcceptanceTest
 |Schrittnr.              |Aktion         |Erwartetes Ergebnis|Ergebnis|
-|1                       |Testschritt ...|                   |        |
+|--|
+|1  |Testschritt ...|  | ||
