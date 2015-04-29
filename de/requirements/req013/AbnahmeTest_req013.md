@@ -1,5 +1,5 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} | 
-| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis ||||
+#AcceptanceTest
+| Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |  
 | 1 | Navigieren zum DK demoprojekt und dort zur Präferenzabfrage | Vorausgefüllte Liste mit Kriterien, die man auf- und zu klappen kann. | |
 | 2 | Beliebiges Thema aufklappen | Unterthemen sichtbar mit denen vom Tester bereits vergebenen Punkte | |
