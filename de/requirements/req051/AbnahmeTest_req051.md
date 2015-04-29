@@ -1,4 +1,5 @@
-!5 Vorgehen: Test auf Facebook
+#AcceptanceTest
+#### Vorgehen: Test auf Facebook
  * Verschiedene bestehende URLs von Politaktiv auf Intermediate heraussuchen
  * URLs in Facebook URL Debugger eingeben: https://developers.facebook.com/tools/debug/og/object/
  * Prüfen, ob die von Facebook geparsten Informationen passen
@@ -8,7 +9,7 @@
    * normale URL
    * URL zum einbinden
 
-!5 Ergebnis: Test auf Facebook  22.01.2015
+#### Ergebnis: Test auf Facebook  22.01.2015
  * Text-Meta-Tags (Titel, Kurzbeschreibung etc.) werden erfolgreich aus SEO-Infos der Seite übernommen.
  * Politaktiv Logo bzw. Stadt-Logo/Wappen sind Default-Bilder.
    * Facebook wirft im Debugger eine Warnung wegen niedriger Auflösung des jeweiligen Logos, funktioniert aber dann trotzdem.
@@ -19,5 +20,5 @@
    * Ursache unklar.
    * Priorität: Sehr niedrig. Derzeit ist das primäre Ziel der Integrata-Stiftung, Bürger auf die Website zu locken, nicht, dass sie in Facebook bleiben und dort Videos von der Website ansehen.
 
-!5 Testbeschreibung von:
+#### Testbeschreibung von:
 Niels Ott <niels.ott@integrata-stiftung.de>
