@@ -1,4 +1,5 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} | |||
+AcceptanceTest
+
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |  
 | 1 | Anmelden als Admin | | |
@@ -9,4 +10,3 @@
 | 6 | Ausloggen | | |
 | 7 | NAchsehen, ob neuer Dk angelegt ist | | |
 
-!contents -R2 -g -p -f -h
