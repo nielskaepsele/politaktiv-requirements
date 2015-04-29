@@ -13,7 +13,6 @@
 * [19 Entscheidungen](DeCisions.md)
 * [20 Glossar](GlosSar.md)
 ## System Anforderungen
-* [50 Todos](ToDo.md)
 * [51 Alle System Anforderungen](SystemRequirementsSpecification.md)
 ## Features
 * [61 Aktuelles Meinungsbild](Feature001AktuellesMeinungsbild.md)
