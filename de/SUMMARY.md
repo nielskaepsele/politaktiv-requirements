@@ -6,7 +6,7 @@
  * [11 Abgrenzung](ScoPe.md)
  * [12 Offene Fragen](OpenQuestions.md)
  * [13 Stakeholder](StakeHolders.md)
- * [14 Prozesse](ProCess.md)
+ * [14 Prozesse](processes/SUMMARY.md)
  * [15 Rollen und Personen](PersonAndRole.md)
  * [16 Anforderungen](requirements/SUMMARY.md)
  * [18 Schnittstellen](InterFaces.md)
