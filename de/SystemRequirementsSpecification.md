@@ -35,7 +35,7 @@
 
 
 ## Diskussionskreis für Benutzer
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PrOc004.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc004.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req008/req008.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req009/req009.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req033/req033.md" %}
@@ -43,9 +43,9 @@
 
 
 ## Diskussionskreis für Moderatoren und ?Initiatoren?
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PrOc002.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PrOc003.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PrOc005.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc002.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc003.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc005.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req010/req010.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req017/req017.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req018/req018.md" %}
@@ -58,7 +58,7 @@
 
 
 ## Karte
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PrOc006.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc006.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req025/req025.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req026/req026.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req027/req027.md" %}
