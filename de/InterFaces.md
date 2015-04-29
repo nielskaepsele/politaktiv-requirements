@@ -1,7 +1,6 @@
 
 # Aktive Interfaces 
 
-[InterFace001](./InterFace001.md)
-
+ {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/InterFace001.md" %}  
 
 
