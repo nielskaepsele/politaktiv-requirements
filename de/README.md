@@ -1,1 +1,3 @@
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/SUMMARY.md" %}
+Table of Contents
+
+{% include "SUMMARY.md" %}
