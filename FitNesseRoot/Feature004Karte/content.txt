@@ -1,0 +1,80 @@
+!1 Stakeholder
+!include -seamless StakeHolders
+
+!1 Rollen und Personen
+!include -seamless PersonAndRole
+
+!1 Anforderungen
+!2 Basis
+ * Req103: Wenn Karte oder Bild vergrößert / verkleinert werden, wird die hinzugefügte grafische Figur im gleichen Maßstab ebenfalls vergrößert/verkleinert.
+ * Req116: Das Kartenportlet kann pro Portal / Site / Seite in beliebig vielen eigenen Instanzen angelegt werden.
+   * Eine Karten-Portlet-Instanz hat: Namen
+
+!2 Karte
+ * Req102: Anstelle einer Karte kann vom Admin auch ein anderes Bild (z.B. Zeichnung, Foto) zugrunde gelegt werden.
+
+!2 Marker
+ * Req100: Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einen Marker setzen und diese mit einem Link zu einem Text versehen, den er dazu verfasst hat.
+  * Ein Marker hat einen Namen, eine Kurzbeschreibung und einen Link.
+  * Die Bezeichnungen der Marker erscheinen beim Klick auf den Marker als modales Fenster über der Karte, das aktiv wieder weggeklickt werden muss.
+
+!3 Markerdetails
+ * Req104: Es sind bis zu 1.000 Marker pro Karte (Bild) zulässig.
+ * Req105: Der Moderator kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Marker möglich ist.
+
+!2 Overlay
+ * Req101: Jeder angemeldete & beigetretene Benutzer kann in eine bestehende Karte oder in ein bestehendes Bild einfache grafische Figuren einzeichnen (z.B. Linien oder Flächen) und diese mit einem Link zu seinem Text versehen.
+   * Ein Overlay hat: Owner, Ein Overlay hat einen Text, wie er bei einem Marker bereits realisiert ist, also Name, Kurzbeschreibung und Link. Der erscheint in einem modalen Fenster, wenn der Tab angeklickt wurde und der Overlay angezeigt wird.
+   * Ein Benutzer, der ein Overlay hochladen möchte klickt auf einen noch nicht belegten Tab. Dazu muss immer ein leerer Tab vorhanden sein. Wäre er schon belegt, würde das entsprechende Overlay angezeigt. Ist er noch nicht belegt, erscheint stattdessen das Menü zum Hochladen. Will er nicht hochladen oder abbrechen, kann er das Menü einfach wegklicken. Der Tab bleibt dann geschlossen und unbelegt.
+    * Was ist, wenn ein zweiter Benutzer gleichzeitig auf denselben Tab ein Overlay hochladen will? Es gilt das optimistische Prinzip: der erste gewinnt. Der zweite wird aufgefordert, es mit dem nächsten Tab nochmals zu versuchen.
+    * Ein Benutzer, der ein Overlay hochlädt, sollte das Directory, wohin es geladen wird und die dort bereits befindlichen Files nicht zu Gesicht bekommen. Das Hochladen sollte also "halb-blind" erfolgen. Anders der Admin (Moderator), der Einstellungen machen darf: Er sollte das Directory zu sehen bekommen. Der Benutzer kann also nur ein einziges Overlay hochladen und muss danach die ganze Prozedur neu starten, wenn er ein zweites hochladen will. Der Admin kann mehrere auf einmal hochladen (wie bei allen anderen Dokumenten / Bildern bisher auch schon).
+
+
+ * Req111: Ein Overlay kann vom Benutzer online erstellt werden, indem er direkt über die Karte zeichnet, die in einer beliebigen Vergrößerung angezeigt wird.
+  * Dazu stehen eine Reihe von Zeichentools zur Verfügung. (Leaf-let?)
+  * Zum Einfügen wird die Karte / das Bild dann in eine beliebige Vergrößerung versetzt und das hochgeladene Overlay in Höhe und Breite dem aktuellen Bild angepasst, so dass es vollständig innerhalb des gerade sichtbaren Kartenausschnittes zu sehen ist.
+ * Req113: Der Gast kann die Reihenfolge der Overlays beeinflussen
+  * Bei der initialen Anzeige zeigt das System keine Overlays an.
+  * Das System zeigt das zueltzt angklickte Overlay zu oberst an.
+
+ * Req108: Ein Gast kann Overlays aus- und einblenden
+  * Die Bezeichnungen der Overlays können als TAB oben am Rand der Karte/Bild dargestellt werden, die eine Nummer und den Anfang der entsprechenden Beschriftung des Overlays tragen.
+  * Ein Klick auf den Tab zeigt den Overlay über der Karte / Bild. Das Overlay wird dabei transparent über der Karte dargestellt.
+  * Es ist zulässig, mehrere Tabs anzuklicken / anzuzeigen.
+  * Ein zweiter Klick auf einen Tab verbirgt das entsprechende Overlay wieder.
+
+!3 Overlaydetails
+ * Req106: Es sind bis zu 99 Karten-Overlays pro Karte (Bild) zulässig.
+ * Req107: Der Admin kann die Karten Portlet konfigurieren
+   * Der Admin (Moderator) kann per Schraubenschlüssel die Zahl einschränken. Er kann sie auch auf Null setzen, so dass kein Overlay möglich ist.
+   * Option: Die Transparenz (in Prozent) kann vom Admin per Einstellung (mit dem Schraubenschlüssel) für alle Overlays gemeinsam festgelegt werden.
+   * Der Admin (oder der Owner) kann ein Overlay auch wieder löschen.
+ * Req112: Der Admin kann Berechtigungen (Overlays erstellen, löschen, ändern) einer sitespezifischen Rolle hinzufügen oder entfernen.
+ * Req110: Ein Benutzer kann per Schraubenschlüssel das Karten Portlet konfigurieren
+   * Nur das Folgende:
+      * Der Owner kann ein eigenes Overlay auch wieder löschen.
+ * Req115: Ein Administrator kann Overlays einer Karten-Portlet-Instanz zuordnen
+  * Er kann dabei aus allen Overlays einer Site auswählen.
+ * Req117: Opt. Das System erlaub dem Admin eine Kartenportlet Instanz in eine neue Karten Portlet Instanz zu kopieren.
+ * Req118: Ein Benutzer kann hochgeladene Bilder als Overlay einpassen
+  * Wenn ein Overlay nicht direkt eingezeichnet, sondern hochgeladen wird, muss es auf die darunter liegende Karte (Bild) angepasst werden können.
+    1. Es soll mit der Maus grob und mit den Pfeiltasten fein verschoben werden können.
+    2. Seine Höhe und seine Breite soll angepasst werden können
+    3. Außerdem soll es um die linke untere Ecke gedreht werden können.
+    4. Zur Größenanpassung und Winkelverstellung sind sowohl grobe als auch feine Schritte vorzusehen, die sich um den Faktor 10 unterscheiden.
+    5. Nachdem die Größe und der Winkel angepasst sind, muss es fixiert werden können. Ab diesem Moment ist die darunter liegende Karte (Bild) mit dem neuen Overlay fest verbunden. Beide werden dann gemeinsam vergrößert / verkleinert.
+ 
+!2 Import / Export
+ * Req109: Ein Overlay kann vom Benutzer aber auch als File (png, jpg) hochgeladen werden
+
+3 Option zum Hochladen
+ * Req114: Ein Benutzer kann Bilder als Overlay hochladen
+   * Bilder haben: Namen
+   * Das System erzeugt eine SystemID
+   * (Bilder liegen in einem eigenen Ordner pro Site / Community)
+
+!1 Glossar
+!include -seamless GlosSar
+
+!1 Quelle
+https://owncloud.politaktiv.org/index.php/apps/files?dir=%2FPolitaktiv%2FProduktmanagement
