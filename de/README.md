@@ -1,1 +1,1 @@
-TEST
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/SUMMARY.md" %}
