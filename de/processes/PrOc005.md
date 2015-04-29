@@ -1,5 +1,5 @@
 
-### [PrOc005](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/processes/PrOc005.md) Diskussionskreis erstbefüllen
+### [PrOc005](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/processes/PrOc005.md) Diskussionskreis erstbefüllen
 
 #### Owner
  * Partner

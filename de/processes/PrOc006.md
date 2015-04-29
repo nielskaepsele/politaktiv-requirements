@@ -1,1 +1,1 @@
-[PrOc006](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/processes/PrOc006.md): TODO
+[PrOc006](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/processes/PrOc006.md): TODO

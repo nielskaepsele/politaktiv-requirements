@@ -1,5 +1,5 @@
 
-### [PrOc007](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/processes/PrOc007.md) CRM Account anlegen
+### [PrOc007](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/processes/PrOc007.md) CRM Account anlegen
 
 #### Owner
  * IT

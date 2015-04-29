@@ -1,5 +1,5 @@
 
-### [PrOc002](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/processes/PrOc002.md) Neuen Diskussionskreis starten
+### [PrOc002](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/processes/PrOc002.md) Neuen Diskussionskreis starten
 
 
 #### Owner
