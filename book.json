@@ -2,15 +2,16 @@
     "gitbook": "2.0.0-alpha.9",
     "title": "Politaktiv Requirements",
     "language": "de",
-    "plugins": ["piwik"],
+    "plugins": [
+        "piwik"
+    ],
     "pluginsConfig": {
         "piwik": {
             "URL": "piwik.meissa-gmbh.de/",
-        "siteId": 31
+            "siteId": 31
         }
     },
-    
     "pdf": {
-    	"footerTemplate": "./FOOTER.html"
+        "footerTemplate": "./FOOTER.html"
     }
 }
