@@ -1,4 +1,4 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} |||
+#AcceptanceTest#
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |
 | 1 | Anmelden | | |
