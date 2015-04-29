@@ -28,7 +28,7 @@
 
 ## Tests von betroffenen UseCases
 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req035/.AbnahmeTest_req035.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req035/AbnahmeTest_req035.md" %}
 
 
 # Glossar
