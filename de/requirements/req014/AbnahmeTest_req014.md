@@ -1,4 +1,4 @@
-| Table:!-AcceptanceTest-! | ${PAGE_NAME} | |||
+#AcceptanceTest#
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |  
 | 1 | Anmelden als Moderator | | |
@@ -14,4 +14,4 @@
 | 8| Zweites Unterthema eingeben |Präferenzabfrage mit zweitem Unterthema| |
 | 9 | Zweites neues Thema eingeben |Präferenzabfrage mit zweitem Thema| |
 | 10 | Thema #1 löschen|Präferenzabfrage mit nur noch zweitem Thema| |
-| 11| etc...| | |
+| 11| etc...| | ||
