@@ -14,7 +14,7 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req102/req102.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0072.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %}
 
 ### Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req107/req107.md" %}
@@ -42,13 +42,7 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 
 ### Overlays wieder verwenden
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req115/req115.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req117/req117.md" %
-
-## Import / Export
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req109/req109.md" %} 
-
-## Option zum Hochladen
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req114/req114.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req117/req117.md" %}
 
 # Quelle
 https://owncloud.politaktiv.org/index.php/apps/files?dir=%2FPolitaktiv%2FProduktmanagement
