@@ -13,7 +13,10 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0072.md" %} 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %}
+
+### Kartensetup
+* Größe, Name der Instanz
 
 ## Grundkarte
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req102/req102.md" %} 
@@ -27,10 +30,10 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req105/req105.md" %} 
 
 ## Overlay
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req101/req101.md" %} 
-redundant! {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req111/req111.md" %} 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req113/req113.md" %}  
 redundant? {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req108/req108.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0073.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req101/req101.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req111/req111.md" %}
 
 ### Overlaydetails
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req106/req106.md" %} 
@@ -46,9 +49,6 @@ redundant? {% include "git+https://github.com/PolitAktiv/politaktiv-requirements
 
 ## Option zum Hochladen
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req114/req114.md" %} 
-
-# Glossar
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}
 
 # Quelle
 https://owncloud.politaktiv.org/index.php/apps/files?dir=%2FPolitaktiv%2FProduktmanagement
