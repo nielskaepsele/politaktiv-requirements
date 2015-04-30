@@ -1,17 +1,20 @@
+#Feature Karten-Portlet
+Das Karten-Portlet soll eine unterlegte Karte od. Bild und darüber liegende Overlays darstellen können.
+Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden können.
 
-# Stakeholder
+## Stakeholder
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
-# Rollen und Personen
+## Rollen und Personen
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
-# Anforderungen
+## Anforderungen
 
-## Basis
+### Basis
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req103/req103.md" %} 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %} 
 
-## Karte
+## Grundkarte
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req102/req102.md" %} 
 
 ## Marker
