@@ -1,3 +1,4 @@
 *.log
 /_book/
 /node_modules/
+/book_de.pdf

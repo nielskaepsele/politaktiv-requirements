@@ -10,7 +10,7 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 ## Anforderungen
 
 ### Basis
-* Das Karten-Portlet soll eine unterlegte Karte od. Grafik und darüber liegende Overlays darstellen können.
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 * Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden können.
   {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req103/req103.md" %}
 * Overlay oder Marker, die von Benutzern in eine Karte erstellt werden, können per URL referenziert werden.
