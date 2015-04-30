@@ -1,6 +1,5 @@
 #Feature Karten-Portlet
-Das Karten-Portlet soll eine unterlegte Karte od. Bild und darüber liegende Overlays darstellen können.
-Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden können.
+Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskussion durch geographische Elemente zu verdeutlichen.
 
 ## Stakeholder
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
@@ -11,7 +10,10 @@ Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden könne
 ## Anforderungen
 
 ### Basis
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req103/req103.md" %} 
+* Das Karten-Portlet soll eine unterlegte Karte od. Grafik und darüber liegende Overlays darstellen können.
+* Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden können.
+  {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req103/req103.md" %}
+* Overlay oder Marker, die von Benutzern in eine Karte erstellt werden, können per URL referenziert werden.
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %} 
 
 ## Grundkarte
@@ -26,9 +28,9 @@ Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden könne
 
 ## Overlay
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req101/req101.md" %} 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req111/req111.md" %} 
+redundant! {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req111/req111.md" %} 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req113/req113.md" %}  
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req108/req108.md" %} 
+redundant? {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req108/req108.md" %} 
 
 ### Overlaydetails
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req106/req106.md" %} 
