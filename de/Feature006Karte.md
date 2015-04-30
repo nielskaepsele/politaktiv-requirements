@@ -11,9 +11,8 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 
 ### Basis
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
-* Das Karten-Portlet soll interaktiv von Gästen / Benutzern bedient werden können.
-  {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req103/req103.md" %}
-* Overlay oder Marker, die von Benutzern in eine Karte erstellt werden, können per URL referenziert werden.
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0072.md" %} 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req116/req116.md" %} 
 
 ## Grundkarte
@@ -21,8 +20,9 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 
 ## Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req100/req100.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0073.md" %}
 
-### Markerdetails
+### Markersetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req104/req104.md" %} 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req105/req105.md" %} 
 
