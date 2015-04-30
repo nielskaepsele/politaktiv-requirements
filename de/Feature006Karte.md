@@ -20,7 +20,7 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req102/req102.md" %} 
 
 ## Marker
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req100/req100.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req100/req100.md" %}
 
 ### Markerdetails
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req104/req104.md" %} 
