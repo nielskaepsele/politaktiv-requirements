@@ -1,4 +1,4 @@
-#AcceptanceTest
+##### AcceptanceTest  
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |
 | 1 | Zum DK Demoprojekt und dort zum Portlet PA-Präferenzabfrage navigieren | Eine bereits vorhandene und vorausgefüllte Präferenzabfrage ist sichtbar | |

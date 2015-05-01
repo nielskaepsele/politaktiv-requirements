@@ -1,4 +1,4 @@
-#AcceptanceTest
+##### AcceptanceTest  
 | Schrittnr. | Aktion | Erwartetes Ergebnis | Ergebnis |
 | -- |  
 | 1 | Navigieren zum DK demoprojekt und dort zur Präferenzabfrage | Vorausgefüllte Liste mit Kriterien, die man auf- und zu klappen kann. | |

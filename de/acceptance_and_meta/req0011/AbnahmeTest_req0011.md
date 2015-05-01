@@ -1,4 +1,4 @@
-#AcceptanceTest-Normal 
+##### AcceptanceTest  -Normal 
 |Schrittnr.|Aktion         |Erwartetes Ergebnis|Ergebnis|
 | -- |
 |1|Als Testuser anmelden|||

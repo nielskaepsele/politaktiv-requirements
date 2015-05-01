@@ -1,5 +1,5 @@
 
-# AcceptanceTest                                               
+##### AcceptanceTest                                               
 |Schrittnr.              |Aktion                             |Erwartetes Ergebnis|Ergebnis|
 | -- |
 |1                       |www.politaktiv.org aufrufen        |                   |        |

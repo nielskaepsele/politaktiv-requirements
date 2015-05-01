@@ -1,4 +1,4 @@
-# AcceptanceTest
+##### AcceptanceTest
 
 |Schrittnr.|Aktion|Erwartetes Ergebnis|Ergebnis|
 | -- |

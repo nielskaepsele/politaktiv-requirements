@@ -1,4 +1,4 @@
-#AcceptanceTest
+##### AcceptanceTest  
 #### Vorgehen: Test auf Facebook
  * Verschiedene bestehende URLs von Politaktiv auf Intermediate heraussuchen
  * URLs in Facebook URL Debugger eingeben: https://developers.facebook.com/tools/debug/og/object/
