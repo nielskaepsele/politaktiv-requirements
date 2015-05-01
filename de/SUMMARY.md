@@ -23,4 +23,4 @@
   * [80 Technische Accounts](TechnischeAccounts.md)
 * ##Technische Aufteilung
   * [90 PA_Hook](Architecture090PaHook.md)
-* ##[Books License](../LICENSE.md)
+* ##[Books License](LICENSE.md)
