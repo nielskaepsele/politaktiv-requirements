@@ -1,8 +1,6 @@
-
 ### Homepage Polit@ktiv
  * ist die oberste Seite, die man sieht, wenn man www.politaktiv.org aufruft
  * von hier führen direkte Links zu den Landingpages und einigen speziellen weiteren Seiten
-
 
 ### Landingpage
 ist die Seite, die der einen oder anderen Interessentengruppe angeboten wird. Es gibt (mindestens) folgende:
@@ -13,8 +11,7 @@ ist die Seite, die der einen oder anderen Interessentengruppe angeboten wird. Es
  * Moderatoren und Planer
  * Bürgerinitiativen
  * Partner
-
-
+ 
 ### Themenseite
 
 ### Unterthemenseite

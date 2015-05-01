@@ -1,4 +1,3 @@
-
 * **Integrata-Stiftung**: Die Stiftung wird vertreten vom Vorstand der Stiftung gemäß Satzung.
 * Projektleiter Integrata-Stiftung: Der Projektleiter von PolitAktiv ist von der Stiftung mit bestimmten Rechten und Weisungsbefugnissen ausgestattet.
 * **Zustifter Mörike**: Der Zustifter Mörike für den Bereich PolitAktiv in der Stiftung hat entsprechende Sonderrechte innerhalb der Stiftung.

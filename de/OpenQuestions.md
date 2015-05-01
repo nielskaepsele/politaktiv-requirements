@@ -1,4 +1,3 @@
-
 ## Frage1
  * Wo können Prozesse beschrieben werden?
    * Sie sollten nicht bei den funktionalen Anforderungen beschrieben werden, da sie übergreifend sind.

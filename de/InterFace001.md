@@ -1,4 +1,3 @@
-
 ### InterFace001 Mailversand
 
 
@@ -21,13 +20,8 @@ Das System (Liferay) initiert den Mailversand. Gründe sind z.B. ein Passwortres
 
 
 #### Siehe auch
- * TODO: verlinken: ein Passwortreset, eine Neuregistrierung oder eine benachrichtigung über neue Beiträge.
+ * TODO: verlinken: ein Passwortreset, eine Neuregistrierung oder eine Benachrichtigung über neue Beiträge.
 
 
 #### Abnahme Tests:
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req041/AbnahmeTest_req041.md" %} 
-
-
-
-
-
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/acceptance_and_meta/req0041/AbnahmeTest_req0041.md" %} 

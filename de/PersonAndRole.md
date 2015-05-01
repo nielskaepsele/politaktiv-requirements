@@ -1,4 +1,3 @@
-
 * **Gast**: Ein unangemeldeter Benutzer. Er wird synonym auch als '''Besucher''' oder als '''Guest''' bezeichnet.
 * **Benutzer**: Ein angemeldeter Benutzer. Er hat sich früher mal registriert und wird daher synonym auch als '''einfacher Benutzer''' oder '''User''' bezeichnet. Ein Benutzer darf alles, was auch ein Gast darf.
 * **Mitglied**: Ein angemeldeter Benutzer, der (mindestens) einem Diskussionskreis beigetreten ist.  Er wird synonym auch als '''Member''' bezeichnet. 
