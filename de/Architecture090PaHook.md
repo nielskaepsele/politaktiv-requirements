@@ -6,7 +6,6 @@
 
 ## Quelle
 [SystemRequirementsSpecification](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/SystemRequirementsSpecification.md)
-[SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
 # Stakeolder
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
