@@ -1,6 +1,6 @@
 |Requirement Status                                       |Umsetzungs Status                       |Nutzen              |Entscheidungsbedarf |Umsetzungsaufwand   |
 | -- |
-|!-ReqSt-!: unklar  |!-UmSta-!: vorläufig erledigt |Nutzen: hoch  |Entscheidungsbed.: -|Umsetzungsaufwand: offen|
+|ReqSt: unklar  |UmSta: vorläufig erledigt |Nutzen: hoch  |Entscheidungsbed.: -|Umsetzungsaufwand: offen|
 |weil:                                                    |Bem:                                    |weil:               |weil:               |weil:               |
 |in Arbeit, mit Fragen, wartet auf Test, fertig, verworfen|realisiert, geplant in Release nn, offen|gering, mittel, hoch|gering, mittel, hoch|gering, mittel, hoch|
 !contents -R2 -g -p -f -h
