@@ -5,6 +5,7 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/ScoPe.md" %}
 
 ## Quelle
+[SystemRequirementsSpecification](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/SystemRequirementsSpecification.md)
 [SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
 # Stakeolder
