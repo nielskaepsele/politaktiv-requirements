@@ -13,6 +13,7 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0102.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
+FRAGE: sct: was genau ist in folgendem Requirement mit "referenzierbar" gemeint? Soll später ein Link existieren, auf den man klicken kann und dann wird man auf die Seite mit der Karte geschickt und die Karte so angezeigt, dass der Marker/das Overlay sichtbar ist? Was steckt hinter dem Requirement?
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0072.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
 
