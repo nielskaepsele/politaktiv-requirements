@@ -1,10 +1,11 @@
 #Feature Karten-Portlet
 Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskussion durch graphische Elemente zu verdeutlichen.
 
-## Stakeholder
+## Rahmenbedingungen
+### Stakeholder
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
 
-## Rollen und Personen
+### Rollen und Personen
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
 ## Anforderungen
@@ -22,27 +23,27 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 ### Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
 
-## Marker
+### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0073.md" %}
 
-### Markersetup
+#### Markersetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0104.md" %}
 
-## Overlay
+### Overlay
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0108.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0074.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0101.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0111.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0118.md" %}
 
-### Overlaysetup
+#### Overlaysetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0110.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0106.md" %}
 
-### Overlays wieder verwenden
+#### Overlays wieder verwenden
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0115.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0117.md" %}
 
-# Quelle
+## Quelle
 https://owncloud.politaktiv.org/index.php/apps/files?dir=%2FPolitaktiv%2FProduktmanagement
