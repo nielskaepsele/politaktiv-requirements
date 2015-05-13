@@ -38,7 +38,6 @@ Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskuss
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0101.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0111.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0118.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0119.md" %}
 
 #### Overlaysetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0110.md" %}
