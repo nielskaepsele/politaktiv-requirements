@@ -1,15 +1,15 @@
-# PolitAktiv Anforderungsmanagement 
-* ## Noch nicht qualifizierte Anforderungen
-  * [00 Anfragen von Stakeholdern](UnqualifiedRequirements.md)
-* ## Anforderungen
-  * [10 Ziele und Vision](VisionAndPurpose.md)
-  * [11 Abgrenzung](ScoPe.md)
-  * [12 Offene Fragen](OpenQuestions.md)
-  * [13 Stakeholder](StakeHolders.md)
-  * [14 Prozesse](processes/SUMMARY.md)
-  * [15 Rollen und Personen](PersonAndRole.md)
-  * [19 Entscheidungen](DeCisions.md)
-  * [20 Glossar](GlosSar.md)
+# PolitAktiv Requirements Management
+* ## Unqualified Requirements
+  * [00 Stakeholder Requests](UnqualifiedRequirements.md)
+* ## Requirements
+  * [10 Visions and Purpose](VisionAndPurpose.md)
+  * [11 Scope](ScoPe.md)
+  * [12 Open Questions](OpenQuestions.md)
+  * [13 Stakeholders](StakeHolders.md)
+  * [14 Processes](processes/SUMMARY.md)
+  * [15 Person and Role](PersonAndRole.md)
+  * [19 Decisions](DeCisions.md)
+  * [20 Glossary](GlosSar.md)
 * ## Feature Doc
   * [61 Aktuelles Meinungsbild](Feature001AktuellesMeinungsbild.md)
   * [62 Mailversand](Feature002Mailversand.md)
@@ -18,6 +18,7 @@
     *  [66 Karte-Anforderungen](Feature006MapRequirement.md)
   * [64 OpenGraph](Feature004OpenGraph.md)
   * [65 CrmOptOut](Feature005CrmOptOut.md)
+  * [67 Liferay Build](Feature007LiferayBuild.md)
 * ## System Anforderungen
   * [52 Schnittstellen](InterFaces.md)
 * ## Technische Accounts

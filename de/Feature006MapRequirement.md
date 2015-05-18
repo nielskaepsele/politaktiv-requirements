@@ -1,13 +1,3 @@
-#Feature Karten-Portlet
-Das Karten-Portlet ermöglicht, auf einer Karte oder in einem Plan, eine Diskussion durch graphische Elemente zu verdeutlichen.
-
-## Rahmenbedingungen
-### Stakeholder
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
-
-### Rollen und Personen
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
-
 ## Anforderungen
 
 ### Basis
