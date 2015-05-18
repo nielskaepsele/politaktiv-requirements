@@ -6,8 +6,6 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0072.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
-* neue Anforderung mit mje als Übung erstellt
-
 
 ### Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
