@@ -19,6 +19,7 @@
   * [64 OpenGraph](Feature004OpenGraph.md)
   * [65 CrmOptOut](Feature005CrmOptOut.md)
   * [67 Liferay Build](Feature007LiferayBuild.md)
+  * [68 Responsive Design](Feature008ResponsiveDesign.md)
 * ## System Anforderungen
   * [52 Schnittstellen](InterFaces.md)
 * ## Technische Accounts
