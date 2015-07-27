@@ -64,4 +64,4 @@
 # Schnittstellen
 
 # Glossar
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/Glossar.md" %}

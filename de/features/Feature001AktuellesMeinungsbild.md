@@ -2,7 +2,7 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/VisionAndPurpose.md" %}
 
 # Scope
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/ScoPe.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/Scope.md" %}
 
 ## Quelle
 [SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
@@ -21,4 +21,4 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0014.md" %}
 
 # Glossar
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/GlosSar.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/Glossar.md" %}
