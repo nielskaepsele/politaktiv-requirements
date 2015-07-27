@@ -1,0 +1,1 @@
+#Produkteigenschaften der Plattform Politaktiv
