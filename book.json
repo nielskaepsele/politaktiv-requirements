@@ -1,7 +1,6 @@
 {
     "gitbook": "2.1.0",
     "title": "Politaktiv Requirements",
-    "language": "de",
     "plugins": [
         "piwik",
         "expandable-chapters"
