@@ -2,6 +2,7 @@
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
+
 ## Test:
 ### Durchführung
 Besuche eine Seite mit der Karte
@@ -11,6 +12,7 @@ Karte mit Markern und Overlays wird angezeigt
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
+
 ## Test:
 ### Durchführung
 Klicken auf den Plus bzw. Minus Button; Rollen mit dem Mausrad
@@ -21,6 +23,7 @@ Klicken auf den Plus bzw. Minus Button; Rollen mit dem Mausrad
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
+
 ## Test:
 ### Durchführung
 * Auf einer Seite zwei Map2-Portlets einfügen
@@ -32,6 +35,7 @@ Klicken auf den Plus bzw. Minus Button; Rollen mit dem Mausrad
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
+
 ## Test:
 ### Durchführung
 * Zwei Portlets anlegen
@@ -49,6 +53,7 @@ Klicken auf den Plus bzw. Minus Button; Rollen mit dem Mausrad
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
+
 ## Test:
 ### Durchführung
 * Mit Nutzer ohne Adminrechte Anmelden und einen Marker platzieren und speichern
@@ -63,6 +68,7 @@ Klicken auf den Plus bzw. Minus Button; Rollen mit dem Mausrad
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
+
 ## Test:
 ### Durchführung
 * Auf Marker-Symbol klicken
@@ -75,6 +81,7 @@ Marker wird mit seinen Informationen angezeigt
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0073.md" %}
+
 ## Test:
 ### Durchführung
 * Karte ansurfen als Gast (nicht angemeldet)
@@ -88,6 +95,7 @@ Marker wird mit seinen Informationen angezeigt
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0122.md" %}
+
 ## Test:
 ### Durchführung
 * Karte ansurfen als Nutzer
@@ -98,6 +106,7 @@ Marker wird mit seinen Informationen angezeigt
 
 ## Requirement:
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0111.md" %}
+
 ## Test:
 ### Durchführung
 * Auf Zeichen-Button klicken
