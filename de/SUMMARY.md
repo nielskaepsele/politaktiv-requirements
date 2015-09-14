@@ -12,6 +12,7 @@
   * [Karte](features/Feature006Karte.md)
     *  [Karte-Version1](features/Feature006Karte/Feature006KarteVersion1.md)
     *  [Karte-Version2](features/Feature006Karte/Feature006KarteVersion2.md)
+    *  [Testbeschreibungen](features/Feature006Karte/GoodCaseTest.md)
   * [OpenGraph](features/Feature004OpenGraph.md)
   * [CrmOptOut](features/Feature005CrmOptOut.md)
 * [Technische Accounts](TechnischeAccounts.md)
