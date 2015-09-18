@@ -10,7 +10,8 @@
 
 ### Permissions
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0112.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0075.md" %} {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0075/ac001.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0075.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0075/ac001.md" %}
 
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/en/requirements/req0100.md" %}
