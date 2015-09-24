@@ -11,31 +11,32 @@ Die Vorteile sind:
 Als Nachteile können angesehen werden:
 1. Es stehen solche Features zur Verfügung, die eben schon vorhanden sind.
 Eventuell muss lange auf neue Features gewartet werden.
-2. Die Entwicklungsarbeiten von Polit@ktiv müssen der Open-Soutrce-Communita wieder zur Verfügung gestellt werden. Damit sind sie auch für die Konkurrenz verfügbar.
+2. Die Entwicklungsarbeiten von Polit@ktiv müssen der Open-Soutrce-Community wieder zur Verfügung gestellt werden. Damit sind sie auch für die Konkurrenz verfügbar.
 
 Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugehörige Familie von möglichen Add-Ins ausgewählt. Im Besonderen bedeutet es auch, dass nur Add-Ins verwendet werden dürfen, die zu dieser Familie gehören.
 Die Aufgabe der Polit@ktiv-Entwicklung ist also, die entsprechenden Leaflet-Teile und ausgewählte Add-Ins so in Liferay einzubauen, dass die Anforderungen des Kartenportlets V2 erfüllt werden.
 Dabei soll ein Polit@ktiv-Portlet entstehen, das immer als Ganzes genutzt wird. Es wird keine in Liferay auswählbaren Komponenten geben.
+
 Bei der Entwicklung soll schrittweise vorgegangen werden.
 1. Schritt: Basis-Komponenten von Leaflet werden in Liferay integriert.
-    a. Die Daten der Komponenten werden persistent gemacht.
-    b. Einzelnen Funktionen werden Berechtigungen zugeteilt
-    c. Die Basiskomponenten und zusätzlich ein einfaches Plug-In werden integriert
-    d. Die Ergebnisse sind nicht zur Nutzung auf Produktiv gedacht.
+ 1. Die Daten der Komponenten werden persistent gemacht.
+ 2. Einzelnen Funktionen werden Berechtigungen zugeteilt
+ 3. Die Basiskomponenten und zusätzlich ein einfaches Plug-In werden integriert
+ 4. Die Ergebnisse sind nicht zur Nutzung auf Produktiv gedacht.
 2. Schritt: Die wichtigsten Grundkomponenten sind verfügbar:
-    a. Karte mit möglichst hoher Detailtiefe (noch auszusuchen)
-    b. Festlegung des Standardmittelpunktes
-    c. Zeichnen von Polygonen (Figuren)
-    d. Markieren von Orten (Markerfunktion)
-    e. Beschriften von erstellten Objekten (Markern, Figuren)
-    f. Ein- und Ausblenden von erstellten Objekten
+ 1. Karte mit möglichst hoher Detailtiefe (noch auszusuchen)
+ 2. Festlegung des Standardmittelpunktes
+ 3. Zeichnen von Polygonen (Figuren)
+ 4. Markieren von Orten (Markerfunktion)
+ 5. Beschriften von erstellten Objekten (Markern, Figuren)
+ 6. Ein- und Ausblenden von erstellten Objekten
 3. Schritt: Zusätzliche Komponenten sind verfügbar:
- a. Indoor-Darstellung und Indoor-Zooming
- b. Import von fertigen Figuren (Plänen)
- c. Bookmarks (URL der Seite mit dem Kartenportlet plus geografische Bookmarks
- d. Import/Export aller Figuren einer Karte
- e. 3D-Darstellung (später)
-  f. Übergang zu Google-Earth mit Walkthrough
+ 1. Indoor-Darstellung und Indoor-Zooming
+ 2. Import von fertigen Figuren (Plänen)
+ 3. Bookmarks (URL der Seite mit dem Kartenportlet plus geografische Bookmarks
+ 4. Import/Export aller Figuren einer Karte
+ 5. 3D-Darstellung (später)
+ 6. Übergang zu Google-Earth mit Walkthrough
 
 #Schritt 1
 
@@ -52,38 +53,41 @@ Schritt 1 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
 10. Eine einstellbare persistente Grundeinstellung wird (noch) nicht erwartet.
 11. Alles ist mit Code, der einem Built unterliegt, nicht in einem Hook realisiert.
 
+Anm: mje: Punkt 9 nochmals diskutieren!
+
 ##Berechtigungen
 Die Berechtigungen sind nicht zu grob und nicht zu fein abzustufen.
 Die im Folgenden geschilderten Berechtigungen müssen nicht schon im Schritt 1 verfügbar sein. Sie sind spätestens dann erforderlich, wenn das Kartenportlet V2 poduktiv geht.
 1. Installation und Anzeige des Karten-Portlets durch einen Liferay-Nutzer unterliegt der üblichen Berechtigung für die Nutzung von Portlets.
 2. Es gibt die Berechtigung, das Portlet als Ganzes zu manipulieren (anzeigen, hinzufügen, konfigurieren, …) wie üblich in Liferay. Diese Berechtigungen sind bei den Funktionen abgelegt.
-a. Mit der Berechtigung „Anzeige“ (=Portlet anzeigen) ist verbunden:
+ 1. Mit der Berechtigung „Anzeige“ (=Portlet anzeigen) ist verbunden:
 Zoom verändern und Karte verschieben
-b. Mit der Berechtigung „Hinzufügen“ (Portlet hinzufügen) ist verbunden:
+ 2. Mit der Berechtigung „Hinzufügen“ (Portlet hinzufügen) ist verbunden:
 Hinzufügen, korfigurieren
 3. Es gibt die Berechtigung, die Objekte im Portlet „anzuzeigen“ (Anzeige). Dazu gehören:
-a. die Beschriftung ein/auszuschalten
-b. Marker und Figuren ein-/auszublenden
-c. Layer einzublenden / auszublenden.
+ 1. die Beschriftung ein/auszuschalten
+ 2. Marker und Figuren ein-/auszublenden
+ 3. Layer einzublenden / auszublenden.
 Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
 4. Es gibt die Berechtigung, Objekte zu erzeugen („hinzufügen“) und zu beschriften. Darunter:
-a. Polygone
-b. Marker
-c. Bookmarks
-d. Layer
-e. Objekte hochladen und auf Karte auf eigenem Layer darstellen.
+ 1. Polygone
+ 2. Marker
+ 3. Bookmarks
+ 4. Layer
+ 5. Objekte hochladen und auf Karte auf eigenem Layer darstellen.
 Diese Einstellungen werden persistiert und auf alle Objekte gleich angewandt.
 5. Wer das Recht hat, Objekte zu erzeugen, darf eigene Objekte auch bearbeiten.
 Bei den Objekten muss also der Autor gespeichert werden.
 6. Es gibt die Berechtigung, die Grundeinstellung vorzunehmen. Dazu gehört:
-a. Zentrum und Basis-Zoom
-b. Maximale Anzahl Layer
-c. Maximale Anzahl Marker
-d. Maximale Anzahl Figuren
-e. Export und Import von Objekten einer Instanz des Kartenportlets.
+ 1. Zentrum und Basis-Zoom
+ 2. Maximale Anzahl Layer
+ 3. Maximale Anzahl Marker
+ 4. Maximale Anzahl Figuren
+ 5. Export und Import von Objekten einer Instanz des Kartenportlets.
 7. Wer das Recht hat, die Grundeinstellungen vorzunehmen, darf auch fremde (alle) Objekte bearbeiten.
 8. Die Berechtigungen lassen sich bei der einzelnen Instanz des Portlets einstellen, nicht für alle Kartenportlets einer Site gemeinsam.
-3 Schritt 2
+
+#Schritt 2
 Schritt 2 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
 1. Das Kartenportlet ist mit den folgenden Funktionen auf intermediate lauffähig:
 2. Alles, was bereits im Schritt 1 verfügbar war
@@ -93,12 +97,13 @@ Dazu wird das Plug-In verwendet, das es am 10.7.15 auf intermediate gab.
 5. Zur komfortablen Beschriftung wird ein PlugIn verwendet, das am 10.7. in seiner ausführlichen Form vorgestellt wurde. Insbesondere ist wichtig, dass von einem Objekt aus ein URL und ein Bookmark auf eine Page der Site mit Portlet gelegt werden kann.
 6. Und umgekehrt ist es möglich, dass von einem Content aus ein URL und eine geografische Bookmark auf ein Objekt im Kartenportlet gelegt werden kann.
 7. Eine persistente Grundeinstellung kann vorgenommen werden, einschließlich:
-a. maximale Anzahl von Markern pro Portlet
-b. maximale Anzahl von Figuren pro Portlet
-c. Übernahme der aktuellen Zoom- und Zentrumseinstellung in die persistente.
+ 1. maximale Anzahl von Markern pro Portlet
+ 2. maximale Anzahl von Figuren pro Portlet
+ 3. Übernahme der aktuellen Zoom- und Zentrumseinstellung in die persistente.
 8. Verschiedene Layer sind (noch) nicht erforderlich.
 Figuren zu importieren ist (noch) nicht erforderlich.
-4 Weitere Schritte
+
+#Weitere Schritte
 Weitere Schritte werden in den folgenden Sprints aus den folgenden Features zusammengestellt:
 1. Es ist möglich, Layer zu erzeugen und zu beschriften
 2. Festlegung maximale Anzahl Layer pro Portlet
@@ -108,12 +113,12 @@ Weitere Schritte werden in den folgenden Sprints aus den folgenden Features zusa
 Dazu gehört insbesondere Zoomen deutlich tiefer als die tiefste Stufe auf der Karte.
 6. Import von Grafiken ist möglich, um z.B. Pläne von Architekten darstellen zu können.
 Dazu gehört:
-a. Hochladen
-b. Einspielen
-c. Vergrößern, verkleinern in groben und feinen Stufen
-d. Höhen- und Breiten-Einstellungen
-e. Drehen in groben und feinen Stufen
-f. Beschriften der Grafik wie bei anderen Figuren auch.
+ 1. Hochladen
+ 2. Einspielen
+ 3. Vergrößern, verkleinern in groben und feinen Stufen
+ 4. Höhen- und Breiten-Einstellungen
+ 5. Drehen in groben und feinen Stufen
+ 6. Beschriften der Grafik wie bei anderen Figuren auch.
 g. NICHT aber: Strichdicke mit dem Zoom ändern
 7. Beim Mouseover über eine Figur oder einen Marker oder eine importierte Grafik erscheint ein kurzer Text, der nicht identisch ist mit der ausführlichen Beschriftung.
 8. Noch offen: Im Block für die ausführliche Beschriftung ist ein Content enthalten, der ein „normaler“ Content von Liferay ist. Er kann ausgewählt werden. Während der ausführlichen Beschriftung entsteht ein normaler Content von Liferay. Dazu steht der übliche embedded Editor von Liferay zur Verfügung.
