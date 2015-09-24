@@ -12,10 +12,10 @@
    * [Mailversand](features/Feature002Mailversand.md)
    * [Workflow](features/Feature003Workflow.md)
    * [Karte](features/Feature006Karte.md)
+       * DomainRequirements
        * [Karte-Version1](features/Feature006Karte/Feature006KarteVersion1.md)
        * [Karte-Version2](features/Feature006Karte/Feature006KarteVersion2.md)
        * [Testbeschreibungen](features/Feature006Karte/GoodCaseTest.md)
-       * DomainRequirements
    * [OpenGraph](features/Feature004OpenGraph.md)
    * [CrmOptOut](features/Feature005CrmOptOut.md)
 * [Technische Accounts](TechnischeAccounts.md)
