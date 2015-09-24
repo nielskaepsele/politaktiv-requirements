@@ -10,6 +10,8 @@
 
 ### Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075.md" %} 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075/ac001.md" %}
 
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
