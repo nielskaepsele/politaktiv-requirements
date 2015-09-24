@@ -53,7 +53,7 @@ Schritt 1 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
 10. Eine einstellbare persistente Grundeinstellung wird (noch) nicht erwartet.
 11. Alles ist mit Code, der einem Built unterliegt, nicht in einem Hook realisiert.
 
-Anm: mje: Punkt 9 nochmals diskutieren!
+Anm mje: Punkt 9 nochmals diskutieren!
 
 ##Berechtigungen
 Die Berechtigungen sind nicht zu grob und nicht zu fein abzustufen.
@@ -67,8 +67,7 @@ Hinzufügen, korfigurieren
 3. Es gibt die Berechtigung, die Objekte im Portlet „anzuzeigen“ (Anzeige). Dazu gehören:
  1. die Beschriftung ein/auszuschalten
  2. Marker und Figuren ein-/auszublenden
- 3. Layer einzublenden / auszublenden.
-Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
+ 3. Layer einzublenden / auszublenden. Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
 4. Es gibt die Berechtigung, Objekte zu erzeugen („hinzufügen“) und zu beschriften. Darunter:
  1. Polygone
  2. Marker
@@ -86,6 +85,14 @@ Bei den Objekten muss also der Autor gespeichert werden.
  5. Export und Import von Objekten einer Instanz des Kartenportlets.
 7. Wer das Recht hat, die Grundeinstellungen vorzunehmen, darf auch fremde (alle) Objekte bearbeiten.
 8. Die Berechtigungen lassen sich bei der einzelnen Instanz des Portlets einstellen, nicht für alle Kartenportlets einer Site gemeinsam.
+9. 
+
+Anm mje: 
+1. Layers muss es nicht geben, was bedeutet das für die Berechtigungen?
+2. Was bedeutet 3.3?
+3. 4 zerfällt in zwei Rechte? Laut 5 soll das gekoppelt werden?
+4. 4.5 Konzept Layer ist noch nicht klar
+5. 7. ist im Moment abgetrennt, sollen wir das zusammenführen?
 
 #Schritt 2
 Schritt 2 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
@@ -102,6 +109,12 @@ Dazu wird das Plug-In verwendet, das es am 10.7.15 auf intermediate gab.
  3. Übernahme der aktuellen Zoom- und Zentrumseinstellung in die persistente.
 8. Verschiedene Layer sind (noch) nicht erforderlich.
 Figuren zu importieren ist (noch) nicht erforderlich.
+
+Anm mje: 
+1. Beschriftung URL fehlt zu 3.1 noch
+2. 5. Plugin ist ein extra schritt?
+3. 6. Referenzeirung von Kartenobjekten später
+4. 7. nochmal prüfen
 
 #Weitere Schritte
 Weitere Schritte werden in den folgenden Sprints aus den folgenden Features zusammengestellt:
