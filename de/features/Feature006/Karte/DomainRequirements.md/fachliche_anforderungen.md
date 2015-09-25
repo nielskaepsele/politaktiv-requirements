@@ -112,8 +112,8 @@ Figuren zu importieren ist (noch) nicht erforderlich.
 
 Anm mje: 
 1. Beschriftung URL fehlt zu 3.1 noch
-2. 5. Plugin ist ein extra schritt?
-3. 6. Referenzeirung von Kartenobjekten später
+2. 5. Plugin ist ein extra schritt? -> Schritt3 (mom / jem 25.09.2015)
+3. 6. Referenzeirung von Kartenobjekten später -> Konzept in Schritt2 erstellen (mom / jem 25.09.2015)
 4. 7. nochmal prüfen
 
 #Weitere Schritte
