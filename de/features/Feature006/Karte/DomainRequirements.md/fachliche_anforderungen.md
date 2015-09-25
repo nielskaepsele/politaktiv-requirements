@@ -88,9 +88,9 @@ Bei den Objekten muss also der Autor gespeichert werden.
 9. 
 
 Anm mje: 
-1. Layers muss es nicht geben, was bedeutet das für die Berechtigungen?
-2. Was bedeutet 3.3?
-3. 4 zerfällt in zwei Rechte? Laut 5 soll das gekoppelt werden?
+1. Layers muss es nicht geben, was bedeutet das für die Berechtigungen? -> Wir erstellen ein Layerkonzept - realisierung erst in Schritt3 (mom / jem 25.09.2015)
+2. Was bedeutet 3.3? -> Anzeige Ein- / Aus-Schalten; -> Schritt3 (Noch offen - mom / jem 25.09.2015)
+3. 4 zerfällt in zwei Rechte? Laut 5 soll das gekoppelt werden? -> Hinzufügen und Eigene bearbeiten nicht differenzieren. (mom / jem 25.09.2015)
 4. 4.5 Konzept Layer ist noch nicht klar
 5. 7. ist im Moment abgetrennt, sollen wir das zusammenführen?
 
