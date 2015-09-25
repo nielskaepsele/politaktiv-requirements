@@ -53,7 +53,7 @@ Schritt 1 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
 10. Eine einstellbare persistente Grundeinstellung wird (noch) nicht erwartet.
 11. Alles ist mit Code, der einem Built unterliegt, nicht in einem Hook realisiert.
 
-Anm mje: Punkt 9 nochmals diskutieren!
+Anm mje: Punkt 9 nochmals diskutieren! -> Wir schieben das nach Schritt3 (mom / jem 25.09.)
 
 ##Berechtigungen
 Die Berechtigungen sind nicht zu grob und nicht zu fein abzustufen.
