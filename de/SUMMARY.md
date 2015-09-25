@@ -13,6 +13,7 @@
    * [Workflow](features/Feature003Workflow.md)
    * [Karte](features/Feature006Karte.md)
        * [Fachliche Anforderungen](features/Feature006/Karte/DomainRequirements.md/fachliche_anforderungen.md)
+           * Karte-Version3
        * [Karte-Version1](features/Feature006Karte/Feature006KarteVersion1.md)
        * [Karte-Version2](features/Feature006Karte/Feature006KarteVersion2.md)
        * [Testbeschreibungen](features/Feature006Karte/GoodCaseTest.md)
