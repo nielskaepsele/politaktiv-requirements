@@ -38,7 +38,7 @@ Bei der Entwicklung soll schrittweise vorgegangen werden.
  5. 3D-Darstellung (später)
  6. Übergang zu Google-Earth mit Walkthrough
 
-#Schritt 1
+#Schritt 1 - Version1 & Version2
 
 Schritt 1 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
 1. Das Kartenportlet ist mit den folgenden Funktionen auf intermediate lauffähig.
