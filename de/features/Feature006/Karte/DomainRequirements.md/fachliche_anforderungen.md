@@ -92,7 +92,7 @@ Anm mje:
 2. Was bedeutet 3.3? -> Anzeige Ein- / Aus-Schalten; -> Schritt3 (Noch offen - mom / jem 25.09.2015)
 3. 4 zerfällt in zwei Rechte? Laut 5 soll das gekoppelt werden? -> Hinzufügen und Eigene bearbeiten nicht differenzieren. (mom / jem 25.09.2015)
 4. 4.5 Konzept Layer ist noch nicht klar
-5. 7. ist im Moment abgetrennt, sollen wir das zusammenführen?
+5. 7. ist im Moment abgetrennt, sollen wir das zusammenführen? -> Konfigurieren und Fremde bearbeiten zusammenführen (mom / jem 25.09.2015)
 
 #Schritt 2
 Schritt 2 ist abnahmefähig, wenn folgende Bedingungen erfüllt sind:
