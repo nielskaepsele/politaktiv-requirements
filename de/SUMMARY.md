@@ -12,6 +12,7 @@
    * [Mailversand](features/Feature002Mailversand.md)
    * [Workflow](features/Feature003Workflow.md)
    * [Karte](features/Feature006Karte.md)
+       * Karte-Version3
        * [Fachliche Anforderungen](features/Feature006/Karte/DomainRequirements.md/fachliche_anforderungen.md)
            * Karte-Version3
        * [Karte-Version1](features/Feature006Karte/Feature006KarteVersion1.md)
