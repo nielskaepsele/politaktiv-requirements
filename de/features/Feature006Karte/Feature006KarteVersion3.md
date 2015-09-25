@@ -22,4 +22,4 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0111.md" %}
 
 ## Quelle
-https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0119.odt
+[Fachliche Anforderunge](de/features/Feature006Karte/domainrequirements.md)
