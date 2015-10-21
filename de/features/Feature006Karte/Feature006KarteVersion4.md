@@ -9,7 +9,10 @@ Alles ist mit Code, der einem Built unterliegt, nicht in einem Hook realisiert.
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
-Festlegung des Standar
+Das Kartenportlet kann aus der Liste der verfügbaren Portlets auf eine Seite der Wahl eingebaut werden. Vorschlag für Namen: „PA-Karte V2“
+Die Basis-Karte mit höchster Detailtiefe wird verwendet. Noch auszusuchen!
+Festlegung des Standardmittelpunktes
+Als Skala für den Zoom werden (+,-,*) verwendet (keine Thermometer-Skala)
 
 ### Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
