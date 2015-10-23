@@ -65,6 +65,10 @@ Anm. mje:
 
 ## Figuren
 Marker, Linien, Polygonzüge, Flächen, Kreise sind Figuren.
+
+* Der Benutzer kann Beschriftung zu Figuren ein und ausblenden.
+
+
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0077.md" %}
 Also: Ein zweites Portlet auf einer anderen Page der Site zeigt nicht dieselben Marker wie das erste Portlet.
@@ -85,49 +89,47 @@ Gleich wie Marker
 ### Kreise 
 Gleich wie Marker
 
-## Bookmarks & Figuren
-URL der Seite mit dem Kartenportlet plus geografische Bookmarks
-Dazu wird das Plug-In Bookmark verwendet wie im Beispiel am 10.7.15
-
-Zur komfortablen Beschriftung wird ein PlugIn verwendet, das am 10.7. in seiner ausführlichen Form vorgestellt wurde. Insbesondere ist wichtig, dass von einem Objekt aus ein URL und ein Bookmark auf eine Page der Site mit Portlet gelegt werden kann.
-Und umgekehrt ist es möglich, dass von einem Content aus ein URL und eine geografische Bookmark auf ein Objekt im Kartenportlet gelegt werden kann.
-
-Figuren können eingezeichnet und komfortabel beschriftet (einschl. URL) und geändert werden. Dazu wird das Plug-In verwendet, das es am 10.7.15 auf intermediate gab.
-
-Eine persistente Grundeinstellung kann vorgenommen werden, einschließlich:
-
-    maximale Anzahl von Markern pro Portlet
-    maximale Anzahl von Figuren pro Portlet
-    Übernahme der aktuellen Zoom- und Zentrumseinstellung in die persistente.
+## Referenzierung von Figuren und Content (Bookmarks & Figuren)
+* Jede Figur ist durch eine URL eindeutig referenzierbar.
+  * URL-Bestandteile sind: Seite - Portlet-Instanz-ID - Figur-ID
+  * Security: URL-Parameter werden validiert.
+* URLs einer Figur können in einem einblendbaren (Rand-)bereich geladen und angezeigt werden
+  * Security: Das System lädt nur URLs von einem Server aus einer konfigurierten Whitelist nach.
 
 ##Layer
-Es ist möglich, Layer zu erzeugen und zu beschriften
-Festlegung maximale Anzahl Layer pro Portlet
-Die erzeugten Objekte können definierten Layern zugewiesen werden.
+* Es ist möglich, Layer zu erzeugen und zu beschriften
+* Die erzeugten Objekte können definierten Layern zugewiesen werden.
 
-* Figuren anzeigen: Es gibt die Berechtigung, die Figuren im Portlet „anzuzeigen“. Dazu gehören:
-  * die Beschriftung ein/auszuschalten
-  * Marker und Figuren ein-/auszublenden
-  * Layer einzublenden / auszublenden. 
-  * Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
+Anm. mje: Figuren werden dem zum Erstellzeitpunkt aktuellen Layer zugewiesen.
 
-###Export und Import
-Ein Export und ein Import von Figuren mit ihren Beschriftungen und geografischen Bookmarks ist möglich.
-Import von Grafiken ist möglich, um z.B. Pläne von Architekten darstellen zu können. Dazu gehört:
+* Ein Benutzer kann Layer ein- und aus-blenden. 
+* Ein Export und ein Import von Figuren mit ihren Beschriftungen und geografischen Bookmarks ist für einen Layer möglich.
 
-    Hochladen
-    Einspielen
-    Vergrößern, verkleinern in groben und feinen Stufen
-    Höhen- und Breiten-Einstellungen
-    Drehen in groben und feinen Stufen
-    Beschriften der Grafik wie bei anderen Figuren auch. g. NICHT aber: Strichdicke mit dem Zoom ändern
+##Verarbeitung von Grafiken
+Grafiken sind z.b. Pläne von Architekten und sollen verwendet werden können.
+
+* Der Benutzer kann eine Grafik in den aktuellen Layer hochladen
+* Der Benutzer kann eine Grafik Vergrößern, verkleinern in groben und feinen Stufen
+* Der Benutzer kann f. eine Grafik Höhen und Breiten einstellen
+* Der Benutzer kann eine Grafik drehen in groben und feinen Stufen
+* Der Benutzer kann Grafiken beschriften wie bei anderen Figuren auch. 
+* g. NICHT aber: Strichdicke mit dem Zoom ändern
+
+Anm mje: Strickdichte funktioniert nicht.
 
 ###Weitere Anforderungen
 * Indoor-Funktion ist möglich. Dazu gehört insbesondere Zoomen deutlich tiefer als die tiefste Stufe auf der Karte.
 * Beim Mouseover über eine Figur oder einen Marker oder eine importierte Grafik erscheint ein kurzer Text, der nicht identisch ist mit der ausführlichen Beschriftung.
-* Noch offen: Im Block für die ausführliche Beschriftung ist ein Content enthalten, der ein „normaler“ Content von Liferay ist. Er kann ausgewählt werden. Während der ausführlichen Beschriftung entsteht ein normaler Content von Liferay. Dazu steht der übliche embedded Editor von Liferay zur Verfügung.
+
+Anm mje: Was ist das für ein Text?
+
 * 3D-Darstellung
+
+Anm mje: muss noch spez. werden
+
 * Übergang zu Google-Earth mit Walkthrough
+
+Anm mje: muss noch spez. werden
 
 
 ## Quelle
