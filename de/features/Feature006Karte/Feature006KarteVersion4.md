@@ -1,22 +1,20 @@
-## Anforderungen Version3
+# Anforderungen Version4
 
-### Allgemeine Anforderung
+## Context
 Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugehörige Familie von möglichen Add-Ins ausgewählt. Im Besonderen bedeutet es auch, dass nur Add-Ins verwendet werden dürfen, die zu dieser Familie gehören. Die Aufgabe der Polit@ktiv-Entwicklung ist also, die entsprechenden Leaflet-Teile und ausgewählte Add-Ins so in Liferay einzubauen, dass die Anforderungen des Kartenportlets V2 erfüllt werden. Dabei soll ein Polit@ktiv-Portlet entstehen, das immer als Ganzes genutzt wird. Es wird keine in Liferay auswählbaren Komponenten geben.
 
-Alles ist mit Code, der einem Built unterliegt, nicht in einem Hook realisiert.
 
-### Basis
+## Basis
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
-Das Kartenportlet kann aus der Liste der verfügbaren Portlets auf eine Seite der Wahl eingebaut werden. Vorschlag für Namen: „PA-Karte V2“
-Die Basis-Karte mit höchster Detailtiefe wird verwendet. Noch auszusuchen!
-Festlegung des Standardmittelpunktes
-Als Skala für den Zoom werden (+,-,*) verwendet (keine Thermometer-Skala)
+* Festlegung des Standardmittelpunktes
+  * Als Standardmittelpunkt fungiert Tübingen
 
 ### Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0104.md" %}
+* 
 
 ### Berechtigungseinstellung
 Installation und Anzeige des Karten-Portlets durch einen Liferay-Nutzer unterliegt der üblichen Berechtigung für die Nutzung von Portlets.
