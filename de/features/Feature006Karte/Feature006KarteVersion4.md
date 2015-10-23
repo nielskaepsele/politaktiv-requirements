@@ -11,56 +11,50 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
 * Festlegung des Standardmittelpunktes
   * Als Standardmittelpunkt fungiert Tübingen
 
-### Kartensetup
+## Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0104.md" %}
-* 
+  * Der Moderator kann das aktuelle Kartenzentrum per Knopfdruck übernehmen.
+  * Maximale Anzahl Layer
+  * Maximale Anzahl Figuren
+* Export und Import von Objekten einer Instanz des Kartenportlets.
 
-### Berechtigungseinstellung
-Installation und Anzeige des Karten-Portlets durch einen Liferay-Nutzer unterliegt der üblichen Berechtigung für die Nutzung von Portlets.
-Es gibt die Berechtigung, das Portlet als Ganzes zu manipulieren (anzeigen, hinzufügen, konfigurieren, …) wie üblich in Liferay. Diese Berechtigungen sind bei den Funktionen abgelegt.
-
+## Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075.md" %}
 
-Die Berechtigungen lassen sich bei der einzelnen Instanz des Portlets einstellen, nicht für alle Kartenportlets einer Site gemeinsam.
+Anm. mje: 
+1. Resources durch Figuren ersetzen.
+2. Berechtigung als Resource-basiert beschreiben
+3. Resource-basiert und funktionale Berechtigung beschreiben.
 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075.md" %} 
 
+* Portlet Anzeigen: Mit der Berechtigung ist verbunden: 
+  * Diese Berechtigung ist funktional.
+  * Zoom verändern und 
+  * Karte verschieben
+* Portlet Hinzufügen: Mit der Berechtigung „Hinzufügen“ ist verbunden: 
+  * Diese Berechtigung ist funktional.
+  * Hinzufügen und 
+  * konfigurieren
+* Figuren anzeigen: Es gibt die Berechtigung, die Figuren im Portlet „anzuzeigen“. Dazu gehören:
+  * Diese Berechtigung ist funktional.
+  * die Beschriftung ein/auszuschalten
+  * Marker und Figuren ein-/auszublenden
+  * Layer einzublenden / auszublenden. 
+  * Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
 
-Mit der Berechtigung „Anzeige“ (=Portlet anzeigen) ist verbunden: Zoom verändern und Karte verschieben
-Mit der Berechtigung „Hinzufügen“ (Portlet hinzufügen) ist verbunden: Hinzufügen, korfigurieren
-
-Es gibt die Berechtigung, die Objekte im Portlet „anzuzeigen“ (Anzeige). Dazu gehören:
-
-    die Beschriftung ein/auszuschalten
-    Marker und Figuren ein-/auszublenden
-    Layer einzublenden / auszublenden. Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
-
-Es gibt die Berechtigung, Objekte zu erzeugen („hinzufügen“) und zu beschriften. Darunter:
-
-    Polygone
-    Marker
-    Bookmarks
-    Layer
-Objekte hochladen und auf Karte auf eigenem Layer darstellen. 
-Diese Einstellungen werden persistiert und auf alle Objekte gleich angewandt.
-
-Wer das Recht hat, Objekte zu erzeugen, darf eigene Objekte auch bearbeiten. Bei den Objekten muss also der Autor gespeichert werden.
-Es gibt die Berechtigung, die Grundeinstellung vorzunehmen. Dazu gehört:
-
-    Zentrum und Basis-Zoom
-    Maximale Anzahl Layer
-    Maximale Anzahl Marker
-    Maximale Anzahl Figuren
-    Export und Import von Objekten einer Instanz des Kartenportlets.
-
+Anm. mje: 
+1. Hier werden implizit Funktionen beschrieben - wir sollten diese Funktionen noch mals explizit aufführen.
+2. Figuren ein und ausblenden macht im Kontext Layer keinen Sinn.
+3. Figur anzeigen fällt mit Portlet Anzeigen zusammen?
 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075/ac001.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0076.md" %} 
 
-Wer das Recht hat, die Grundeinstellungen vorzunehmen, darf auch fremde (alle) Objekte
-bearbeiten.
 
+## Figuren
+Marker, Linien, Polygonzüge, Flächen, Kreise sind Figuren.
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0077.md" %}
 Also: Ein zweites Portlet auf einer anderen Page der Site zeigt nicht dieselben Marker wie das erste Portlet.
@@ -81,7 +75,7 @@ Gleich wie Marker
 ### Kreise 
 Gleich wie Marker
 
-### Bookmarks & Figuren
+## Bookmarks & Figuren
 URL der Seite mit dem Kartenportlet plus geografische Bookmarks
 Dazu wird das Plug-In Bookmark verwendet wie im Beispiel am 10.7.15
 
@@ -96,10 +90,16 @@ Eine persistente Grundeinstellung kann vorgenommen werden, einschließlich:
     maximale Anzahl von Figuren pro Portlet
     Übernahme der aktuellen Zoom- und Zentrumseinstellung in die persistente.
 
-###Layer
+##Layer
 Es ist möglich, Layer zu erzeugen und zu beschriften
 Festlegung maximale Anzahl Layer pro Portlet
 Die erzeugten Objekte können definierten Layern zugewiesen werden.
+
+* Figuren anzeigen: Es gibt die Berechtigung, die Figuren im Portlet „anzuzeigen“. Dazu gehören:
+  * die Beschriftung ein/auszuschalten
+  * Marker und Figuren ein-/auszublenden
+  * Layer einzublenden / auszublenden. 
+  * Diese Einstellungen werden nicht persistiert und auf alle Objekte gleichzeitig angewandt.
 
 ###Export und Import
 Ein Export und ein Import von Figuren mit ihren Beschriftungen und geografischen Bookmarks ist möglich.
