@@ -22,13 +22,13 @@ Grobschätzung der offenen Punkte (jem): 1PT
   * Der Moderator kann das aktuelle Kartenzentrum per Knopfdruck übernehmen.
   * Maximale Anzahl Layer
   * Maximale Anzahl Figuren
-* Export und Import von Objekten einer Instanz des Kartenportlets.
+* Export und Import von Objekten einem Layer.
  
 Anm. mje: 
 1. Festlegen der maximalen Anzahl von Figuren fehlt noch
 2. Macht eine Aufteilung in einzelne F.Typen Sinn?
  
-Grobschätzung der offenen Punkte (jem): 
+Grobschätzung der offenen Punkte (jem): 5PT
 
 ## Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
