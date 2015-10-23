@@ -75,7 +75,9 @@ Grobschätzung der offenen Punkte (jem): Risiko - 5PT
 Marker, Linien, Polygonzüge, Flächen, Kreise sind Figuren.
 
 * Der Benutzer kann Beschriftung zu Figuren ein und ausblenden.
+* Figuren löschen
 
+Grobschätzung der offenen Punkte (jem): Einblenden & Löschen & Bugfixing - 4PT
 
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0077.md" %}
@@ -104,6 +106,8 @@ Gleich wie Marker
 * URLs einer Figur können in einem einblendbaren (Rand-)bereich geladen und angezeigt werden
   * Security: Das System lädt nur URLs von einem Server aus einer konfigurierten Whitelist nach.
 
+Grobschätzung der offenen Punkte (jem): 10PT
+
 ##Layer
 * Es ist möglich, Layer zu erzeugen und zu beschriften
 * Die erzeugten Objekte können definierten Layern zugewiesen werden.
@@ -112,6 +116,8 @@ Anm. mje: Figuren werden dem zum Erstellzeitpunkt aktuellen Layer zugewiesen.
 
 * Ein Benutzer kann Layer ein- und aus-blenden. 
 * Ein Export und ein Import von Figuren mit ihren Beschriftungen und geografischen Bookmarks ist für einen Layer möglich.
+
+Grobschätzung der offenen Punkte (jem): 5-10PT
 
 ##Verarbeitung von Grafiken
 Grafiken sind z.b. Pläne von Architekten und sollen verwendet werden können.
@@ -124,6 +130,8 @@ Grafiken sind z.b. Pläne von Architekten und sollen verwendet werden können.
 * g. NICHT aber: Strichdicke mit dem Zoom ändern
 
 Anm mje: Strickdichte funktioniert nicht.
+
+Grobschätzung der offenen Punkte (jem): 10-20PT
 
 ###Weitere Anforderungen
 * Indoor-Funktion ist möglich. Dazu gehört insbesondere Zoomen deutlich tiefer als die tiefste Stufe auf der Karte.
