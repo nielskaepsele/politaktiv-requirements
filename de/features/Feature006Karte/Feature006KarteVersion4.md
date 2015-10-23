@@ -8,8 +8,13 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0070.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
+
+Arbeitsnotizen jem: Figuren ein und ausblenden nach Figuren verschieben
+
 * Festlegung des Standardmittelpunktes
   * Als Standardmittelpunkt fungiert Tübingen
+  
+Grobschätzung der offenen Punkte (jem): 1PT
 
 ## Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
@@ -22,6 +27,8 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
 Anm. mje: 
 1. Festlegen der maximalen Anzahl von Figuren fehlt noch
 2. Macht eine Aufteilung in einzelne F.Typen Sinn?
+ 
+Grobschätzung der offenen Punkte (jem): 
 
 ## Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
