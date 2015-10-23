@@ -75,9 +75,14 @@ Grobschätzung der offenen Punkte (jem): Risiko - 5PT
 Marker, Linien, Polygonzüge, Flächen, Kreise sind Figuren.
 
 * Der Benutzer kann Beschriftung zu Figuren ein und ausblenden.
-* Figuren löschen
 
-Grobschätzung der offenen Punkte (jem): Einblenden & Löschen & Bugfixing - 4PT
+Anm jem: was ist damit gemeint?
+
+* Figuren löschen
+* Zoomstufe bei der Figur mit abspeichern, nicht nur den Ort
+* Linienfarbe einstellbar machen in Konfiguration. Gilt jeweils für alle neuen Figuren. Dazu muss die Linienfarbe auch bei der Figur mit abgespeichert werden.
+
+Grobschätzung der offenen Punkte (jem): Zoomstufe, Linienfarbe, Löschen & Bugfixing - 5PT
 
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0077.md" %}
