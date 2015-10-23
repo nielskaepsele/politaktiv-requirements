@@ -18,12 +18,16 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
   * Maximale Anzahl Layer
   * Maximale Anzahl Figuren
 * Export und Import von Objekten einer Instanz des Kartenportlets.
+ 
+Anm. mje: 
+1. Festlegen der maximalen Anzahl von Figuren fehlt noch
+2. Macht eine Aufteilung in einzelne F.Typen Sinn?
 
 ## Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075.md" %}
 
-Anm. mje: 
+Arbeitsnotizen mje: 
 1. Resources durch Figuren ersetzen.
 2. Berechtigung als Resource-basiert beschreiben
 3. Resource-basiert und funktionale Berechtigung beschreiben.
@@ -33,10 +37,16 @@ Anm. mje:
   * Diese Berechtigung ist funktional.
   * Zoom verändern und 
   * Karte verschieben
+
+Anm. mje: Umgesetzt
+
 * Portlet Hinzufügen: Mit der Berechtigung „Hinzufügen“ ist verbunden: 
   * Diese Berechtigung ist funktional.
   * Hinzufügen und 
   * konfigurieren
+   
+Anm. mje: Umgesetzt
+
 * Figuren anzeigen: Es gibt die Berechtigung, die Figuren im Portlet „anzuzeigen“. Dazu gehören:
   * Diese Berechtigung ist funktional.
   * die Beschriftung ein/auszuschalten
