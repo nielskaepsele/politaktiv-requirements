@@ -33,6 +33,8 @@ Grobschätzung der offenen Punkte (jem): 5PT
 ## Berechtigungseinstellung
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0112.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075/ac001.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0076.md" %} 
 
 Arbeitsnotizen mje: 
 1. Resources durch Figuren ersetzen.
@@ -66,8 +68,7 @@ Anm. mje:
 2. Figuren ein und ausblenden macht im Kontext Layer keinen Sinn.
 3. Figur anzeigen fällt mit Portlet Anzeigen zusammen?
 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0075/ac001.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0076.md" %} 
+Grobschätzung der offenen Punkte (jem): Risiko - 5PT
 
 
 ## Figuren
