@@ -12,7 +12,7 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
 ## Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0104.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req078.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0078.md" %}
   
   * Maximale Anzahl Layer
   * Maximale Anzahl Figuren
