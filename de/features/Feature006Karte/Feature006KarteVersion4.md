@@ -70,7 +70,7 @@ Marker, Linien, Polygonzüge, Flächen, Kreise sind Figuren.
 
 * Der Benutzer kann Beschriftung zu Figuren ein und ausblenden.
 
-Anm jem: was ist damit gemeint?
+Anm jem: was ist damit gemeint? 
 
 * Figuren löschen
 * Zoomstufe bei der Figur mit abspeichern, nicht nur den Ort
