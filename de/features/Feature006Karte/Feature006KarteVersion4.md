@@ -9,17 +9,11 @@ Als Gesamtsystem und Community der verwendeten Teile wurde Leaflet und die zugeh
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0071.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0116.md" %}
 
-Arbeitsnotizen jem: Figuren ein und ausblenden nach Figuren verschieben
-
-* Festlegung des Standardmittelpunktes
-  * Als Standardmittelpunkt fungiert Tübingen
-  
-Grobschätzung der offenen Punkte (jem): 1PT
-
 ## Kartensetup
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0104.md" %}
-  * Der Moderator kann das aktuelle Kartenzentrum per Knopfdruck übernehmen.
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req078.md" %}
+  
   * Maximale Anzahl Layer
   * Maximale Anzahl Figuren
 * Export und Import von Objekten einem Layer.
