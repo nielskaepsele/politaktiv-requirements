@@ -3,8 +3,7 @@
     "title": "Politaktiv Requirements",
     "plugins": [
         "piwik",
-        "expandable-chapters"
-    ],
+        "expandable-chapters"],
     "pluginsConfig": {
         "piwik": {
             "URL": "piwik.meissa-gmbh.de/",
