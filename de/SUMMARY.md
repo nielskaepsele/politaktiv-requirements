@@ -20,7 +20,7 @@
        * [Testbeschreibungen](synthesis/Feature006Karte/GoodCaseTest.md)
    * [OpenGraph](synthesis/Feature004OpenGraph.md)
    * [CrmOptOut](synthesis/Feature005CrmOptOut.md)
-   * [Suche](synthesis/Feature007Suchen.md)
+   * [Suchen](synthesis/Feature007Suchen.md)
 * [Technische Accounts](TechnischeAccounts.md)
 * [Glossar](Glossar.md)
 * [Books License](LICENSE.md)
