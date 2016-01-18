@@ -108,7 +108,8 @@ nicht nur nach einen einzigen Filter.
 3. Sortierung nach Autor, Datum, Bewertungen, etc… (Standardfelder von Contents)
 4. Sortierung nach Tags
 5. Sortierung nach Feldern von Strukturen in den Contents
-4.3.4 Bereich Darstellung
+
+### Bereich Darstellung
 1. Es ist möglich, mittels dropdown-Menü eine Darstellung der Contents auszuwählen, aus verschiedenen Darstellungen, die der Admin dazu vorgegeben hat.
 2. Der Admin gibt eine davon als Default vor.
 3. Auswahl diverser Templates
