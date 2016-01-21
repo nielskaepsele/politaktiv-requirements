@@ -3,7 +3,8 @@ Es soll eine neue Version des Assetpublisher entwickelt werden, die gestattet, d
 eingeloggter Benutzer suchen und sortieren kann, ohne dass er die Berechtigung habenmuss, den 
 Assetpublisher zu konfigurieren.
 
-# Lösungsansatz: PA-Assetpublisher
+# Umfeld
+## Lösungsansatz: PA-Assetpublisher
 Der Assetpublisher wird herausgelöst und es wird daraus eine zusätzliche Variante des Assetpublisher 
 entwickelt, die zusätzlich zu dem bereits im Standardf-Liferay Funktionsumfang bestehenden (im Folgenden 
 Standard-Assetpublisher genannt) eingesetzt werden kann.
@@ -23,9 +24,9 @@ Es gibt (langfristig) folgende Bereiche:
 In einer ersten Entwicklungsstufe sollen nur der Filter und die Sortierung entwickelt werden.
 Suche und Darstellung können dann später hinzugefügt werden.
 
-# Benutzung des neuen PA-Assetpublisher
-## Bisherige Benutzung des Standard-Assetpublisher:
-### Einrichten
+## Benutzung des neuen PA-Assetpublisher
+### Bisherige Benutzung des Standard-Assetpublisher:
+#### Einrichten
 1. Portlet des Standard-Assetpublishers auf einer Seite (page) platzieren.
 2. Konfigurationsmenü aufrufen
 3. Auswahl konfigurieren, welche Contents dargestellt werden sollen
@@ -34,14 +35,14 @@ Suche und Darstellung können dann später hinzugefügt werden.
 Beispiel: als Liste oder mit Autorennamen oder …
 6. Abspeichern. Fertig!
 
-### Benutzung:
+#### Benutzung:
 1. Der Benutzer ruft die Seite (page) auf und sieht die ausgewählten Contents in der Reihenfolge und Präsentation wie konfiguriert.
 2. Kommt im Laufe der Zeit ein weiterer Content dazu, der zur Auswahl passt, wird dieser ebenfalls angezeigt in der korrekten Reihenfolge und Darstellung. Wird ein Content gelöscht, fehlt dieser künftig. Das bedeutet: Der Standard-Assetpublisher erstellt alles zur Laufzeit und er macht alles für alle Benutzer gleich.
 
-## Künftige Benutzung des neuen PA-Assetpublisher:
+### Künftige Benutzung des neuen PA-Assetpublisher:
 Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschrieben.
 
-### Einrichten (erste Entwicklungsstufe)
+#### Einrichten (erste Entwicklungsstufe)
 1. Portlet des PA-AP auf einer Seite (page) platzieren.
 2. Konfigurationsmenü des PA-AP-Präsentations-Portlets aufrufen.
 3. Grobe Auswahl konfigurieren, welche Contents dargestellt werden können.
@@ -53,7 +54,7 @@ Dies soll anhand einer oder mehrerer Kategorien erfolgen.
 6. Präsentation konfigurieren, wie die Contents dargestellt werden sollen.
 7. Abspeichern und Konfigurationsmenü schließen. Fertig!
 
-### Benutzung:
+#### Benutzung:
 1. Der Benutzer ruft die Seite (page) auf und sieht die Contents, wie sie per Default-Einstellung des PA-AP dargestellt werden:
 Also kein Filter, Default-Sortierung und Default-Darstellung
 2. Wenn der Benutzer auf die grau unterlegte Zeile „Sortierung“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Sortiermöglichkeiten an, z.B. nach Datum oder nach Autor oder nach Kategtorie. Es werden die Sortiermöglichkeiten angeboten, die vom Admin im Konfigmenü vorgegeben wurden. Voreingestellt ist die Sortierung, die der Admin im Konfigmenü als Default festgelegt hat.
@@ -64,7 +65,7 @@ Also kein Filter, Default-Sortierung und Default-Darstellung
 7. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
 8. Selbstverständlich können verschiedene Benutzer gleichzeitig verschiedene Einstellungen benutzen. Verschiedene Benutzer sind unabhängig voneinander.
 
-# Entwicklungsstufen
+# Anforderungen
 Nicht alle künftigen Eigenschaften sollen von Anfang an zur Verfügung stehen.
 Die Entwicklung soll vielmehr stufenweise erfolgen.
 Die Entwicklung der Stufen kann sich eventuell über mehrere Jahre hin erstrecken.
@@ -88,10 +89,10 @@ Die Präsentation wird vielmehr vom Admin fest vorgegeben.
 4. Keine facettierte Suche
 
 ## Spätere Stufen
-Im Folgenden werden alle aus heutiger Sicht wünschenswerte Funktionen dargestellt
+1. Im Folgenden werden alle aus heutiger Sicht wünschenswerte Funktionen dargestellt
 
 ### Bereich Suche
-Es soll eine facettierte Suche geben, die auch eine Volltextsuche enthält. Details sollen später festgelegt werden. Sie ist dem Filter vorgeschaltet und ergänzt die vom Admin festgelegte Suche.
+1. Es soll eine facettierte Suche geben, die auch eine Volltextsuche enthält. Details sollen später festgelegt werden. Sie ist dem Filter vorgeschaltet und ergänzt die vom Admin festgelegte Suche.
 
 ### Bereich Filter
 1. Es ist möglich nach mehreren kombinierten Filtern zu filtern,
@@ -118,5 +119,4 @@ die der Admin dazu mit passenden Namen bezeichnet hat.
 5. Nach Auswahl einer Darstellung durch den Benutzer zeigt der PA-AP die Contents in der ausgewählten Darstellung (Beispiel: Kärtchen, Liste, mit oder ohne Bookmarks).
 
 ### Bereich Benutzerprofil
-In einer späteren Ausbaustufe kann ein angemeldeter Benutzer eine von ihm gewünschte Einstellung in seinem Benutzerprofil abspeichern. Meldet er sich wieder an und besucht dieselbe Seite, werden ihm die Contents im PA-AP in der abgespeicherten Darstellung (Auswahl, Sortierung, Darstellung) angezeigt.
-Damit ein Benutzer auf jeder Site (DK) und auf jeder Seite (page) ein solches Profil anlegen kann, muss es mit entsprechenden Attributen in seinem Profil abgespeichert werden.
+1. In einer späteren Ausbaustufe kann ein angemeldeter Benutzer eine von ihm gewünschte Einstellung in seinem Benutzerprofil abspeichern. Meldet er sich wieder an und besucht dieselbe Seite, werden ihm die Contents im PA-AP in der abgespeicherten Darstellung (Auswahl, Sortierung, Darstellung) angezeigt. Damit ein Benutzer auf jeder Site (DK) und auf jeder Seite (page) ein solches Profil anlegen kann, muss es mit entsprechenden Attributen in seinem Profil abgespeichert werden.
