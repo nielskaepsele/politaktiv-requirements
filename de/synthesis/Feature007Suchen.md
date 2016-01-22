@@ -58,12 +58,11 @@ Dies soll anhand einer oder mehrerer Kategorien erfolgen.
 1. Der Benutzer ruft die Seite (page) auf und sieht die Contents, wie sie per Default-Einstellung des PA-AP dargestellt werden:
 Also kein Filter, Default-Sortierung und Default-Darstellung
 2. Wenn der Benutzer auf die grau unterlegte Zeile „Sortierung“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Sortiermöglichkeiten an, z.B. nach Datum oder nach Autor oder nach Kategtorie. Es werden die Sortiermöglichkeiten angeboten, die vom Admin im Konfigmenü vorgegeben wurden. Voreingestellt ist die Sortierung, die der Admin im Konfigmenü als Default festgelegt hat.
-3. Wenn der Benutzer dann auf den Button „Neu Anzeigen“ klickt, werden die Contents im Portlet in der neuen Sortierreihenfolge angezeigt.
-4. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
-5. Wenn der Benutzer auf die grau unterlegte Zeile „Filter“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Filtermöglichkeiten an, z.B. nach diversen Kategorien. Es werden genau die Filtermöglichkeiten angeboten, die der Admin im Konfigmenü vorgegeben hat. Voreingestellt ist ein leerer Filter (alles wird angezeigt).
-6. Wenn der Benutzer dann auf den Button „Neu Anzeigen“ klickt, werden nur noch die Contents im Portlet angezeigt, die der Filter durchlässt.
-7. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
-8. Selbstverständlich können verschiedene Benutzer gleichzeitig verschiedene Einstellungen benutzen. Verschiedene Benutzer sind unabhängig voneinander.
+3. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
+4. Wenn der Benutzer auf die grau unterlegte Zeile „Filter“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Filtermöglichkeiten an, z.B. nach diversen Kategorien. Es werden genau die Filtermöglichkeiten angeboten, die der Admin im Konfigmenü vorgegeben hat. Voreingestellt ist ein leerer Filter (alles wird angezeigt).
+5. Wenn der Benutzer dann auf den Button „Neu Anzeigen“ klickt, werden nur noch die Contents im Portlet angezeigt, die der Filter durchlässt.
+6. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
+7. Selbstverständlich können verschiedene Benutzer gleichzeitig verschiedene Einstellungen benutzen. Verschiedene Benutzer sind unabhängig voneinander.
 
 # Anforderungen
 Nicht alle künftigen Eigenschaften sollen von Anfang an zur Verfügung stehen.
@@ -73,14 +72,17 @@ Zunächst werden nur die dringendsten Eigenschaften benötigt.
 Zunächst sollen mit den ersten beiden Stufen Erfahrungen gesammelt werden.
 
 ## Erste Stufe 
-1. Es gibt nur zwei Bereiche: Filtern und Sortieren.
-Beide sind zunächst sehr einfach ausgeprägt.
-2. Filter: nur nach Kategorien (nicht Autor, nicht Datum, nicht Tags, etc…)
-3. Sortierung nur nach Kategorien oder nach Autor oder nach Datum.
-Aber nur eine einzige Sortierung (keine mehrstufige Sortierung).
-4. Keine Auswahl einer bestimmten Präsentation.
-Die Präsentation wird vielmehr vom Admin fest vorgegeben.
-5. Keine facettierte Suche
+1. Aus den generellen Anforderungen gelten insbesondere (Responsive Design)
+2. Jeder Gast kann mit dem PolitAktiv Asset Publisher (PA-AP) die vom Administrator vorgegebene Ergebnismenge filtern und sortieren. 
+  1. Filter: Der Benutzer kann (nur) nach Kategorien (nicht Autor, nicht Datum, nicht Tags, etc…) filtern.
+  2. Sortierung: Der Benutzer kann entweder nach Kategorien oder nach Autor oder nach Datum filtern. Die Sortierung ist einstufig.
+3. Das System zeigt für die Sortier- und Filter-Funktion jeweils aufklappbare Bereiche an.
+4. Der Admin muss (wie bisher auch) 
+  1. die Präsentation fest vorgeben.
+  2. die default Sortierung vorgeben.
+5. Das System zeigt die wirksamen Filter- und Sortierkriterien an. Initial also auch die Default Sortierung.
+6. In Stufe 1 kann der Benutzer keine Präsentation verändern.
+7. In Stufe 1 kann der Benutzer keine facettierte Suche durchführen.
 
 ## Zweite Stufe
 1. Erweiterung des Filters
