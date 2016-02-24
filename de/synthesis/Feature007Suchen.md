@@ -45,11 +45,7 @@ Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschri
 #### Einrichten (erste Entwicklungsstufe)
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0130.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0131.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0132.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0133.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0134.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0135.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
+
 
 1. Portlet des PA-AP auf einer Seite (page) platzieren.
 2. Konfigurationsmenü des PA-AP-Präsentations-Portlets aufrufen.
