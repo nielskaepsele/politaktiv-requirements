@@ -51,7 +51,7 @@ Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschri
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0132.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0133.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0134.md" %}
-
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0135.md" %}
 
 # Anforderungen
 Nicht alle künftigen Eigenschaften sollen von Anfang an zur Verfügung stehen.
@@ -61,7 +61,6 @@ Zunächst werden nur die dringendsten Eigenschaften benötigt.
 Zunächst sollen mit den ersten beiden Stufen Erfahrungen gesammelt werden.
 
 ## Erste Stufe 
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0135.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
 
 1. Aus den generellen Anforderungen gelten insbesondere (Responsive Design)
