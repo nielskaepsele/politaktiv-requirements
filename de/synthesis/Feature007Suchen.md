@@ -54,15 +54,6 @@ Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschri
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0135.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
 
-1. Der Benutzer ruft die Seite (page) auf und sieht die Contents, wie sie per Default-Einstellung des PA-AP dargestellt werden:
-Also kein Filter, Default-Sortierung und Default-Darstellung
-2. Wenn der Benutzer auf die grau unterlegte Zeile „Sortierung“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Sortiermöglichkeiten an, z.B. nach Datum oder nach Autor oder nach Kategtorie. Es werden die Sortiermöglichkeiten angeboten, die vom Admin im Konfigmenü vorgegeben wurden. Voreingestellt ist die Sortierung, die der Admin im Konfigmenü als Default festgelegt hat.
-3. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
-4. Wenn der Benutzer auf die grau unterlegte Zeile „Filter“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Filtermöglichkeiten an, z.B. nach diversen Kategorien. Es werden genau die Filtermöglichkeiten angeboten, die der Admin im Konfigmenü vorgegeben hat. Voreingestellt ist ein leerer Filter (alles wird angezeigt).
-5. Wenn der Benutzer dann auf den Button „Neu Anzeigen“ klickt, werden nur noch die Contents im Portlet angezeigt, die der Filter durchlässt.
-6. Der Benutzer kann dann den grau unterlegten Bereich wieder zuklappen durch Klick auf den Pfeil nach oben.
-7. Selbstverständlich können verschiedene Benutzer gleichzeitig verschiedene Einstellungen benutzen. Verschiedene Benutzer sind unabhängig voneinander.
-
 # Anforderungen
 Nicht alle künftigen Eigenschaften sollen von Anfang an zur Verfügung stehen.
 Die Entwicklung soll vielmehr stufenweise erfolgen.
