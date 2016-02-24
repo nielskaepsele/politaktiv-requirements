@@ -47,18 +47,13 @@ Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschri
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0131.md" %}
 
 
-1. Portlet des PA-AP auf einer Seite (page) platzieren.
-2. Konfigurationsmenü des PA-AP-Präsentations-Portlets aufrufen.
-3. Grobe Auswahl konfigurieren, welche Contents dargestellt werden können.
-Ähnlich wie bisher mit dem Standard-Assetpublisher.
-Beispiel: Nur Beiträge oder nur Extrakte oder nur ….
-Dies soll anhand einer oder mehrerer Kategorien erfolgen.
-4. Die Möglichkeiten für den Benutzer-Filter konfigurieren.
-5. Die Default-Sortierung konfigurieren!
-6. Präsentation konfigurieren, wie die Contents dargestellt werden sollen.
-7. Abspeichern und Konfigurationsmenü schließen. Fertig!
-
 #### Benutzung:
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0132.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0133.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0134.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0135.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
+
 1. Der Benutzer ruft die Seite (page) auf und sieht die Contents, wie sie per Default-Einstellung des PA-AP dargestellt werden:
 Also kein Filter, Default-Sortierung und Default-Darstellung
 2. Wenn der Benutzer auf die grau unterlegte Zeile „Sortierung“ klickt, klappt ein grau unterlegter Bereich nach unten auf und bietet eine Auswahl an Sortiermöglichkeiten an, z.B. nach Datum oder nach Autor oder nach Kategtorie. Es werden die Sortiermöglichkeiten angeboten, die vom Admin im Konfigmenü vorgegeben wurden. Voreingestellt ist die Sortierung, die der Admin im Konfigmenü als Default festgelegt hat.
