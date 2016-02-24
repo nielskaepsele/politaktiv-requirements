@@ -63,7 +63,6 @@ Zunächst sollen mit den ersten beiden Stufen Erfahrungen gesammelt werden.
 ## Erste Stufe 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
 
-1. Aus den generellen Anforderungen gelten insbesondere (Responsive Design)
 2. Jeder Gast kann mit dem PolitAktiv Asset Publisher (PA-AP) die vom Administrator vorgegebene Ergebnismenge filtern und sortieren. 
   1. Filter: Der Benutzer kann (nur) nach Kategorien (nicht Autor, nicht Datum, nicht Tags, etc…) filtern.
   2. Sortierung: Der Benutzer kann entweder nach Kategorien oder nach Autor oder nach Datum filtern. Die Sortierung ist einstufig.
