@@ -69,17 +69,6 @@ Zunächst sollen mit den ersten beiden Stufen Erfahrungen gesammelt werden.
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0141.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0142.md" %}
 
-2. Jeder Gast kann mit dem PolitAktiv Asset Publisher (PA-AP) die vom Administrator vorgegebene Ergebnismenge filtern und sortieren. 
-  1. Filter: Der Benutzer kann (nur) nach Kategorien (nicht Autor, nicht Datum, nicht Tags, etc…) filtern.
-  2. Sortierung: Der Benutzer kann entweder nach Kategorien oder nach Autor oder nach Datum filtern. Die Sortierung ist einstufig.
-3. Das System zeigt für die Sortier- und Filter-Funktion jeweils aufklappbare Bereiche an.
-4. Der Admin muss (wie bisher auch) 
-  1. die Präsentation fest vorgeben.
-  2. die default Sortierung vorgeben.
-5. Das System zeigt die wirksamen Filter- und Sortierkriterien an. Initial also auch die Default Sortierung.
-6. In Stufe 1 kann der Benutzer keine Präsentation verändern.
-7. In Stufe 1 kann der Benutzer keine facettierte Suche durchführen.
-
 ## Zweite Stufe
 1. Erweiterung des Filters
 2. Erweiterung der Sortierung
