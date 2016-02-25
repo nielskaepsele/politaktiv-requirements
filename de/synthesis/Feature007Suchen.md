@@ -62,6 +62,12 @@ Zunächst sollen mit den ersten beiden Stufen Erfahrungen gesammelt werden.
 
 ## Erste Stufe 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0137.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0138.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0139.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0140.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0141.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0142.md" %}
 
 2. Jeder Gast kann mit dem PolitAktiv Asset Publisher (PA-AP) die vom Administrator vorgegebene Ergebnismenge filtern und sortieren. 
   1. Filter: Der Benutzer kann (nur) nach Kategorien (nicht Autor, nicht Datum, nicht Tags, etc…) filtern.
