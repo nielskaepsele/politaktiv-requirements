@@ -20,7 +20,7 @@
        * [Testbeschreibungen](synthesis/Feature006Karte/GoodCaseTest.md)
    * [OpenGraph](synthesis/Feature004OpenGraph.md)
    * [CrmOptOut](synthesis/Feature005CrmOptOut.md)
-   * [Suchen]
+   * [Suchen](synthesis/Feature008Suchen.md)
      * [Anforderungen Fachbereich](domain/Feature008Suchen/Feature008SuchenDomainRequirements.md)
      * [Suchen Version1](synthesis/Feature008Suchen/Feature008SuchenVersion1.md)
      * [Suchen Version2](synthesis/Feature008Suchen/Feature008SuchenVersion2.md)
