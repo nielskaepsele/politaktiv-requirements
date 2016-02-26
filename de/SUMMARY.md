@@ -23,6 +23,7 @@
    * [Suchen]
      * [Anforderungen Fachbereich](domain/Feature008Suchen/Feature008SuchenDomainRequirements.md)
      * [Suchen Version1](synthesis/Feature008Suchen/Feature008SuchenVersion1.md)
+     * [Suchen Version2](synthesis/Feature008Suchen/Feature008SuchenVersion2.md)
 * [Technische Accounts](TechnischeAccounts.md)
 * [Glossar](Glossar.md)
 * [Books License](LICENSE.md)
