@@ -17,6 +17,10 @@ Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt.
 Danach folgt dann erst der eigentlich Text.
 
 * In Schritt 4 wird der bisherige Text in der Ursprungsdatei, die so immer mehr zu einem Rahmendokument wird, nur noch mit dem zugehörigen Include ersetzt.
-Dieser sieht hier folgendermaßen aus: {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0123.md" %}
+Dieser sieht hier folgendermaßen aus: 
+
+{% raw %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0123.md" %}
+{% endraw %}
 
 Nachdem alles gespeichert ist - ist die Extraktion erledigt.
