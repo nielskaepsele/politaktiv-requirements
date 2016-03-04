@@ -23,6 +23,7 @@
    * [Suchen](synthesis/Feature008Suchen.md)
      * [Anforderungen Fachbereich](domain/Feature008Suchen/Feature008SuchenDomainRequirements.md)
      * [Suchen Version1](synthesis/Feature008Suchen/Feature008SuchenVersion1.md)
+     * [Suchen Version1](synthesis/Feature008Suchen/Feature008SuchenVersion1b.md)
      * [Suchen Version2](synthesis/Feature008Suchen/Feature008SuchenVersion2.md)
 * [Technische Accounts](TechnischeAccounts.md)
 * [Prozess der Requirements Extraktion](RequirementsExtraktion.md)
