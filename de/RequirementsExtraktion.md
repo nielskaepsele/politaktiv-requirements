@@ -12,9 +12,7 @@ Zunächst wird im zugehörigen Editor in einem Verzeichnis des Gitbooks - hier u
 unter ->de ->requirements - eine neue Datei im Format reqXXXX.md angelegt. XXXX ist dabei eine vierstellige, fortlaufende Nummer, die bislang nicht vergeben ist, z.B. req0123.md.
 
 * In Schritt 3 wird der als "Requirement" identifizierte Textbestandteil in die neue Datei übernommen und gespeichert.
-Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt. Dieser hat folgendes Format: 
-
-'''[req0123] https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md''' 
+Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt. Dieser hat folgendes Format: `[req0123](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md)` 
 
 als Linkziel (so können einzelne Requirements zukünftig leicht "in place" bearbeitet werden).  
 Danach folgt dann erst der eigentlich Text.
