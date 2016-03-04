@@ -13,7 +13,7 @@ unter ->de ->requirements - eine neue Datei im Format reqXXXX.md angelegt. XXXX 
 
 * In Schritt 3 wird der als "Requirement" identifizierte Textbestandteil in die neue Datei übernommen und gespeichert.
 Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt. Dieser hat folgendes Format: 
-[req0123] mit "https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md" als Linkziel. 
+'''[req0123] https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md''' als Linkziel (so können einzelne Requirements zukünftig leicht "in place" bearbeitet werden).  
 Danach folgt dann erst der eigentlich Text.
 
 * In Schritt 4 wird der bisherige Text in der Ursprungsdatei, die so immer mehr zu einem Rahmendokument wird, nur noch mit dem zugehörigen Include ersetzt.
