@@ -8,4 +8,5 @@
 * **Benutzer**: Werden vertreten von der einen oder anderen Persona. Solange diese (noch) nicht beschrieben sind, besteht eine gewisse Verwechslungsgefahr zwischen der Rolle Benutzer und dem Stakeholder Benutzer. Dazu lassen sich auch die Moderatoren einer Bürgerinitiative der BI.
   * Besondere Benutzer sind die Mitarbeiter der HIT.
 * **Bürger**: sind in der Rolle Gast oder Benutzer oder Member und haben ein Interesse an dem jeweiligen Beteiligungsverfahren.
-* **Polit@ktiv IT**: Der IT Betrieb für PolitAktiv, der von der HIT organisiert wird..
+* **Polit@ktiv IT**: Der IT Betrieb für PolitAktiv, der von der HIT organisiert wird.
+* **Entwickler**: Die Mitarbeiter im projekt Polit@ktiv der Integrata-Stiftung, die Polit@ktiv weiterentwickeln oder konfigurieren.
