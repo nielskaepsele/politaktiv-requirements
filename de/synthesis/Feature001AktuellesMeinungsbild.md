@@ -7,9 +7,6 @@
 ## Quelle
 [SystemRequirementsSpecification](./SystemRequirementsSpecification.md)
 
-# Stakeolder
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/StakeHolders.md" %}
-
 # Rollen und Personen
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/PersonAndRole.md" %}
 
