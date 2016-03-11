@@ -4,7 +4,7 @@
 * [Ziele und Vision](VisionAndPurpose.md)
 * [Abgrenzung](Scope.md)
 * [Stakeholder](StakeHolders.md)
-* [Prozesse](processes/SUMMARY.md)
+* [Prozesse und Abläufe](processes/SUMMARY.md)
 * [Rollen und Personen](PersonAndRole.md)
 * [Entscheidungen](Decisions.md)
 * [Produkteigenschaften der Plattform Politaktiv](synthesis/Titel.md)
