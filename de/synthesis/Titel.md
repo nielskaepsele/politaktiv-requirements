@@ -1,1 +1,1 @@
-#Produkteigenschaften der Plattform Politaktiv
+# Anforderungen an Polit@ktiv
