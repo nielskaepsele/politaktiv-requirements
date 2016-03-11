@@ -9,4 +9,4 @@
   * Besondere Benutzer sind die Mitarbeiter der HIT.
 * **Bürger**: sind in der Rolle Gast oder Benutzer oder Member und haben ein Interesse an dem jeweiligen Beteiligungsverfahren.
 * **Polit@ktiv IT**: Der IT Betrieb für PolitAktiv, der von der HIT organisiert wird.
-* **Entwickler**: Die Mitarbeiter im projekt Polit@ktiv der Integrata-Stiftung, die Polit@ktiv weiterentwickeln oder konfigurieren.
+* **Entwickler**: Die Mitarbeiter im Projekt der Integrata-Stiftung, die Polit@ktiv weiterentwickeln oder konfigurieren.
