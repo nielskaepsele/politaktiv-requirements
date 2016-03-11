@@ -9,6 +9,7 @@
 ### Steuerungsfelder
 Damit das PA-Mimex-Portlet weiß, was es tun soll, benötigt es Steuerungsfelder.
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0154.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0157.md" %}
 
 ### Felder in den Files
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0155.md" %}
