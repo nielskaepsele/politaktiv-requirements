@@ -9,10 +9,10 @@ Dazu kann es ggf. auch erforderlich sein, den Text inhaltlich nochmal umzustrukt
 
 * Ab Schritt 2 beginnt der eher "technische Teil" der Extraktion. 
 Zunächst wird im zugehörigen Editor in einem Verzeichnis des Gitbooks
-- hier unter https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/
-- bzw. in der Filestruktur unter ->de ->requirements
+  - hier unter https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/
+  - und in der Filestruktur unter ->de ->requirements
 eine neue Datei im Format reqXXXX.md angelegt.
-XXXX ist eine vierstellige, fortlaufende Nummer, die bislang nicht vergeben ist, z.B. req0123.md.
+Dabei ist XXXX eine vierstellige, fortlaufende Nummer, die noch nicht vergeben ist, z.B. req0123.md.
 
 * In Schritt 3 wird der als "Requirement" identifizierte Textbestandteil in die neue Datei übernommen und gespeichert.
 Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt. Dieser hat folgendes Format: `[req0123](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md)` 
