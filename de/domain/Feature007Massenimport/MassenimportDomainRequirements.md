@@ -13,6 +13,7 @@ Daraus folgen mindestens vier weitere Anforderungen:
 4.	Ergänzend muss es einen Massenexport geben, der entweder auf der manuellen Auswahl in einem Assetpublisher oder auf der Ergebnisliste eines Massenimports beruht.
 
 #	Abläufe und Übersicht
+![](Massenimport.png)
 ##	Manuelle Eingabe heute
 Die traditionelle Form der Eingabe ist, per Webcontent-Editor in einem Portlet oder im Asset-Publisher den Content manuell einzugeben. Dabei wird der Content normalerweise in eine Structure eingegeben, die vom DK-Owner vorgegeben wurde. Zusätzlich zur Eingabe wird ein Template verwendet, mit dem die Inhalte dann dargestellt werden sollen.
 Bei der Eingabe werden neben dem eigentlichen Content sowohl Felder der Structure ausgefüllt, als auch Kategorien zugeordnet und Tags angelegt.
