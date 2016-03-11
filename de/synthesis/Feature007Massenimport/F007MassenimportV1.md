@@ -6,10 +6,8 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0152.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0153.md" %}
 
-### Marker
+### Stufe 1
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0073.md" %}
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0122.md" %}
 
 ## Quelle
-https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0119.odt
+https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/domain/Feature007Massenimport/MAssenimportDomainRequiremets.md
