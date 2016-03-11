@@ -12,7 +12,7 @@
    * [Mailversand](synthesis/Feature002Mailversand.md)
    * [Workflow](synthesis/Feature003Workflow.md)
    * [Karte](synthesis/Feature006Karte.md)
-       * [Fachliche Anforderungen](domain/Feature006Karte/DomainRequirements.md)
+       * [Anforderungen Fachbereich](domain/Feature006Karte/DomainRequirements.md)
        * [Karte-Version1](synthesis/Feature006Karte/Feature006KarteVersion1.md)
        * [Karte-Version2](synthesis/Feature006Karte/Feature006KarteVersion2.md)
        * [Karte-Version3](synthesis/Feature006Karte/Feature006KarteVersion3.md)
