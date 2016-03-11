@@ -7,7 +7,7 @@ Für große Bürgerbeteiligungsverfahren wird ein Massenimport von Webcontent be
 
 Ein misslungener Massenimport muss reparierbar sein!
 Daraus folgen mindestens vier weitere Anforderungen:
-1.	1. Zur Reparatur eines misslungenen Massenimports muss es ein Massenupdate geben, mit dem bestimmte Attribute von Contents auf einen Schlag geändert werden können.
+1.	Zur Reparatur eines misslungenen Massenimports muss es ein Massenupdate geben, mit dem bestimmte Attribute von Contents auf einen Schlag geändert werden können.
 2.	Damit dieses zur Reparatur eines Massenimports verwendet werden kann, muss beim Massenimport eine Ergebnisliste erzeugt werden, die die ID und Version des jeweils erstellten Contents enthält.
 3.	Es muss ein Massenlöschen geben, das auf der Ergebnisliste mit ID’s eines Massenimports beruht.
 4.	Ergänzend muss es einen Massenexport geben, der entweder auf der manuellen Auswahl in einem Assetpublisher oder auf der Ergebnisliste eines Massenimports beruht.
