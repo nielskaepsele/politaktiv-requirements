@@ -4,9 +4,7 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0150.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0151.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0152.md" %}
-
-### Kartensetup
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0107.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0153.md" %}
 
 ### Marker
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
