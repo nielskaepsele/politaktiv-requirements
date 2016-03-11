@@ -9,6 +9,6 @@ im Assetpublisher eingestellten Auswahl entsprechen.
 
 **Filtern** bedeutet hier Weglassen von Items, die gemäß der vom Moderator eingestellten Auswahl möglich wären.
 
-**Sortieren** hat klassische bedeutung für die übrig gebliebenen Items.
+**Sortieren** hat klassische Bedeutung für die übrig gebliebenen Items.
 
 **Präsentieren** bedeutet hier die Auswahl einer Darstellung aus vom Moderator vorgegebenen möglichen Darstellungen.
