@@ -10,12 +10,12 @@ Die Requirements definieren '''nicht die Methoden''' von [Polit@ktiv](https://ww
 
 Aus diesem Grund werden auch '''nicht die Prozesse''' von [Polit@ktiv](https://www.politaktiv.org) in den Requirements festgelegt. Die Prozesse von [Polit@ktiv](https://www.politaktiv.org) werden hier nur insoweit beschrieben, wie sie erforderlich sind, um die Anforderungen besser zu verstehen.
 
-Die Requirements definieren '''nicht die Konfiguration''' und daher auch nicht alle Module von Polit@ktiv. Die Konfiguration wird nun insofern beschreiben, als sie nur durch Customizing bei der Installation erreicht werden kann. Konfigurationseinstellungen, die durch normale Admin-Tätigkeit auf der Oberfläche erreicht werden kann, wird nicht beschrieben.
+Die Requirements definieren '''nicht die Konfiguration''' und daher auch nicht alle Module von Polit@ktiv. Die Konfiguration wird nur dann beschreiben, wenn sie nur durch Customizing bei der Installation erreicht werden kann. Konfigurationseinstellungen, die durch normale Admin-Tätigkeit auf der Oberfläche erreicht werden kann, wird nicht beschrieben.
 
-Die Requirements definieren und beschreiben '''nur diejenigen Portlets''', die für Polit@ktiv entwickelt oder deren Software angepasst wurden.
+Die Requirements definieren und beschreiben also '''nur diejenigen Portlets''', die für Polit@ktiv entwickelt oder deren Software angepasst wurden.
 
 Die Requirements beschreiben allerdings '''die Schnittstellen''' von Polit@ktiv zu anderen Softwaresystemen, sofern sie neu entwickelt oder abgeändert wurden.
 
 Die Requirements beschreiben daher auch '''nicht das Design''' von [Polit@ktiv](https://www.politaktiv.org) oder legen es gar fest. Vom Design ausgehend werden allerdings Anforderungen an die Navigation in [Polit@ktiv](https://www.politaktiv.org) gestellt.
 
-In den Requirements werden allerdings die '''Rechte der verschiedenen Rollen''' beschrieben und festgelegt.
+In den Requirements werden allerdings zum besseren Verständnis die '''Rechte der verschiedenen Rollen''' beschrieben und festgelegt.
