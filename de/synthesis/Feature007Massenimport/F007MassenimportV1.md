@@ -10,4 +10,4 @@
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0100.md" %}
 
 ## Quelle
-https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/domain/Feature007Massenimport/MassenimportDomainRequiremets.md
+https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/domain/Feature007Massenimport/MassenimportDomainRequirements.md
