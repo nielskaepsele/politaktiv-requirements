@@ -19,6 +19,7 @@
        * [Karte-Version4](synthesis/Feature006Karte/Feature006KarteVersion4.md)
        * [Testbeschreibungen](synthesis/Feature006Karte/GoodCaseTest.md)
    * [OpenGraph](synthesis/Feature004OpenGraph.md)
+   * [Massenimport](synthesis/Feature007Massenimport.md)
    * [CrmOptOut](synthesis/Feature005CrmOptOut.md)
    * [Suchen](synthesis/Feature008Suchen.md)
      * [Anforderungen Fachbereich](domain/Feature008Suchen/Feature008SuchenDomainRequirements.md)
