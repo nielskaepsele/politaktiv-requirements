@@ -1,6 +1,6 @@
 * **Integrata-Stiftung**: Die Stiftung wird vertreten vom Vorstand der Stiftung gemäß Satzung.
-* Projektleiter Integrata-Stiftung: Der Projektleiter von PolitAktiv ist von der Stiftung mit bestimmten Rechten und Weisungsbefugnissen ausgestattet.
-* **Zustifter Mörike**: Der Zustifter Mörike für den Bereich PolitAktiv in der Stiftung hat entsprechende Sonderrechte innerhalb der Stiftung.
+* Projektleiter Integrata-Stiftung: Als Projektleiter für Polit@ktiv ist Michael Mörike von der Stiftung eingesetzt und mit bestimmten Rechten und Weisungsbefugnissen ausgestattet.
+* **Zustifter Mörike**: Als Zustifter hat Michael Mörike Sonderrechte betreffend Polit@ktiv.
 * **Benutzer**: Werden vertreten von der einen oder anderen Persona. Solange diese (noch) nicht beschrieben sind, besteht eine gewisse Verwechslungsgefahr zwischen der Rolle Benutzer und dem Stakeholder Benutzer. Dazu lassen sich auch die Moderatoren der BI.
   * Besondere Benutzer sind die Mitarbeiter der HIT.
 * **Anwender**: Bürgermeister, Gemeinden oder Partner Firmen, die PolitAktiv nuzen. 
