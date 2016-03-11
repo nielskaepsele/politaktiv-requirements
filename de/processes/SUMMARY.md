@@ -10,6 +10,7 @@ Prozesse müssen beschrieben werden, weil verschiedene Rollen damit zu tun haben
 ## Einrichten einer BI                                                        
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc003.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/processes/PrOc004.md" %}
+## Content freigeben
 ## Aktivierende Moderation
 ## Extraktion und Synthese
 ## Nutzung der interaktiven Karte  
