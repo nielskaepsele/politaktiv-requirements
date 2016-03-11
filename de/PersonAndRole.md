@@ -14,4 +14,4 @@ Ein Moderator darf einen Benutzer zum Moderator ernennen in dem Diskussionskreis
 * **Designer**: ein Designer hat den Auftrag, Themes zu gestalten, sowohl für Communities, als auch für einzelne Seiten oder Portlets. Er benötigt dazu bestimmte Rechte, die - Stand 31.3.2016 noch einzurichten sind. 
   * Ein Designer hat nicht das Recht, in bestehende Seiten einzugreifen. Er macht vielmehr Vorschläge, die im weiteren Verlauf des entsprechenden Workflows vom Produktmanagement (Admin) noch abzunehmen sind.
 * **IT-Admin**: Ein Administrator für die Polit@ktiv unterstützende Infrastruktur.
-* **Plattform Owner (PO)**: Der Produktverantwortliche für die Plattform Polit@ktiv. DAs ist bis auf weiteres der Projektleiter für Polit@ktiv.
+* **Plattform Owner (PO)**: Der Produktverantwortliche für die Plattform Polit@ktiv. Das ist bis auf weiteres der Projektleiter für Polit@ktiv.
