@@ -2,6 +2,8 @@
 Es wird eine Suchfunktion benötigt, die es dem Benutzer erlaubt, innerhalb vom Moderator vorgegebenen Grenzen zu suchen, zu filtern, zu sortieren und eventuell in Grenzen auch die Darstellung anzupassen.
 Die vorgegebenen Grenzen können vom Moderator im vorhandenen Assetpublisher einfach und komfortabel definiert werden. Daher bietet es sich an, diesen passend zu erweitern.
 
+Das neue Portlet, das aus dem bestehenden Assetpublisher durch Entwicklung von zusätzliochen Features hervorgeht, heißt **PA-AP**.
+
 **Suchen** bedeutet hier speziell auch Volltextsuche innerhalb der Items, die der vom Moderator
 im Assetpublisher eingestellten Auswahl entsprechen.
 
