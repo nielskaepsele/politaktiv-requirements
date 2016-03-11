@@ -75,6 +75,28 @@ Mögliche Lösung: Kategorien und Tags werden beim Massenimport immer vollständ
 
 Der DK (also die Site) ist festgelegt durch die Instanz des Import-Portlets!!!
 
+# Massenexport und Massenlöschen
+Für den Massenexport werden zwei Versionen benötigt:
+1.	Export gemäß Auswahl wie in einem Assetpublisher.
+2.	Export nach ID des Contents
+
+## Export aus Assetpublisher
+Dazu könnte der für die „Suche“ umgebaute Assetpublisher dienen.
+Er soll einfach einen zusätzlichen Button enthalten, der bewirkt, dass eine Liste alle ID’s angelegt wird, auf die die Auswahl zutrifft. Damit ist der Fall auf den folgenden zweiten Exportfall zurückgeführt, mit dem der Rest der Aufgabe erledigt werden kann.
+Um das Problem mit verschiedenen zugeteilten Structures lösen zu können, soll aber außer der ID eines Contents auch der Name der ihm zugeteilten Structure ausgegeben werden.
+Schon auch wegen diesem Problem mit den Structures muss der Export aus dem Assetpublisher in die beiden Einzelschritte zerlegt werden.
+## Export nach ID’s und Löschen
+Ein Portlet ist zu realisieren, das folgendes kann:
+1. Beruhend auf einer Tabelle mit ID’s werden die Inhalte in eine Tabelle exportiert, die einen Aufbau hat, wie er für den Massenimport benötigt wird.
+Dabei darf die Tabelle nur solche ID’s enthalten, die dieselbe structure nutzen.
+Der Name der structure ist also zum Export anzugeben.
+2.	Beruhend auf einer Tabelle mit den ID’s werden die Contents gelöscht.
+3.	In beiden Fällen ist ein Protokollfile anzulegen.
+4.	In beiden Fällen ist vorher ein Prüflauf durchzuführen, der einen Logfile erzeugt.
+Wenn er Fehler ergibt, wird nichts ausgeführt – ähnlich wie beim Massenimport.
+
+Das Portlet erfüllt einen Nebeneffekt:
+Wenn man eine Auswahl im Assetpublisher angibt, die genau ein einziges Ergebnis hat, erhält man eine (fast) leere Tabelle, die die Importstruktur für einen Massenimport für die gewählte structure hat.
 
 
 
