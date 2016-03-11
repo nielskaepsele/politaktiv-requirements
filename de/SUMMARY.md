@@ -17,7 +17,7 @@
        * [Testbeschreibungen](synthesis/Feature006Karte/006TestCases.md)  
    * [Massenimport](synthesis/Feature007Massenimport.md)
        * [Anforderungen Fachbereich](domain/Feature007Massenimport/MassenimportDomainRequirements.md)
-       * [Massenimport-Version1](synthesis/Feature007MAssenimport/Feature007MassenimportVersion1.md)
+       * [Massenimport-Version1](synthesis/Feature007MAssenimport/F007MassenimportV1.md)
        * [Testbeschreibungen](synthesis/Feature007MAssenimport/007TestCases.md)  
    * [Suchen](synthesis/Feature008Suchen.md)
      * [Anforderungen Fachbereich](domain/Feature008Suchen/SuchenDomainRequirements.md)
