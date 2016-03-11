@@ -8,3 +8,5 @@ Wichtig sind folgende Anwendungsfälle:
  - Die in einer Präsenzveranstaltung gesammelten Beiträge sind einzupflegen.
  - Bei der Extraktion von Aussagen aus den Beiträgen können an einem einzigen Tag hunderte von Extrakten außerhalb von Liferay entstehen, die ebenfalls als Webcontent abgelegt werden sollen.
 
+Das neue Portlet für den massenhaften Import und Export heißt **PA_Mimex-Portlet**.
+
