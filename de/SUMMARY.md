@@ -2,10 +2,9 @@
 
 * [Introduction](README.md)
 * [Ziele und Vision](VisionAndPurpose.md)
-* [Abgrenzung](Scope.md)
+* [Abgrenzung, Entscheidungen](Scope.md)
 * [Prozesse und Abläufe](processes/SUMMARY.md)
 * [Personen, Rollen, Stakeholder](PersonAndRole.md)
-* [Entscheidungen](Decisions.md)
 * [Produkteigenschaften der Plattform Politaktiv](synthesis/Titel.md)
    * [Aktuelles Meinungsbild](synthesis/Feature001AktuellesMeinungsbild.md)
    * [Mailversand](synthesis/Feature002Mailversand.md)
