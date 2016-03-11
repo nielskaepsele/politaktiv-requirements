@@ -10,8 +10,8 @@ Ein Moderator darf einen Benutzer zum Moderator ernennen in dem Diskussionskreis
 * **Vorläufiger Moderator**: Ein Moderator mit reduzierten Rechten. Er wird synonym auch als '''preliminary Moderator''' bezeichnet. 
   * Diese Rolle wird einem Benutzer vergeben, der einen Diskussionskreis für eine Bürgerinitiative einrichtet. 
   * Er hat diese Rolle solange, bis seine Seite  freigeschaltet wird. Danach wird er zum Moderator ernannt (oder seine Seite wird gelöscht und die Rechte werden ihm entzogen).
-* **Admin**: Ein Admin daf alles. Wird synonym auch als '''Administrator''' bezeichnet. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung von der Integrata-Stiftung vergeben werden.
-* **Designer**: ein Designer hat den Auftrag, Themes zu gestalten, sowohl für Communities, als auch für einzelne Seiten oder Portlets. Er benötigt dazu bestimmte Rechte, die - Stand 30.12.13 noch einzurichten sind. 
+* **Admin**: Ein Admin darf alles. Wird synonym auch als '''Administrator''' bezeichnet. Die Rolle eines Admins kann zwar von anderen Admins vergeben werden. Sie darf aber nur mit ausdrücklicher Genehmigung der Integrata-Stiftung vergeben werden. Die Rolle Admin gilt innerhalb Liferay - im Gegensatz zu IT-Admin.
+* **Designer**: ein Designer hat den Auftrag, Themes zu gestalten, sowohl für Communities, als auch für einzelne Seiten oder Portlets. Er benötigt dazu bestimmte Rechte, die - Stand 31.3.2016 noch einzurichten sind. 
   * Ein Designer hat nicht das Recht, in bestehende Seiten einzugreifen. Er macht vielmehr Vorschläge, die im weiteren Verlauf des entsprechenden Workflows vom Produktmanagement (Admin) noch abzunehmen sind.
-* **IT-Admin**: Ein Administrator für die PolitAktiv unterstützende Infrastruktur.
-* **Plattform Owner (PO)**: Der Produktverantwortliche für die Plattform PolitAktiv.
+* **IT-Admin**: Ein Administrator für die Polit@ktiv unterstützende Infrastruktur.
+* **Plattform Owner (PO)**: Der Produktverantwortliche für die Plattform Polit@ktiv. DAs ist bis auf weiteres der Projektleiter für Polit@ktiv.
