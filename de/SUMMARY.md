@@ -7,7 +7,7 @@
    * [Prozess der Requirements Extraktion](RequirementsExtraktion.md)
 * [Personen, Rollen, Stakeholder](PersonAndRole.md)
 * [Anforderungen an Politaktiv](synthesis/Titel.md)
-   * [Aktuelles Meinungsbild](synthesis/Feature001AktuellesMeinungsbild.md)   
+   * [Aktuelles Meinungsbild](synthesis/Feature001AktuellesMeinungsbild.md)
    * [Karte](synthesis/Feature006Karte.md)
        * [Anforderungen Fachbereich](domain/Feature006Karte/KarteDomainRequirements.md)
        * [Karte-Version1](synthesis/Feature006Karte/Feature006KarteVersion1.md)
