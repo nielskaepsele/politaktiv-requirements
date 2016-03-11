@@ -1,17 +1,20 @@
 ## Vision
-PolitAktiv soll als ein Beispiel für die humane Nutzung der IT entwickelt werden.
+Polit@ktiv wird als ein Beispiel für die humane Nutzung der IT entwickelt.
 
-PolitAktiv unterstützt die individuelle Meinungsbildung auf dem Gebiet der Partizipation.
+Polit@ktiv unterstützt die individuelle Meinungsbildung auf dem Gebiet der Partizipation.
 
-PolitAktiv bietet Diskussionskreise an, die Themen im kommunalen Umfeld zum Gegenstand haben.
-
-## Ziele
-PolitAktiv wird Kommunen und Bürgerinitiativen kostenlos zur Verfügung gestellt.
+Polit@ktiv wird Kommunen und Bürgerinitiativen kostenlos zur Verfügung gestellt.
 
 PolitAktiv soll die wichtigste Plattform zur Diskussion von kommunalen Projekten in Deutschland werden.
 
-PolitAktiv soll eine anerkannte Platform zur individuellen Meinungsbildung werden.
+## Ziele
 
-PolitAktiv bindet daher alle Funktionen ein, die:
- * für die individuelle Meinungsbildung hilfreich sein könnten und die
- * im Internet verfügbar gemacht werden können.
+Polit@ktiv soll eine anerkannte Plattform zur individuellen Meinungsbildung werden.
+
+Polit@ktiv bietet Diskussionskreise an, die Themen im kommunalen Umfeld zum Gegenstand haben.
+
+Polit@ktiv unterstützt als Plattform alle Methoden und Prozesse, die der Bürgerbeteiligung dienen.
+
+Polit@ktiv bindet daher alle Funktionen ein, die:
+ * für die individuelle Meinungsbildung hilfreich sein könnten und die*
+ * im Internet für Bürgerbeteiligung verfügbar gemacht werden können.
