@@ -5,7 +5,7 @@ Polit@ktiv unterstützt die individuelle Meinungsbildung auf dem Gebiet der Part
 
 Polit@ktiv wird Kommunen und Bürgerinitiativen kostenlos zur Verfügung gestellt.
 
-PolitAktiv soll die wichtigste Plattform zur Diskussion von kommunalen Projekten in Deutschland werden.
+Polit@ktiv soll die wichtigste Plattform zur Diskussion von kommunalen Projekten in Deutschland werden.
 
 ## Ziele
 
