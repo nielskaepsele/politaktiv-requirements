@@ -17,8 +17,8 @@ Zunächst wird im zugehörigen Editor in einem Verzeichnis des Gitbooks
 Dabei wird zu Beginn des Textes noch ein Linkaufruf auf das Requirement gesetzt. Dieser hat folgendes Format:
   - `[req0123](https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/requirements/req0123.md)` 
 
-als Linkziel (so können einzelne Requirements zukünftig leicht "in place" bearbeitet werden).  
-Danach folgt dann erst der eigentlich Text.
+als Linkziel,damit einzelne Requirements zukünftig leicht "in place" bearbeitet werden können).  
+Erst danach folgt dann der eigentlich Text.
 
 * In Schritt 4 wird der bisherige Text in der Ursprungsdatei, die so immer mehr zu einem Rahmendokument wird, nur noch mit dem zugehörigen Include ersetzt.
 Dieser sieht hier folgendermaßen aus: 
