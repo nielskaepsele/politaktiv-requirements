@@ -10,7 +10,7 @@ der gültige Namenszug lautet: '''Polit@ktiv'''
  * Sind sie ausnahmsweise für andere Versionen gemeint, steht dies explizit im Kopf der Spezifikation
 
 ### Entwicklung mit Open-Source
-Im Gegensatz zur Version 1 des Polit@ktiv-Kartenportlets, das eigens programmiert wurde, sollen alle Entwicklungen künftig möglichst weitgehend aus Open-Source-Teilen aufgebaut werden. Dies ist das zugrunde liegende Prinzip, von dem nur in Ausnahmen abgewichen werden darf, weil es einer Stiftung angemessen ist, die von Spendengeldern finanziert wird..
+Im Gegensatz zur Version 1 des Polit@ktiv-Kartenportlets, das eigens programmiert wurde, sollen alle Entwicklungen künftig möglichst weitgehend aus Open-Source-Teilen aufgebaut werden. Dies ist das zugrunde liegende Prinzip, von dem nur in Ausnahmen abgewichen werden darf, weil es einer Stiftung angemessen ist, die von Spendengeldern finanziert wird. Selbstverständlich werden die entwickelten Teile der Open-Source-Community angeboten.
 
 Die Vorteile sind:
 1. Die Community entwickelt weiter, nicht die Entwicklung von Polit@ktiv
