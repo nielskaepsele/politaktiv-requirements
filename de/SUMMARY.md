@@ -18,6 +18,7 @@
    * [Massenimport](synthesis/Feature007Massenimport.md)
        * [Anforderungen Fachbereich](domain/Feature007Massenimport/MassenimportDomainRequirements.md)
        * [Massenimport-Version1](synthesis/Feature007Massenimport/F007MassenimportV1.md)
+       * [Massenimport-Version2](synthesis/Feature007Massenimport/F007MassenimportV2.md)
        * [Testbeschreibungen](synthesis/Feature007MAssenimport/007TestCases.md)  
    * [Suchen](synthesis/Feature008Suchen.md)
      * [Anforderungen Fachbereich](domain/Feature008Suchen/SuchenDomainRequirements.md)
