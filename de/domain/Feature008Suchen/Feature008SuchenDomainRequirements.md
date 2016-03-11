@@ -1,9 +1,9 @@
-# Ziel
+# Beschreibung aus fachlicher Sicht
+## Ziel
 Es soll eine neue Version des Assetpublisher entwickelt werden, die gestattet, dass ein nicht 
-eingeloggter Benutzer suchen und sortieren kann, ohne dass er die Berechtigung habenmuss, den 
+eingeloggter Benutzer suchen und sortieren kann, ohne dass er die Berechtigung haben muss, den 
 Assetpublisher zu konfigurieren.
 
-# Umfeld
 ## Lösungsansatz: PA-Assetpublisher
 Der Assetpublisher wird herausgelöst und es wird daraus eine zusätzliche Variante des Assetpublisher 
 entwickelt, die zusätzlich zu dem bereits im Standardf-Liferay Funktionsumfang bestehenden (im Folgenden 
