@@ -29,7 +29,6 @@
    * [Workflow](synthesis/Feature003Workflow.md)
    * [OpenGraph](synthesis/Feature004OpenGraph.md)
    * [CrmOptOut](synthesis/Feature005CrmOptOut.md)
-* [Technische Daten](TechnischeAccounts.md)
 * [Glossar](Glossar.md)
 * [Books License](LICENSE.md)
 
