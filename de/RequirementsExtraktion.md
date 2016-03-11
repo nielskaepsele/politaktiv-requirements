@@ -12,6 +12,7 @@ Zunächst wird im zugehörigen Editor in einem Verzeichnis des Gitbooks
   - hier unter https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/
   - und in der Filestruktur unter ->de ->requirements
 eine neue Datei im Format reqXXXX.md angelegt.
+
 Dabei ist XXXX eine vierstellige, fortlaufende Nummer, die noch nicht vergeben ist, z.B. req0123.md.
 
 * In Schritt 3 wird der als "Requirement" identifizierte Textbestandteil in die neue Datei übernommen und gespeichert.
