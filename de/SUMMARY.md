@@ -7,7 +7,7 @@
 * [Prozesse](processes/SUMMARY.md)
 * [Rollen und Personen](PersonAndRole.md)
 * [Entscheidungen](Decisions.md)
-* [Produkteigenschaften der Plattform Politaktiv](synthesis/README.md)
+* [Produkteigenschaften der Plattform Politaktiv](synthesis/Titel.md)
    * [Aktuelles Meinungsbild](synthesis/Feature001AktuellesMeinungsbild.md)
    * [Mailversand](synthesis/Feature002Mailversand.md)
    * [Workflow](synthesis/Feature003Workflow.md)
