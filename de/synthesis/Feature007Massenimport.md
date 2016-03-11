@@ -10,3 +10,5 @@ Wichtig sind folgende Anwendungsfälle:
 
 Das neue Portlet für den massenhaften Import und Export heißt **PA_Mimex-Portlet**.
 
+Es wird vorgeschlagen, das neue Portlet aus dem in Liferay vorhandenen Content-Portlet zu entwickeln, weil dies bereits alle Features enthält die benötigt werden, wenn vom Editor abgesehen wird.
+
